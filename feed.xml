@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>金融プロの朝ラジオ（仮）</title>
+    <title>実務がわかる金融ニュースラジオ</title>
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:05:16 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>金融プロの朝ラジオ</itunes:author>
-    <itunes:owner><itunes:name>金融プロの朝ラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
+    <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
+    <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
