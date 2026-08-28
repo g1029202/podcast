@@ -5,13 +5,44 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 00:48:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:00:19 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#3 日銀「これまで以上に物価の上振れリスクを意識」——9月利上げ織り込み85%と、金利が現場に届くまでの5段階</title>
+      <description>日銀・氷見野副総裁が8月27日、さいたま市の金融経済懇談会で講演し「これまで以上に物価の上振れリスクを意識する必要がある」と明言しました。24ページの講演原稿を読み解きます。中東情勢による原油高・AI関連需要・円安・緩和的な金融環境——この4要因は経済への影響こそ入り混じるものの、物価には4つとも上押しに働く。だから結論が「上振れ」になります。原油の代替調達は必要量比で4月約25%→5月約6割→6月約8割→7月約10割（米国からは前年平月比10倍以上）まで回復。円安は日商アンケートで「金利上昇より影響が大きい」が41.5%（逆は25.6%）、NHK世論調査では悪い影響61%・良い影響22%、市場レート換算の日本経済の規模は1990年代半ばの英国比4倍超から今はほぼ並ぶ。物価は年度後半に2%超が続く見込みで、石油化学製品の川下から消費者への転嫁は「これからが本番」。実務の最大の収穫は波及のタイムラインです——普通預金金利と短期プライムレートの引き上げは利上げの約2か月後が中心、変動型住宅ローンの新規金利はそれより遅く、既存借入への適用はさらに遅れ、5年ルールで返済額が変わるのはそのまた先。企業間取引価格への影響のピークは約3か月後、消費者物価は約半年後、政策効果のピークは1〜2年。市場の9月利上げ織り込みは85%近く（FRBは約4割）。相場は日経平均66,131.98円（-130.18・-0.20%、高値66,954.69／安値65,782.59）、NYダウ53,574.35ドル（+104.99）、S&amp;P500種7,730.86（+0.72%）、ナスダック26,541.35（+411.16・+1.57%）、エヌビディア+8.74%の227.98ドル、10年債2.900%（27日午前）、ドル円159円37-47銭。今夜11時（日本時間）にはウォーシュFRB議長がジャクソンホールで初講演します。
+
+【出典】
+・日本銀行 氷見野良三副総裁「最近の金融経済情勢と金融政策運営」（埼玉県金融経済懇談会・2026年8月27日／講演全文PDF） https://www.boj.or.jp/about/press/koen_2026/ko260827a.htm
+・時事通信「9月会合でも利上げ検討 物価上振れ警戒―氷見野日銀副総裁」 https://www.jiji.com/jc/article?k=2026082700818&amp;g=eco
+・野村総合研究所 木内登英「氷見野日銀副総裁の講演：9月利上げを示唆したか」 https://news.yahoo.co.jp/articles/0ea2d2016c40890b2f0a0dc88f0076773f4a940b
+・日本経済新聞「債券11時 長期金利、一時2.9%に上昇 日銀副総裁の発言は支え」 https://www.nikkei.com/article/DGXZQOFL270P00X20C26A8000000/
+・日本経済新聞「日経平均午前97円安、『エヌビディア祭り』不発 AI投資の鈍化懸念拭えず」 https://www.nikkei.com/article/DGXZQOFL271AFTX20C26A8000000/
+・財経新聞「日経平均大引け：前日比130.18円安の66131.98円」 https://www.zaikei.co.jp/article/20260827/867596.html
+・財経新聞「日経平均寄与度ランキング（大引け）」 https://www.zaikei.co.jp/article/20260827/867612.html
+・InvestingLive「US major indices close higher led by the NASDAQ index」 https://investinglive.com/stocks/us-major-indices-close-higher-led-by-the-nasdaq-index/
+・米商務省経済分析局（BEA）Personal Consumption Expenditures Price Index https://www.bea.gov/data/personal-consumption-expenditures-price-index
+・日本相互証券 主要年限レート（8月26日時点） https://www.bb.jbts.co.jp/ja/historical/main_rate.html
+・外為どっとコム「ドル円午前の為替予想 レンジ継続へ 9月利上げの織り込みはFRB4割、日銀9割」（8月27日） https://www.gaitame.com/media/entry/2026/08/27/073529
+・三井住友DSアセットマネジメント「2026年8月ジャクソンホール会議プレビュー」 https://column.ifis.co.jp/toshicolumn/smam-01/174953
+・NHK「FRBのウォーシュ議長がジャクソンホールで初の講演へ」 https://news.web.nhk/newsweb/na/nd-20260826de46449
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-08-28.mp3" length="13130732" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1641</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#1 日銀9月利上げ織り込み82%と「ベッセント・プット」——押さえ込みは効いたのか</title>
       <description>この夏、日米の当局は金利と為替を力ずくで押さえにかかりました。米財務省は長期国債のバイバックを1回20億→40億ドルへ倍増（9/9〜11/4）。効果は1日で帳消しになり米10年債は4.71%へ逆戻り。7/30-31の日米協調円買い介入は推計11〜12兆円、164円接近から157円台へ振れたものの8/25終値は159円20銭。その結果として残ったのが日銀9月利上げの織り込み82%（7月会合前は23%）です。昨夜のNY市場（ダウ5万3577.17ドル・ナスダック2万6151.30・米10年債4.632%・ブレント原油86.06ドル）から、生保13社の債券含み損30兆円、住友生命の予定利率1.75→2.25%（41年ぶり水準）、変動金利の11月度反映まで、実務への落とし込みを解説します。
