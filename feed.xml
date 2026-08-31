@@ -5,13 +5,50 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 07:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:45:13 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#4 ホルムズ海峡に機雷、原油89ドル台——28年ぶり協調介入から1か月で160円に戻った円</title>
+      <description>週末に相場の前提が動きました。8月30日（日）、米軍がイラン・ラーラク島の発射機2基を攻撃。革命防衛隊がホルムズ海峡へ機雷を積んだロケットを撃つ準備をしていたためで、7月下旬以来の対イラン直接攻撃です。CENTCOMは先週、海峡の国際航路の機雷除去を完了したばかりでした。31日アジア時間でブレント原油は1バレル89ドル台（+1.4%）、WTI84ドル台（+1.3%）。ホルムズ海峡は2022年に日量2,100万バレル＝世界の石油消費の約21%、海上石油貿易の4分の1超が通る要衝です（EIA）。2本目は28日夜のウォーシュFRB議長のジャクソンホール初講演——「基調インフレが目標に向かうと確信できなければまだやるべきことがある」「今の金融環境を引き締め的と表現するのは難しい」「信用市場に抑制効果の兆候はほとんど見られない」。9月0.25%利上げの織り込みは4割弱から約6割へ急上昇し、米2年債は4.36%（+約12bp）、30年債5.2%台。3本目は円です。7月23日に163円99銭（39年8か月ぶり）→7月30日に日本単独介入、31日に日米協調介入（円買いでは1998年6月以来28年ぶり）→3日で155円23銭（最大下落率▲4.6%）。それが1か月で160円09銭に戻りました。1995年以降の協調介入4回のうち単発だった3回は1〜7か月で効果が消え、しかし大局ではトレンド転換の前兆になった——その理由が「協調介入に伴う政策修正圧力」で、その場が本日31日〜9月1日のG20（米ノースカロライナ州アシュビル）です。米国がユーロ売り円買いで参加した理由、FIMAレポ・ファシリティ（1機関600億ドル上限）と「日米通貨同盟の完成形」発言も解説。数字は日経平均66,405.56円（8/28終値・+273.58）→31日は737円安で寄付き、NYダウ53,559.99ドル、SOX指数-412.51、10年債2.920%・30年債4.120%。東京都区部8月CPIはコア+1.8%と7か月連続2%割れですが、保育所保育料-100%（寄与-0.50）を含む数字で、コアコアは+2.0%に復帰、コアも5月の+1.2%を底に4か月連続で加速——「2%割れなのになぜ9月利上げなのか」を数字の中身で説明します。7月鉱工業生産+0.1%（4か月連続上昇・基調判断は一進一退）、中国8月製造業PMI49.8・非製造業49.0も。実務は住宅ローンの波及5段階、年限別の債券、外貨、法人与信の4本です。
+
+【出典】
+・US Forces Strike Two Iranian Launchers on Iran&#x27;s Larak Island（ロイター／U.S. News） https://www.usnews.com/news/world/articles/2026-08-30/us-forces-strike-two-iranian-launchers-on-irans-larak-island-us-official-says
+・Oil rises over 1% after U.S. forces strike Iran&#x27;s Larak Island（CNBC） https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html
+・Shares skid in Asia as oil, yields stay high（ロイター／Investing.com・8月31日） https://au.investing.com/news/economy-news/shares-skid-in-asia-as-oil-yields-stay-high-4622210
+・米エネルギー情報局（EIA）The Strait of Hormuz is the world&#x27;s most important oil transit chokepoint https://www.eia.gov/todayinenergy/detail.php?id=61002
+・〔情報BOX〕ウォーシュ米FRB議長の「ジャクソンホール会議」講演要旨（ロイター／ニューズウィーク日本版） https://www.newsweekjapan.jp/articles/-/332607
+・国際通貨研究所 橋本将司「28年ぶりの日米円買い協調介入の背景と影響」（2026年8月12日・PDF） https://www.iima.or.jp/docs/newsletter/2026/nl2026.43.pdf
+・総務省統計局「2025年基準 消費者物価指数 東京都区部 2026年8月分（中旬速報値）」（8月28日公表） https://www.stat.go.jp/data/cpi/sokuhou/tsuki/pdf/kubu.pdf
+・経済産業省 鉱工業指数（7月分速報・8月31日公表）／共同通信「鉱工業生産、7月は0.1％上昇」 https://www.meti.go.jp/statistics/tyo/iip/result-1.html
+・中国国家統計局「2026年8月中国採購経理指数運行情況」（8月31日公表） https://www.stats.gov.cn/sj/zxfbhjd/202608/t20260831_1965154.html
+・日本相互証券 主要年限レート（8月28日時点） https://www.bb.jbts.co.jp/ja/historical/main_rate.html
+・財経新聞「日経平均大引け：前日比273.58円高の66405.56円」（8月28日） https://www.zaikei.co.jp/article/20260828/867790.html
+・財経新聞「28日の米国市場ダイジェスト：米国株式市場は反落、ウォーシュFRB議長が利上げの可能性示唆」 https://www.zaikei.co.jp/article/20260831/867921.html
+・財経新聞「8/31の強弱材料」 https://www.zaikei.co.jp/article/20260831/867934.html
+・Fisco「日経平均は737円安でスタート」（Investing.com・8月31日） https://jp.investing.com/news/stock-market-news/article-1665246
+・外為どっとコム「ドル円午前の為替予想、協調介入時以来の160円台回復！注目はG20会議」（8月31日） https://www.gaitame.com/media/entry/2026/08/31/075354
+・野村総合研究所 木内登英「G20財務相・中央銀行総裁会議：1ドル160円超えを受けて米国は日本の財政・金融政策に注文か」（8月31日） https://news.yahoo.co.jp/articles/e9d8e9acce84819d68011222751c73e581883ca8
+・2026 Kharg Island attack（今年3月13日の米軍によるイラン軍事施設攻撃の経緯・背景／Wikipedia） https://en.wikipedia.org/wiki/2026_Kharg_Island_attack
+・日本銀行 2026年 金融政策決定会合の日程 https://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+・日本銀行 氷見野良三副総裁「最近の金融経済情勢と金融政策運営」（2026年8月27日） https://www.boj.or.jp/about/press/koen_2026/ko260827a.htm
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-08-31.mp3" length="14243948" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1780</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#3 日銀「これまで以上に物価の上振れリスクを意識」——9月利上げ織り込み85%と、金利が現場に届くまでの5段階</title>
       <description>日銀・氷見野副総裁が8月27日、さいたま市の金融経済懇談会で講演し「これまで以上に物価の上振れリスクを意識する必要がある」と明言しました。24ページの講演原稿を読み解きます。中東情勢による原油高・AI関連需要・円安・緩和的な金融環境——この4要因は経済への影響こそ入り混じるものの、物価には4つとも上押しに働く。だから結論が「上振れ」になります。原油の代替調達は必要量比で4月約25%→5月約6割→6月約8割→7月約10割（米国からは前年平月比10倍以上）まで回復。円安は日商アンケートで「金利上昇より影響が大きい」が41.5%（逆は25.6%）、NHK世論調査では悪い影響61%・良い影響22%、市場レート換算の日本経済の規模は1990年代半ばの英国比4倍超から今はほぼ並ぶ。物価は年度後半に2%超が続く見込みで、石油化学製品の川下から消費者への転嫁は「これからが本番」。実務の最大の収穫は波及のタイムラインです——普通預金金利と短期プライムレートの引き上げは利上げの約2か月後が中心、変動型住宅ローンの新規金利はそれより遅く、既存借入への適用はさらに遅れ、5年ルールで返済額が変わるのはそのまた先。企業間取引価格への影響のピークは約3か月後、消費者物価は約半年後、政策効果のピークは1〜2年。市場の9月利上げ織り込みは85%近く（FRBは約4割）。相場は日経平均66,131.98円（-130.18・-0.20%、高値66,954.69／安値65,782.59）、NYダウ53,574.35ドル（+104.99）、S&amp;P500種7,730.86（+0.72%）、ナスダック26,541.35（+411.16・+1.57%）、エヌビディア+8.74%の227.98ドル、10年債2.900%（27日午前）、ドル円159円37-47銭。今夜11時（日本時間）にはウォーシュFRB議長がジャクソンホールで初講演します。
