@@ -5,13 +5,52 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 02:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:32:18 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#5 米財務長官「日本は円高につながる措置を講じる」——G20当日、9月利上げ織り込み82%の外堀</title>
+      <description>米財務長官が日銀の利上げを事実上求め、その当日に日米財務相が同じ会議場に入りました。ベッセント長官は8月30日のロイター取材で、植田総裁が高市首相の支持を背景に「適切な対応」を取ると期待していると述べ、円相場は「かなり抑制されている」と表現。翌31日には米CNBCで「日本政府と日銀は、円高につながる措置を講じると思っている」「私には市場が持っていない情報がある」と踏み込みました。時事通信によれば「（日銀に）何をすべきか言うつもりはない」とも述べ、独立性に配慮した言い回しは保っています。舞台は8月31日〜9月1日、米ノースカロライナ州アッシュビルのG20財務相・中央銀行総裁会議。日本からは片山さつき財務相と植田和男日銀総裁が出席し、7月31日の28年ぶり日米協調介入の効果と世界的な長期金利上昇を協議する方針です。野村総合研究所の木内登英氏は、協調介入を「円安に苦しむ日本政府をトランプ政権が助けた形」とし、見返りとして「慎重な財政政策」と「日銀の利上げ（または政府が利上げを妨げないこと）」が求められ得ると見ています。日銀の次回会合は9月17〜18日。金利スワップ市場の9月利上げ確率は8月21日時点で約82%（7月会合前は約23%）。現在の政策金利1.0%は6月15〜16日の会合で0.75%から引き上げたもので、1995年以来約31年ぶりの水準です。中東は、8月30日の米軍によるラーラク島攻撃に対し、革命防衛隊がヨルダンのキング・フセイン／アルアズラク両空軍基地へ弾道ミサイルで報復。31日には報道官が米国は「経済、軍事両面で報いを受けることになる」と述べ、経済インフラへの報復を示唆しました。NY原油WTIは1バレル85.76ドル（+2.36ドル）。ホルムズ海峡は2022年に日量2,100万バレル＝世界の石油消費の約21%が通る要衝です（EIA）。市況は日経平均66,311.93円（-93.63円／寄り付きは737円安から戻す）、NYダウ53,185.90ドル（-374.09）、米10年債4.76%（+0.04）、ドル円はNY終値159円60銭。日本の新発国債は2年1.702%・5年2.184%・10年2.907%・20年3.809%と、米金利上昇の日にわずかに低下しました。実務は住宅ローン（短期プライムレート経由・6月利上げが大半の銀行で10月反映という4か月のラグ）、年限別の債券、外貨、法人与信（売上総利益率で見る価格転嫁力）の4本。本日は日本の8月製造業PMIと4〜6月期法人企業統計、米8月ISM製造業、9月4日に米雇用統計が控えます。
+
+【出典】
+・日本は「円高への措置講じる」 米財務長官、利上げに期待か（共同通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/563b54c1e7a9379970a870b9ca542705f7dc5c3d
+・日銀総裁は「正しい判断下す」 米財務長官、利上げ圧力（時事通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/e65170e9420b8221678d4d51ce9305c85b37e2d8
+・ベッセント財務長官、円安対応で日銀の「適切な対応」期待 G20で会談予定（日本経済新聞） https://www.nikkei.com/article/DGXZQOCB310M10R30C26A8000000/
+・片山財務相がG20会合出席へ 31日〜9月1日に米国開催（日本経済新聞） https://www.nikkei.com/article/DGXZQOUA281US0Y6A820C2000000/
+・野村総合研究所 木内登英「G20財務相・中央銀行総裁会議：1ドル160円超えを受けて米国は日本の財政・金融政策に注文か」 https://news.yahoo.co.jp/articles/e9d8e9acce84819d68011222751c73e581883ca8
+・日銀の発言に注目、9月利上げ観測強まる－市場は約8割織り込み（Bloomberg） https://www.bloomberg.com/jp/news/articles/2026-08-23/TK03WRT96OSG00
+・日本銀行 2026年 金融政策決定会合の日程 https://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+・イランがヨルダンの米空軍基地に報復攻撃、米空爆で「犠牲者」（AFPBB News） https://www.afpbb.com/articles/-/3650590
+・米国は「経済、軍事で報い」と革命防衛隊（共同通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/ebc6125ba8f3b15af550a44f0685771ba819feb2
+・NY原油反発、終値85ドル台 供給途絶警戒で買い優勢（共同通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/b838ec71f5bfe692cd14aa851ec154238cfb2fd1
+・米エネルギー情報局（EIA）The Strait of Hormuz is the world&#x27;s most important oil transit chokepoint https://www.eia.gov/todayinenergy/detail.php?id=61002
+・NY株式 31日終値（共同通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/b8508765a0c2e2b3702ad4adec8b0b5eb5a8e69b
+・日経平均大引け：前週末比93.63円安の66311.93円（財経新聞） https://www.zaikei.co.jp/article/20260831/868019.html
+・日経平均は737円安でスタート（財経新聞） https://www.zaikei.co.jp/article/20260831/867941.html
+・8月31日日本国債市場：債券先物は125円97銭で取引終了（財経新聞） https://www.zaikei.co.jp/article/20260831/868020.html
+・日本相互証券 主要年限レート（8月28日時点） https://www.bb.jbts.co.jp/ja/historical/main_rate.html
+・8月31日のNY為替概況（財経新聞） https://www.zaikei.co.jp/article/20260901/868053.html
+・NY外為：ドル軟調、米資産市場はトリプル安（財経新聞） https://www.zaikei.co.jp/article/20260901/868051.html
+・米国10年国債利回り（Trading Economics・2026年8月31日時点） https://jp.tradingeconomics.com/united-states/government-bond-yield
+・住宅ローン金利2026年8月の最新動向（モゲチェック） https://mogecheck.jp/articles/show/51rzNy7XEJ5o4mQ6ZkVv
+・来週の相場で注目すべき3つのポイント：G20、米ISM製造業景気指数、米雇用統計（財経新聞） https://www.zaikei.co.jp/article/20260829/867872.html
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-01.mp3" length="12584300" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1573</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#4 ホルムズ海峡に機雷、原油89ドル台——28年ぶり協調介入から1か月で160円に戻った円</title>
       <description>週末に相場の前提が動きました。8月30日（日）、米軍がイラン・ラーラク島の発射機2基を攻撃。革命防衛隊がホルムズ海峡へ機雷を積んだロケットを撃つ準備をしていたためで、7月下旬以来の対イラン直接攻撃です。CENTCOMは先週、海峡の国際航路の機雷除去を完了したばかりでした。31日アジア時間でブレント原油は1バレル89ドル台（+1.4%）、WTI84ドル台（+1.3%）。ホルムズ海峡は2022年に日量2,100万バレル＝世界の石油消費の約21%、海上石油貿易の4分の1超が通る要衝です（EIA）。2本目は28日夜のウォーシュFRB議長のジャクソンホール初講演——「基調インフレが目標に向かうと確信できなければまだやるべきことがある」「今の金融環境を引き締め的と表現するのは難しい」「信用市場に抑制効果の兆候はほとんど見られない」。9月0.25%利上げの織り込みは4割弱から約6割へ急上昇し、米2年債は4.36%（+約12bp）、30年債5.2%台。3本目は円です。7月23日に163円99銭（39年8か月ぶり）→7月30日に日本単独介入、31日に日米協調介入（円買いでは1998年6月以来28年ぶり）→3日で155円23銭（最大下落率▲4.6%）。それが1か月で160円09銭に戻りました。1995年以降の協調介入4回のうち単発だった3回は1〜7か月で効果が消え、しかし大局ではトレンド転換の前兆になった——その理由が「協調介入に伴う政策修正圧力」で、その場が本日31日〜9月1日のG20（米ノースカロライナ州アシュビル）です。米国がユーロ売り円買いで参加した理由、FIMAレポ・ファシリティ（1機関600億ドル上限）と「日米通貨同盟の完成形」発言も解説。数字は日経平均66,405.56円（8/28終値・+273.58）→31日は737円安で寄付き、NYダウ53,559.99ドル、SOX指数-412.51、10年債2.920%・30年債4.120%。東京都区部8月CPIはコア+1.8%と7か月連続2%割れですが、保育所保育料-100%（寄与-0.50）を含む数字で、コアコアは+2.0%に復帰、コアも5月の+1.2%を底に4か月連続で加速——「2%割れなのになぜ9月利上げなのか」を数字の中身で説明します。7月鉱工業生産+0.1%（4か月連続上昇・基調判断は一進一退）、中国8月製造業PMI49.8・非製造業49.0も。実務は住宅ローンの波及5段階、年限別の債券、外貨、法人与信の4本です。
