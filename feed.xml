@@ -5,13 +5,60 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 21:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 23:27:37 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#10 日経平均1378円高でも値下がり銘柄56.9%——3銘柄で約1093円、米国休場日に「指数だけ」が動いた</title>
+      <description>指数が上がった日ほど、上がった中身を確かめる回です。
+
+9月7日の日経平均株価は6万6399円84銭、前営業日比1378円90銭高（+2.12%）。取引時間中は上げ幅を1600円超まで広げる場面もありました（日本経済新聞）。ところが同じ日のTOPIXは4125.80pt、22.57pt高（+0.55%）にとどまり、東証プライムの値上がり銘柄は40.7%・値下がりは56.9%（財経新聞）。指数が2%上がった日に、半分より多くの銘柄は下がっていました。売買代金は8兆377億円。
+
+分解すると、財経新聞の寄与度ランキングはソフトバンクグループ+504.44円、アドバンテスト+335.49円、東京エレクトロン+253.43円。この3銘柄だけで約1093円、上げ幅1378円のおよそ8割を作っています。
+
+そこでメインは「日経平均という株価指数の設計」。日本経済新聞社の『日経平均株価 算出要領』（2025年7月24日作成）から一次情報で読みます。①東証プライム上場225銘柄の株価を使う価格平均指数であること②構成銘柄の株価に「株価換算係数」を乗じた採用株価の合計を「除数」で割って算出すること③1銘柄のウエートが一定水準を超えたときに影響力を一時的に引き下げる「キャップ調整比率」があり、そのキャップ水準は導入時（2022年10月）12%、2023年10月から11%、2024年10月以降の定期見直しでは10%とされていること。上限を段階的に厳しくしてもなお、株価の高い数銘柄が同じ方向に動く日は指数がその数銘柄の日誌になる、という構図を数字で確認します。
+
+歴史も同じ資料から。算出開始は1950年9月7日（昨日でちょうど76年）、1949年5月16日まで遡及計算、1970年以降は日本経済新聞社が算出。2001年10月の額面制度廃止までは50円額面の水準に調整し、廃止後は「みなし額面」で引き継ぎ、2021年10月1日に現在の株価換算係数へ置き換えられました。日経平均は「日本株を正確に測る物差し」というより「1950年からの連続性を保ちながら市場を映してきた物差し」だと整理します。
+
+買われた理由は、米マイクロン・テクノロジーが先端メモリーを増産するとの報道を手がかりにAI関連産業の成長期待が相場を支えたこと（日本経済新聞）。キオクシアホールディングスなど半導体株が買われ、ソフトバンクグループは6217円・627円高（+11.22%）。登場4社を「メモリーを作る／できたものを検査する／作る装置を売る／そこに投資する」の関係で解説し、ひとつの報道が4社を同時に押し上げる回路を説明します。なお9月7日の米国市場はレーバーデーで休場（NYSE取引日程）。新しい米国材料がない日に、ひとつのテーマだけで指数が2%動いた形です。日経VIは21.86、5.33安（-19.60%）と大幅低下（財経新聞）。
+
+ほかの市場は一方向ではありませんでした。ロイターによれば9月7日のブレントは97.31ドル（+1.03ドル）、WTIは92.65ドル（+1.17ドル）でともに6週間ぶりの高値。直近10日のホルムズ海峡の通航は1日平均10隻と5月以降で最少で、ゴールドマン・サックスは海上での攻撃が激化すれば120ドルの可能性を示しました。一方でドル円は早朝156円28銭から夕方154円30銭まで下落し、17時時点は155円00-10銭（財経新聞）。原油高でも円高という日です。国内金利は新発10年物2.906%・20年物3.733%と小動きでした。
+
+実務は3点。①日経平均連動の投信・変額保険をお持ちのお客様への「日本株に幅広く分散」という説明は正確ではなく、株価の高い数銘柄への集中を含むこと（TOPIX型との違いを、同じ日の+2.12%と+0.55%という実例で示す）②外貨建て商品は「原油高だから円安」のような一本の線ではなく、日本側の利上げ観測と米側の政策の綱引きという構造で説明すること③日程の前倒し。今朝8時30分に7月の毎月勤労統計、8時50分に4-6月期GDP改定値（1次速報は前期比+0.3%・年率+1.1%で3四半期連続プラス）と7月の国際収支。10日にECB理事会と日銀審議委員の講演、11日に米8月CPI、来週15〜16日にFOMC、17〜18日に日銀金融政策決定会合。結果が出てから名簿を作ると後手に回るため、住宅ローン変動金利の利用者と外貨建て商品の保有者の棚卸しは今週のうちに終えておく、という話をします。
+
+【出典】
+・日経平均大引け：前週末比1378.90円高の66399.84円（財経新聞） https://www.zaikei.co.jp/article/20260907/868954.html
+・日経平均は大幅続伸、買い一巡後は高値圏でもみ合う展開（財経新聞） https://www.zaikei.co.jp/article/20260907/868962.html
+・日経平均終値1378円高 半導体買い、投資家は「雇用統計よりマイクロン」（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB062EPTW6A900C2000000/
+・日経平均寄与度ランキング（大引け）〜ソフトバンクGとアドバンテストの2銘柄で約839円押し上げ（財経新聞） https://www.zaikei.co.jp/article/20260907/868966.html
+・日経平均株価 算出要領 GB-101-J-20250724（株式会社日本経済新聞社・2025年7月24日作成） https://indexes.nikkei.co.jp/nkave/archives/file/nikkei_stock_average_guidebook_jp.pdf
+・日経VI：大幅に低下、取引時間中は原油価格や金利の高止まりを警戒（財経新聞） https://www.zaikei.co.jp/article/20260907/868965.html
+・9月7日日本国債市場：債券先物は126円01銭で取引終了（財経新聞） https://www.zaikei.co.jp/article/20260907/868955.html
+・東京為替：ドル・円は大幅安、夕方にかけて急落（財経新聞） https://www.zaikei.co.jp/article/20260907/868971.html
+・Oil prices rise to six-week highs on worsening Middle East conflict（ロイター／MarketScreener掲載） https://www.marketscreener.com/news/oil-prices-rise-to-six-week-highs-on-worsening-middle-east-conflict-ce785bdbdd8cf42d
+・NYSE Holidays and Trading Hours（ニューヨーク証券取引所） https://www.nyse.com/trade/hours-calendars
+・アドバンテストの強み（株式会社アドバンテスト 企業情報） https://www.advantest.com/ja/about/why-advantest/
+・今日の注目スケジュール：GDP、国際収支(経常収支)、中貿易収支など（財経新聞） https://www.zaikei.co.jp/article/20260908/868984.html
+・4〜6月の実質GDP年率1.1%増 3四半期連続プラス（日本経済新聞） https://www.nikkei.com/article/DGXZQOUA122YX0S6A810C2000000/
+・日本銀行 公表予定（9月10日 審議委員挨拶／9月17〜18日 金融政策決定会合） https://www.boj.or.jp/about/calendar/index.htm
+・FOMC Calendar（米連邦準備制度理事会） https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-08.mp3" length="15116012" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1259</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#9 米雇用16万2000人増で9月利上げ確率58%——それでもドル円は155円台、日米ダブル会合前の最終週</title>
       <description>来週にFRB（9月15〜16日）と日銀（9月17〜18日）の会合を控え、判断材料だけが先に出そろう週の入り口です。
