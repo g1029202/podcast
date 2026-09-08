@@ -2,16 +2,34 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ゆるっとマネーニュース</title>
-    <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
+    <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 23:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:26:28 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#7 お給料が物価に追いついた7か月——その数字が、円まで動かした</title>
+      <description>きょうは3本立てです。1本目はお給料。昨日の朝に出た7月分の統計で、実質賃金が前の年の同じ月とくらべてプラス2.4パーセント、7か月続けてのプラスになりました。お給料の増え方から物の値段の上がり方を差し引いた数字がプラス、というのは、下りのエスカレーターの上でようやく上に進めている状態のこと。ただしこれは全国を集めた平均なので、うちはどうかは去年の同じ月の給与明細とよく買うものの値段で確かめる、というところまでお話しします。2本目は円。昨日、円が一時1ドル152円台をつけ、2月の中旬以来およそ半年ぶりの円高になりました。動かしたきっかけのひとつが、1本目のお給料の統計です。国が今年およそ27兆円を使っても越えられなかった線を、統計ひとつが越えた一日でした。3本目は原油。中東で石油の施設が攻撃され、6営業日続けて上がって3か月ぶりの高値です。円高で仕入れが軽くなる方向と、原油高で重くなる方向の綱引きが、同じお財布の中で起きています。「ちょこっと解説」は、実質賃金がプラスなら、もう暮らしは楽になった？——まる、ばつのクイズでほどきます。
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-09-09.mp3" length="9195884" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>766</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#6 円が半年ぶりの高さに——数日で6円、私たちの買い物にはいつ届くのか</title>
       <description>きょうは3本立てです。1本目は円の値段。昨日9月7日の夕方、円が一時1ドル154円台をつけ、2月下旬以来およそ半年ぶりの円高になりました。先週は一時160円台でしたから、数日で6円ほど動いたことになります。ドルの値札のたとえでお話しします。日本は小麦も大豆もコーヒーも、電気やガスの燃料も外から買っていますから、円が高いほうへ動くのは仕入れの負担が軽くなる方向。ただし店先の値段に表れるまでには半年ほどの時間差があります。ですから、これから出てくる値上げは少し前の為替の分。外貨で運用するものをお持ちの方には逆風の場面ですが、為替は行ったり来たりするもの。円に直した今日の数字ではなく「いつ使うお金か」から決めてください。2本目は日本の金利。国が長くお金を借りるときの金利が2.9%近くまで上がってきました。金利はお金のレンタル料。同じニュースでも、借りている人と預けている人では意味が逆になります。すでに固定金利で借りている方は、契約したときの金利のままで動きません。きょうできることは、ご自分がどこにいくら置いていて何%の利息がついているかを、通帳か銀行の画面で一度見てみることだけです。3本目は昨日の株。日経平均が先週末比1378円高の6万6千円台、率にすると2%あまり上がりました。ただし日経平均の「円」はお財布の円ではなく、ものさしの目盛りです。体温計のたとえで、金額ではなく率で受け取る見方をお話しします。「ちょこっと解説」は「円高・円安」。1ドル160円と154円、円高はどちら？——数字が小さいほうが円は強い、をクイズ形式でほどきます。
