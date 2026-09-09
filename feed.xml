@@ -5,13 +5,33 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:33:32 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#12 買い戻し3倍でも米10年金利は4.83%へ——日米の長期金利が逆に動いた日</title>
+      <description>9月9日、米財務省は10日実施の国債買い戻し（バイバック）を最大60億ドルと発表しました。直前の長期債オペの3倍ですが、市場の一部は70〜100億ドルを見込んでおり、失望から米10年債利回りは4.83%（取引途中4.85%と2023年11月以来の高水準）、30年債は5.28%へ上昇。NBCニュースはスタンレー・ドラッケンミラー氏の警告として「当局が値段を守っていると市場が信じた瞬間、金利上昇はすべて当局の本気度を試す動きに変わる」との見方を伝えています。米財務省の8月19日の発表文によれば、買い戻しの対象は残存10〜20年と20〜30年で、期間は9月9日〜11月4日。日本経済新聞は「ベッセント・プット」と呼ばれる一方、債務全体の平均残存期間が短くなる副作用と、効果は一時的との専門家の見方を伝えています。
+
+同じ日、日本の長期金利は逆に低下しました。新発10年国債利回りは一時2.865%と8月26日以来の低水準（前日比0.020%低下）。日本経済新聞は、円高の進行と高市早苗政権の積極財政への過度な懸念後退を理由に挙げています。日経平均株価は6万5142円78銭（前日比126円55銭安・-0.19%）、TOPIXは4046.64。財経新聞によれば値下がり銘柄は900超で全体の6割近く、出来高は約23億株。上昇は非鉄金属・石油石炭製品・鉱業など16業種、下落は証券商品先物・サービス・小売・保険など17業種でした。
+
+米国はダウ工業株30種平均が5万2380ドル66セント（405ドル41セント安）と3日続落。NY原油のWTI10月物は前日比3.02ドル高の1バレル96.05ドルと7営業日続伸し、5月下旬以来約3か月半ぶりの高値（共同通信）。米国とイランのホルムズ海峡周辺での攻撃応酬が材料です。NY市場のドル円は153円09銭まで下落後153円80銭まで戻して引けました（財経新聞）。実務の落とし込みは①外貨建て保険・外国債券の保有者と新規購入者で説明が反転する点②生命保険会社の債券評価と商品条件のズレ、ヘッジコスト③住宅ローンの固定・変動、いずれも9月17〜18日の日銀金融政策決定会合（日銀公表日程）待ちであること。
+
+【出典】米財務省プレスリリース sb0607 https://home.treasury.gov/news/press-releases/sb0607 ／米財務省 Daily Treasury Par Yield Curve Rates https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve ／NBCニュース https://www.nbcnews.com/business/economy/bessent-treasury-bonds-repurchase-rcna596819 ／ロイター・ブルームバーグ・CNBC（買い戻し60億ドル）／日本経済新聞（長期金利2.865% https://www.nikkei.com/article/DGXZQOUB092LD0Z00C26A9000000/ ／ベッセント・プット https://www.nikkei.com/article/DGXZQOFL19BJQ0Z10C26A8000000/ ）／財経新聞（大引け https://www.zaikei.co.jp/article/20260909/869265.html ／クロージング https://www.zaikei.co.jp/article/20260909/869291.html ／NY為替概況 https://www.zaikei.co.jp/article/20260910/869318.html ）／共同通信（NY株式・NY原油）／日本銀行 金融政策決定会合日程 https://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-10.mp3" length="14620076" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1218</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#11 27兆円の介入で割れなかった155円が、賃金統計で割れた——円は半年ぶり152円台、日経平均1130円安</title>
       <description>力ずくで動かなかった水準が、政策の見通しで動いた一日です。
