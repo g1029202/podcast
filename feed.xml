@@ -5,13 +5,49 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 01:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:31:27 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#14 週間総括：1009円安の裏で月曜からは2388円安——原油8%高が世界の長期金利をまとめて押し上げた週</title>
+      <description>土曜のきょうは、2026年9月7日から11日までの一週間の総括です。
+
+【今週の数字】日経平均株価は前週末の6万5020円94銭から金曜終値6万4011円34銭へ、週間1009円安。2週続けての1000円超の下げです（株探・日本経済新聞）。ただし週の高値は月曜で、9月7日は前週末比1378円90銭高の6万6399円84銭（ミクロンの先端メモリ増産報道を受けた半導体買い・財経新聞）。そこから金曜までは2388円下げており、週間の数字と体感がずれた週でした。10年もの国債の利回りは月曜2.930%・週なかば2.880%（日本相互証券）から金曜2.980%へ、取引中に一時3.000%。ドル円は前週末155円34銭→金曜NY終値153円24銭で、途中9月8日の東京市場で152円台（約半年ぶりの円高水準）をつけて戻す一往復でした。
+
+【今週を動かした材料3本】①9月8日朝の日本の統計2本——厚生労働省の毎月勤労統計（7月分速報）で現金給与総額43万6401円・前年同月比+4.7%（55か月連続プラス）、実質賃金+2.4%（7か月連続プラス・参考の消費者物価は+2.2%）。同じ朝に内閣府の4-6月期GDP2次速報が前期比+0.4%・年率+1.4%（1次速報は+0.3%・年率+1.1%）へ上向きに修正され、設備投資の減少幅が▲1.2%から▲0.9%へ縮小、3期連続のプラス成長。7〜8月の15兆円規模の円買い介入でも止まらなかった円安が、統計2本で152円台まで反転した週です。②原油——北海ブレントは月曜の清算値97.31ドルから金曜104.61ドルへ、週間で8%超の上昇。金曜の取引中には4か月ぶり高値109.97ドルをつけ、そこから約2.9%反落しました（ロイター）。米国とイランの攻撃のやり取りとホルムズ海峡の輸送制約が背景です。日銀が9月11日朝に公表した8月の国内企業物価指数は前年比+7.6%（前月比▲0.2%）で3か月連続の7%台ですが、石油・石炭製品は前年比+17.6%→+14.7%へ減速、輸入物価は円ベース前月比▲3.0%。今週の100ドル超えはこの数字にまだ入っておらず、反映は10月中旬公表の9月分から。主役は非鉄金属（前年比+43.3%・銅、アルミニウム合金、金地金）と情報通信機器（+19.5%）へ交代しています。③世界の長い金利——米10年債利回りは金曜4.96%、一時4.99%台と約3年ぶりの高さ。日本2.987%、オーストラリア5.386%、ニュージーランド5.06%が同じ日にそろって上昇しました（ロイター）。きっかけは米8月CPIで、前月比+0.4%・前年比+3.4%は予想どおりだったものの、コアが前月比+0.3%と予想を0.1ポイント上回り、9月利上げの織り込みは約67%から85%前後へ。ミシガン大消費者信頼感指数速報値は47.8（予想51.0）で、1年先の期待インフレ率は4.6%でした。金曜の東京は日経平均1259円61銭安の6万4011円34銭で約1か月ぶり安値、売買代金8兆7129億円、値下がり986・値上がり509。ただしトピックスは▲0.65%で日経平均の▲1.93%とは差があり、上げも下げも半導体の一角が作った週でした。米国株は金曜こそS&amp;P500が+0.86%と反発しましたが、週間ではS&amp;P500▲0.8%、ダウ▲1.6%です。
+
+【実務への含意】①外貨建て——今週の円高は一往復。方向ではなく幅で説明する②住宅ローン——上がったのは長い金利で、変動金利が見るのは短い金利。日銀が動く→銀行が基準金利を見直す→毎月の返済分が変わる、の時間差を会合の前に説明しておく③一時払い・予定利率——見るのは長い金利で、今週は2.93→2.88→2.98と往復。「利上げ＝予定利率上昇」は不正確。法人には原油に連動する契約の約4か月のラグを先に伝える。
+
+【来週の宿題】①米FOMCは9月15〜16日（日本時間17日未明）。今回は3か月ごとの経済見通し（SEP）が付く回で、利上げの有無よりその先の水準②日銀金融政策決定会合は9月17〜18日。0.25%利上げはほぼ織り込み済みで、焦点は声明文と会見の「その次」③変動金利のお客様と外貨建て商品をお持ちのお客様の一覧を、会合の前に手元に出しておく。
+
+【出典】
+・厚生労働省 毎月勤労統計調査 2026年7月分結果速報（2026年9月8日公表） https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2607p/2607p.html
+・内閣府 2026年4〜6月期四半期別GDP速報（2次速報値） https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/gaiyou/pdf/main_1.pdf
+・日本銀行 企業物価指数（2026年8月速報） https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf
+・日本相互証券 主要年限レート ヒストリカルデータ https://www.bb.jbts.co.jp/ja/historical/main_rate.html
+・東証大引け 日経平均が大幅反落 1カ月ぶり安値（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL115480R10C26A9000000/
+・日経平均大引け：前週末比1378.90円高の66399.84円（財経新聞） https://www.zaikei.co.jp/article/20260907/868954.html
+・9月11日のNY為替概況（財経新聞） https://www.zaikei.co.jp/article/20260912/869751.html
+・Global bonds fall as surging oil prices inflame inflation risks（ロイター） https://au.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4637914
+・＜週末コメント＞来週の相場展望 2026年9月11日（株探） https://s.kabutan.jp/news/n202609111024/
+・Market Review: September 11, 2026（Investrade） https://investrade.com/market-review-september-11-2026/
+・FOMC Meeting Calendars（米連邦準備制度理事会） https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・日本銀行 金融政策決定会合の日程 https://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-12.mp3" length="14847308" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1237</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#13 企業物価7.6%の主役が原油から銅と半導体へ——103ドルの原油はまだこの数字に入っていない</title>
       <description>今朝8時50分、日銀が8月の企業物価指数を公表しました。国内企業物価指数は136.1で前年比+7.6%（7月は+7.7%）、3か月連続の7%台です。ただし前月比は-0.2%。足元の勢いはむしろ落ちています。
