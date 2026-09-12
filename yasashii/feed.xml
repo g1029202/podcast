@@ -5,13 +5,39 @@
     <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 22:27:20 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#11 来週のカレンダー——木曜はアメリカ、金曜は日本銀行。その翌日から5連休です</title>
+      <description>日曜日のきょうは、来週9月14日から18日の予定を、前もってのぞいておきます。予定は日付つきでお伝えしますが、結果は決めつけません。
+
+一つ目は、17日（木）の午前3時（日本時間）に出るアメリカの金利の結論。ロイター通信によると、市場では利上げの見方が8割を超えていますが、8割は降水確率のようなもの。上がった場合に、円とドルの関係からスーパーの棚の値段までどうつながるのかを、一本だけたどります。
+
+二つ目は、18日（金）の朝8時半に総務省が出す、全国の8月の物価の数字。7月は生鮮食品を除いて前の年より1.8パーセントの上昇でした。100万円の預金で買えるものが、1年で1万8千円ぶん少なくなる上がり方です。9月の飲食料品の値上げは4923品目で今年最多（帝国データバンク）。
+
+三つ目は、同じ18日の午後に出る日本銀行の結論。日本経済新聞と毎日新聞は、金利を1パーセントから1.25パーセントに上げる方針と報じています（決まるのは18日の会合です）。住宅ローンの変動金利は、決まった日と返済額が変わる日がずれます。前回の例では、12月の発表が返済に出てきたのは5月や7月の返済分からでした。19日（土）〜23日（水）は5連休で、次の平日は24日（木）。振り込みや窓口の手続きは18日までに。
+
+今月の締切のコーナーは、10月1日から予定されているパートの社会保険の変更（月8万8千円の賃金要件の撤廃・週20時間以上・従業員51人以上の勤め先）。9月のうちに、週の労働時間と勤め先からの案内を確かめておきましょう。
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-09-13.mp3" length="10730924" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>894</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#10 今週のおさらい——石油が、世界の金利を動かした一週間でした</title>
       <description>土曜日のきょうは、この一週間のおさらいです。月曜から金曜まで、ばらばらに見えた三つの話が、じつは一本の線でつながっていた週でした。
