@@ -5,13 +5,75 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:29:35 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#15 来週の実務カレンダー：FOMCは85%織り込み、日銀は1.25%報道——結論の翌日から東京は5連休</title>
+      <description>日曜のきょうは、来週9月14日から18日の実務カレンダーです。アメリカと日本の中央銀行が同じ週に続けて結論を出し、日銀の結論の翌日から東京市場は5連休に入ります。
+
+【来週の日程（公式日程で確認できたもの）】
+・16日（水）8:50 内閣府 機械受注統計（7月実績）
+・16日（水）21:30 米国8月小売売上高（米国勢調査局）。市場予想は前月比+0.9%、7月は-0.6%（財経新聞）
+・15〜16日 米FOMC。結果発表は日本時間17日午前3時、ウォーシュ議長会見は午前3時半。3か月ごとの経済見通し（SEP）が付く回
+・17日（木）8:50 日銀 資金循環統計（4〜6月期速報）
+・17日（木）20:00 イングランド銀行 政策金利発表（現在3.75%）
+・17〜18日 日銀金融政策決定会合。18日に結論、植田総裁会見は15:30から（東証の取引終了時刻）
+・18日（金）8:30 総務省 全国消費者物価指数（8月分）
+・18日（金）夜 ウォーラーFRB理事が経済見通しについて話す予定
+・19日（土）〜23日（水）5連休。21日敬老の日、22日休日（祝日法第3条第3項）、23日秋分の日。18日の次の営業日は24日（木）
+
+【注目イベント1：FOMC】誘導目標は3.50〜3.75%。7月は9対3の据え置きで、反対3人は全員が利上げを主張。ウォーシュ議長は8月末のジャクソンホール講演で、夏の物価が予想より落ち着いても基調が十分改善したとは言えないと述べ、講演前に7割近かった据え置き観測が逆転。8月CPIは前月比+0.4%、コア+0.3%（予想+0.2%）で、利上げ織り込みは約67%→約85%（ロイター）。米10年債利回りは金曜4.96%、一時4.99%台で約3年ぶり高水準。6月のSEPでは2026年末の政策金利中央値3.8%、コアPCE見通し3.3%。利上げなら焦点は年末中央値の上振れの有無、据え置きなら織り込みの巻き戻しと独立性への疑念という見方も（Fisco）。結果は断定しません。
+
+【注目イベント2：日銀】日本経済新聞・毎日新聞は政策金利を1.0%→1.25%へ引き上げる方針と報道（実現すれば1995年以来の水準、6月から3か月で今回局面最短の間隔）。国際通貨研究所の9月9日レポートは、7月末の日米協調介入を契機に利上げ観測が強まったと整理し、利上げ後のペースが織り込みより緩やかと受け止められれば円が再び下落しうると指摘。全国コアCPIは7月+1.8%、東京都区部8月速報はコア+1.8%・生鮮食品及びエネルギーを除く総合+2.0%（総務省）。一方で8月の国内企業物価は前年比+7.6%（日銀）。植田総裁は基調的な物価上昇率が2%にかなり近づいているとし、上振れリスクに一段と注意すると発言。日銀の委員は9月10日の講演で中立金利の推計レンジを1.1〜2.5%と示しました。
+
+【週明けの準備】①住宅ローン変動金利：決定日と返済額が変わる日はずれる。三菱UFJ銀行の例では、2025年12月19日の短期プライムレート引き上げ発表→2026年3月1日に基準金利見直し→毎月型は5月、年2回型は7月の返済分から反映。元利均等返済は5年ルールで返済額不変。6月会合を受けた短プラ引き上げ（2.125%→2.375%）は8月3日実施②外貨建て：2日足らずで日米の会合が続くため、方向でなく幅で説明③一時払い・予定利率：見るのは長期金利。日本の10年もの国債利回りは金曜2.98%、一時3.00%。「利上げ＝予定利率上昇」は不正確。解約・送金などの手続きは連休前に日程確認を。
+
+【出典】
+・FOMC Meeting Calendars（米連邦準備制度理事会） https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・Federal Reserve Board September 2026 calendar https://www.federalreserve.gov/newsevents/2026-september.htm
+・Advance Monthly Retail Sales release schedule（米国勢調査局） https://www.census.gov/retail/release_schedule.html
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・政府統計の総合窓口 e-Stat 公表予定 https://www.e-stat.go.jp/release-calendar
+・内閣府「国民の祝日」について https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+・日本取引所グループ 内国株の売買制度 https://www.jpx.co.jp/equities/trading/domestic/01.html
+・Bank of England Upcoming MPC dates https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+・国内外の注目経済指標：FOMCを控え米消費指標に高い注目（財経新聞） https://www.zaikei.co.jp/article/20260912/869802.html
+・Global bonds fall as surging oil prices inflame inflation risks（ロイター） https://au.investing.com/news/economy-news/global-bonds-fall-as-surging-oil-prices-inflame-inflation-risks-4637914
+・FOMC July 2026 Implementation Note（米連邦準備制度理事会） https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a1.htm
+・FOMC Summary of Economic Projections, June 2026（FRED Blog） https://fredblog.stlouisfed.org/2026/06/fomc-summary-of-economic-projections-june-2026/
+・FOMC September 2026 Odds for a Rate Hike（Yahoo Finance） https://finance.yahoo.com/economy/policy/articles/fomc-september-2026-odds-rate-201618784.html
+・Wall Street thought the hiking cycle was over（Fortune） https://fortune.com/2026/09/11/inflation-fed-reserve-kevin-warsh/
+・来週・再来週の相場で注目すべき3つのポイント（Fisco／Investing.com） https://jp.investing.com/news/forex-news/article-1678322
+・日銀、9月政策金利1.25%へ（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/
+・2026年9月金融政策決定会合の注目点（国際通貨研究所 久後翔太郎） https://www.iima.or.jp/docs/column/2026/ei2026.26.pdf
+・植田日銀総裁、利上げは9月含め毎回の決定会合でしっかり議論（Bloomberg／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/063ef648e6d59027ec3fc0d70b5dbc820dfa178c
+・日銀 植田総裁 利上げは9月会合含め毎回会合で議論（NHK） https://news.web.nhk/newsweb/na/nd-20260902de47787
+・消費者物価指数 全国 2026年7月分（総務省統計局） https://www.stat.go.jp/data/cpi/sokuhou/tsuki/pdf/zenkoku.pdf
+・消費者物価指数 東京都区部 2026年8月分（中旬速報値）（総務省統計局） https://www.stat.go.jp/data/cpi/sokuhou/tsuki/pdf/kubu.pdf
+・日本相互証券 主要年限レート ヒストリカルデータ https://www.bb.jbts.co.jp/ja/historical/main_rate.html
+・東証大引け 日経平均が大幅反落 1カ月ぶり安値（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL115480R10C26A9000000/
+・企業物価指数（2026年8月速報）日本銀行 https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf
+・【挨拶】増審議委員「わが国の経済・物価情勢と金融政策」（2026年9月10日）日本銀行 https://www.boj.or.jp/about/press/koen_2026/ko260910a.htm
+・短期プライムレートの改定について（2026年6月16日）三菱UFJ銀行 https://www.bk.mufg.jp/news/news2026/pdf/news0616.pdf
+・【住宅ローン】変動金利の基準金利見直しについて（三菱UFJ銀行） https://www.bk.mufg.jp/info/hendoukinri3.html
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-13.mp3" length="13824044" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1151</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#14 週間総括：1009円安の裏で月曜からは2388円安——原油8%高が世界の長期金利をまとめて押し上げた週</title>
       <description>土曜のきょうは、2026年9月7日から11日までの一週間の総括です。
