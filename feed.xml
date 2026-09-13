@@ -5,13 +5,62 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:30:40 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#16 GPIFの「4等分」は動くか：7年ぶりの8月経営委員会と10年金利3%、国内債30%なら約15兆円の試算</title>
+      <description>日銀とFOMCが続く週の月曜は、その陰で進む公的年金の運用の話です。
+
+【週末の動き】金曜のNY原油先物（WTI10月物）は1バレル100.05ドル（-2.43ドル）で9営業日ぶりに反落。イランと湾岸諸国がホルムズ海峡の安全な通航を協議すると伝わったためでした（共同通信）。ところが週末、オマーンのブサイディ外相が14日予定の会合の延期を表明（「合意を優先するため」）。バーレーンはイランとの国交回復まで出席しないとしていました。土曜夜にはゲシュム島付近でイランの商業船が攻撃を受け1人死亡・4人負傷（CNN）。金曜の東京は日経平均6万4011円（-1259円）、NYダウは原油安を好感して5万2573ドル（+509ドル）。日本の10年もの国債利回りは2.98%。15日（火）には20年もの国債の入札（7月債の追加発行・発行予定額7000億円程度・財務省）があります。
+
+【本題：GPIFの基本ポートフォリオ】GPIFの運用資産は6月末で317兆7596億円。現在の基本ポートフォリオは国内債券・外国債券・国内株式・外国株式に25%ずつ（2025年4月適用、乖離許容幅は国内債券±6%）。国内債券は2006年〜2013年6月の67%から、60%、2014年10月の35%、2020年4月の25%へと下げられてきました。運用目標は名目賃金上昇率+1.9%で、策定時の試算の一つでは国内債券だけの運用は実質-0.8%でした。
+
+その前提を変えつつあるのが金利です。新発10年国債利回りは9月2日に3%を超え1996年以来の水準に。8月31日公表の議事次第で、GPIF経営委員会が8月21日（第126回）に開かれ、報告事項の最初に「基本ポートフォリオ検証等PTにおける議論について」が載っていたことが判明しました。大和総研の塩村賢史氏は、8月開催は5年に1度の見直しを議論した2019年以来7年ぶりで、3月6日の第119回で「見直しの検討は必要ない」と報告されてから5か月での再議論は「極めて異例」と指摘。見直しへの一歩の可能性は否定できない一方、検討した事実を残す目的の可能性もあるとし、次回の議事次第が手掛かりになる、見直しが決まっても移行完了後に公表される流れもありうると整理しています。
+
+片山財務相は7月10日の会見で、GPIFをはじめとする年金基金による日本の金融資産への投資を後押しする方策を追求したいと発言。第一ライフ資産運用経済研究所の奥田宏二氏は、国内投資を増やす手段を①乖離許容幅の活用②国内オルタナティブ（2025年度末1.74%、上限5%）③基本ポートフォリオ改定の3つに整理。4〜6月の国内債券の買い越しは推計約5.7兆円と2021年度以降で最大ですが、株高・債券安（四半期収益率：国内株式+14.48%、外国株式+16.94%、国内債券-1.11%）に伴うリバランスで運用姿勢の変化はないとの見立てです。同氏の試算では国内債券30%で約15兆円、35%で約29兆円の外貨売り・円買いに相当（国内債券市場の規模・流動性の考慮も必要）。ベッセント米財務長官の「胴元」発言（9月8日）をGPIF見直しと結びつける見方は推測の域です。
+
+【実務】①「年金の運用は大丈夫か」には4〜6月の収益24兆895億円・累積年率4.95%で答え、見直し観測は「問題発生」ではなく「金利環境の変化による点検」と説明②円建て一時払いの予定利率は長期金利で決まる。国債の買い手が増えれば長期金利を抑える方向の力だが、見直しは未決定なので方向を断定しない③外貨建ては円高材料が一つ増えた位置づけ。日銀会合と重なるため幅で説明④バランス型投信の「年金と同じ4等分だから安心」という説明は見直す⑤変動金利は政策金利、GPIFの話が響くのは固定金利の元になる長期金利。
+
+【出典】
+・NY原油、9日ぶりに反落 100ドル台、供給不安やや後退（共同通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/a125c0940a0ba747eb89b39f4631f2ae1bbf3a63
+・Hormuz Meeting With Iran and Gulf Nations Postponed, Oman Says（Bloomberg） https://www.bloomberg.com/news/articles/2026-09-13/hormuz-meeting-with-iran-and-gulf-nations-postponed-oman-says
+・Iran says Hormuz meeting with Gulf states postponed at request of regional countries（investingLive） https://investinglive.com/commodities/iran-says-hormuz-meeting-with-gulf-states-postponed-at-request-of-regional-countries/
+・Bahrain says it will not participate in Iran&#x27;s proposed Hormuz meeting（Al Jazeera） https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting
+・Iran reports commercial vessel struck in Strait of Hormuz（CNN／KVIA） https://kvia.com/news/us-world/cnn-world/2026/09/13/iran-reports-commercial-vessel-struck-in-strait-of-hormuz/
+・NY株式：NYダウは509.19ドル高、原油安を好感（財経新聞） https://www.zaikei.co.jp/article/20260912/869752.html
+・日米そろって利上げの週、下値の節目はSQ値6万3039円｜週間金融市場展望（世界一やさしい投資の学校） https://tbladvisory.com/2026091418weekly/
+・20年利付国債（9月債）の発行予定額等（財務省・令和8年9月8日公表） https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260908.htm
+・2026年度の運用状況（GPIF） https://www.gpif.go.jp/operation/the-latest-results.html
+・基本ポートフォリオの考え方（GPIF） https://www.gpif.go.jp/gpif/portfolio.html
+・第5期中期目標期間における基本ポートフォリオについて～詳細～（GPIF） https://www.gpif.go.jp/gpif/15324685gpif/5th_policy_asset_mix_details_jp.pdf
+・GPIFの基本ポートフォリオ策定（資本市場2025年6月号・GPIF） https://www.gpif.go.jp/investment/capitalmarkets_478_ronbun_takeuchi.pdf
+・経営委員会の状況 2026年度上半期（GPIF） https://www.gpif.go.jp/operation/board/2026.html
+・GPIF経営委員会の8月開催が意味すること（大和総研 塩村賢史・2026年9月1日） https://www.dir.co.jp/report/research/capital-mkt/asset/20260901_026029.html
+・GPIF資産構成見直し観測強まる、異例8月会合が思惑呼ぶ－7年ぶり（Bloomberg／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/45bb262fc952df8a4576a8f5dd1d6743e14c8b64
+・GPIFに国内投資拡大の余地はあるのか（第一ライフ資産運用経済研究所 奥田宏二・2026年7月14日） https://www.dlri.co.jp/report/asset/634288.html
+・GPIFの基本ポートフォリオを再検証する～国内債券比率引き上げの可能性～（同・2026年7月28日） https://www.dlri.co.jp/report/asset/634707.html
+・GPIF、国内債券を大きく買い越すも運用姿勢は変わらず？（同・2026年8月17日） https://www.dlri.co.jp/report/asset/645333.html
+・国内投資強化でもGPIF基本ポートフォリオの即時見直しなし（JAPAN.co.jp／ロイター報道） https://japan.co.jp/reports/japan-gpif-no-immediate-asset-allocation-overhaul-2026.html
+・ベッセント長官、円売りに賭けるトレーダーをけん制「胴元は私だ」（Bloomberg／Yahoo!ニュース） https://news.yahoo.co.jp/articles/d9427743a54c50e9dca96da8f42c71ae06c2b656
+・ベッセント米財務長官が把握する「日本の政策」はGPIF見直しか（ザイFX!／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/57d8b1cd7330a37859e48c3c7d930de679bc827d
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-14.mp3" length="13588172" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1132</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#15 来週の実務カレンダー：FOMCは85%織り込み、日銀は1.25%報道——結論の翌日から東京は5連休</title>
       <description>日曜のきょうは、来週9月14日から18日の実務カレンダーです。アメリカと日本の中央銀行が同じ週に続けて結論を出し、日銀の結論の翌日から東京市場は5連休に入ります。
