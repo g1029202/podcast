@@ -5,13 +5,37 @@
     <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 22:27:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:30:24 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#12 年金のお金の「四等分」、点検が始まったかもしれません——決まったことは、まだ一つもありません</title>
+      <description>きょうは3本立てです。1本目は、国の年金の積立金の話。厚生年金と国民年金の、すぐには払わない分を運用しているジーピーアイエフのお金は、6月末で317兆円あまり。いまは日本の債券・外国の債券・日本の株・外国の株に同じ割合ずつの「四等分」です。ふだんは開かない8月に配分を決める会議が開かれ、配分の基本の形を検証するチームの議論が報告されていたことが分かりました。日本の10年もの国債の利回りが9月2日に3パーセントを超えるなど、金利の環境が変わったことが背景と見られていますが、見直しはまだ決まっていません。運用の成績がそのまま翌月の年金の振込額に出る仕組みではないこともお話しします。
+
+2本目は株。先週金曜の日経平均は1259円下がりましたが、割合にすると2パーセントほど。100万円ぶんなら2万円ほどの大きさです。3本目は石油の続き。金曜に値段が下がるきっかけになったホルムズ海峡をめぐる話し合いが、延期になりました（オマーンの外務大臣が表明）。海峡を通る船の量は、紛争前より9割ほど少ない状態が続いています（CNN）。
+
+「ちょこっと解説」は、金利が上がると、すでに持っている債券の値段は上がる？下がる？——クイズでほどきます。
+
+【出典】GPIF「2026年度の運用状況」「基本ポートフォリオの考え方」「経営委員会の状況」／大和総研「GPIF経営委員会の8月開催が意味すること」（2026年9月1日）／共同通信（NY原油、9日ぶりに反落）／Bloomberg（ホルムズ会合の延期）／CNN／株探・財経新聞（9月11日の株式市場）
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-09-14.mp3" length="10577708" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>881</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#11 来週のカレンダー——木曜はアメリカ、金曜は日本銀行。その翌日から5連休です</title>
       <description>日曜日のきょうは、来週9月14日から18日の予定を、前もってのぞいておきます。予定は日付つきでお伝えしますが、結果は決めつけません。
