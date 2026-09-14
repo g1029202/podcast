@@ -5,13 +5,37 @@
     <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 22:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:28:36 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#13 石油の「代わりの道」が止まりました——日本が買う原油の半分あまりは、サウジアラビアから</title>
+      <description>きょうは3本立てです。1本目は、サウジアラビアの国を東西に横切る原油のパイプライン。ホルムズ海峡を通らずに済む「代わりの道」でしたが、9月10日に攻撃を受けて稼働が止まりました。日本が輸入する原油のうち中東からは95.1パーセント、サウジアラビア1か国で54.1パーセント（2026年1月の石油統計速報）。毎日食べるお米の半分以上を一軒のお米屋さんから買っていて、その裏道が通行止めになったような状態です。値段が上がり続けると決まったわけではないので、慌てて買いだめをせず、電気とガスの明細を先月の分と並べて見ることをおすすめします。
+
+2本目は株。14日の日経平均は518円下がりましたが、東証プライム市場では78パーセントの会社の株価が上がっていました。下げを作ったのは株価の高い2社で、きっかけはAI開発の「ペースを落とそう」という呼びかけでした。3本目は、アメリカの10年もの国債の金利が一時5パーセントに届いた話。ドルの値札と円のお財布の違いをお話しします。
+
+「ちょこっと解説」は、日経平均は東京の株の市場のすべての会社から計算している？——クイズでほどきます。
+
+【出典】日本経済新聞（NT倍率が1カ月半ぶり低水準・日銀9月会合）／財経新聞（9月14日の日経平均大引け・NY株式）／ロイター（サウジのパイプライン停止）／アイ・エヌ情報センター（石油統計速報2026年1月の分析）／AFP＝時事・ITmedia NEWS（AI開発のペース調整）／CNBC（米10年国債の金利が5%に到達・トランプ大統領の発言）／米労働統計局（8月CPI）／日本経済新聞社「日経平均株価 算出要領」／JPX総研「TOPIX算出要領」
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-09-15.mp3" length="10187180" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>848</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#12 年金のお金の「四等分」、点検が始まったかもしれません——決まったことは、まだ一つもありません</title>
       <description>きょうは3本立てです。1本目は、国の年金の積立金の話。厚生年金と国民年金の、すぐには払わない分を運用しているジーピーアイエフのお金は、6月末で317兆円あまり。いまは日本の債券・外国の債券・日本の株・外国の株に同じ割合ずつの「四等分」です。ふだんは開かない8月に配分を決める会議が開かれ、配分の基本の形を検証するチームの議論が報告されていたことが分かりました。日本の10年もの国債の利回りが9月2日に3パーセントを超えるなど、金利の環境が変わったことが背景と見られていますが、見直しはまだ決まっていません。運用の成績がそのまま翌月の年金の振込額に出る仕組みではないこともお話しします。
