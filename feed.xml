@@ -5,13 +5,58 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 21:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:32:42 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#17 日経平均518円安でもプライム78%が上昇：AI開発「ペース調整」でソフトバンクG11%安、NT倍率15.64倍へ</title>
+      <description>日経平均は下げたのに、東証プライムの78%は値上がり。AI開発の「ペース調整」発言が、日経平均とトピックスを逆に動かした日を読み解きます。
+
+【市況】14日の日経平均は6万3492円（-518円）、TOPIXは4058.21（+29.91）。ソフトバンクGとアドバンテストの2銘柄で日経平均を約718円押し下げ（ソフトバンクG約564円・アドバンテスト約154円）。NYダウは5万2421ドル（-152ドル）、ナスダック総合は-146ポイント。半導体・銀行が下げ、ソフトウェア・メディアは上昇。サウジアラビアの東西パイプライン（ヤンブー港まで日量約400万バレル）が10日の攻撃で稼働停止し、ロイターは世界供給の最大4%喪失の恐れと報道。日本の原油輸入は2026年1月速報で中東95.1%・サウジ54.1%（資源エネルギー庁）。10年もの国債利回り2.967%、20年もの3.801%。ドル円は154円台前半。
+
+【今週の日程】15日 20年利付国債（7月債の追加発行・発行予定額7000億円程度・財務省）の入札。FOMCは15〜16日、結果は日本時間17日午前3時（市場は利上げを9割超織り込み・財経新聞）。日銀は17〜18日、日経・共同などが1.25%への利上げ方針と報道。19〜23日は東京市場が5連休。
+
+【本題】アンソロピックのアモデイCEOが12日、最先端AIの能力向上のペースを落とすべきとの文章を公開し、OpenAIのアルトマンCEOとxAIのマスク氏が賛同。アルトマン氏はフォーチュン誌に年内は上場しない考えを示しました。ソフトバンクGはOpenAIへの累計投資が646億ドル・持ち分約13%見込み（ブルームバーグ）で、株価は11%安の5839円。一方、AIによる置き換え懸念の後退でソフトウェア・コンテンツ株が買われ、NT倍率は15.64倍と7月29日以来の低水準（日本経済新聞）。日経平均は価格平均型（1銘柄の構成比率上限10%）、TOPIXは浮動株時価総額加重（上限10%・初回の定期入替は2026年10月最終営業日）という算出方法の違いから解説します。
+
+【実務】①投信：日経平均連動かTOPIX連動かを先に確認②変額保険：国内株式型の特別勘定の目安指数③円建て一時払い：長期金利と20年債入札・日銀④住宅ローン：変動は政策金利、固定は長期金利⑤連休前に外貨建て保険の解約・送金の日程確認。
+
+【出典】
+・日経平均大引け（財経新聞） https://www.zaikei.co.jp/article/20260914/869962.html
+・日経平均寄与度ランキング（大引け）（財経新聞／フィスコ） https://www.zaikei.co.jp/article/20260914/869973.html
+・NT倍率が1カ月半ぶり低水準 プライム8割上昇、コンテンツ株に資金（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB1469H0U6A910C2000000/
+・ソフトバンクG株が急落、AI開発減速懸念やOpenAI年内上場見送り報道（Bloomberg／Yahoo!ニュース） https://news.yahoo.co.jp/articles/52c5de511128d8585e6c5f718656bd7751093a20
+・デイリーZAi 9月14日号（ダイヤモンド・ザイ／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/39f1cf0184919ee3d2e70f9ab182ed8511c561c9
+・AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2609/13/2000001432/
+・アンソロピックCEO、AI開発の減速呼びかけ アルトマン氏とマスク氏も同意（AFP＝時事／Yahoo!ニュース） https://news.yahoo.co.jp/articles/0a96bb38b1894ac89a41d18161a2e39ff528cf31
+・NY株式：NYダウは152.09ドル安、原油高やAI減速を警戒（財経新聞） https://www.zaikei.co.jp/article/20260915/869998.html
+・9月14日のNY為替・原油概況（ザイFX!） https://zai.diamond.jp/articles/-/495603
+・サウジのパイプライン停止で輸出在庫枯渇、世界供給の4％喪失も（ロイター／dメニューニュース） https://topics.smt.docomo.ne.jp/article/reuters/world/reuters-20260914009
+・石油統計速報2026年1月の分析（アイ・エヌ情報センター） https://www.indb.co.jp/insight/economydata_2603_sekiyukannrenn/
+・9月14日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20260914/869964.html
+・20年利付国債（9月債）の発行予定額等（財務省） https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260908.htm
+・日銀、9月政策金利1.25%へ（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/
+・Federal Reserve Board September 2026 calendar https://www.federalreserve.gov/newsevents/2026-september.htm
+・日経平均株価 算出要領（日本経済新聞社） https://indexes.nikkei.co.jp/nkave/archives/file/nikkei_stock_average_guidebook_jp.pdf
+・東証指数算出要領（TOPIX編）（JPX総研） https://www.jpx.co.jp/markets/indices/line-up/files/cal2_30_topix.pdf
+・アドバンテスト 会社情報（アドバンテスト） https://www.advantest.com/ja/news/2025/2025100602.html
+・「国民の祝日」について（内閣府） https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-15.mp3" length="13479596" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1123</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#16 GPIFの「4等分」は動くか：7年ぶりの8月経営委員会と10年金利3%、国内債30%なら約15兆円の試算</title>
       <description>日銀とFOMCが続く週の月曜は、その陰で進む公的年金の運用の話です。
