@@ -5,13 +5,56 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 01:54:34 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#18 日本の長期金利3.049%・米10年債5.17%：日米そろって「物価を抑える側」へ、住宅ローンと保険の説明はどう変わるか</title>
+      <description>日本の長期金利は3%台に定着、アメリカの10年もの国債は5%台と2007年以来の高さに。日米の中央銀行がそろって「物価を抑える側」に回った意味と、住宅ローン・保険・債券の実務への影響を整理します。
+
+【市況】25日の日経平均は6万6364円（+850円・5日続伸）、TOPIXは4128.59（+53.29）。AI・半導体株、日米の金利上昇を受けた銀行株、9月末の配当の権利取りが買われました。NYダウは5万1828ドル（+478ドル）と4日ぶり反発。イランが条件つきで「ホルムズ海峡を7日以内に開放」と提案し原油が下落。ただし週明けロイターはトランプ大統領が提案を拒否と報道、北海ブレントは105ドル台に反発。片山財務大臣とベッセント財務長官が円の過小評価は問題との認識を確認し、ドル円は157円台前半へ円高。
+
+【本題】日本の10年もの国債利回りは3.049%（9月1日に1996年以来の3%到達）、2年ものは1.914%。米10年ものは24日に5.18%、25日5.17%。FRBは9月16日に政策金利を3.75〜4.00%へ引き上げ（全会一致）、日銀は18日に1.25%へ引き上げ（2人反対）。植田総裁は「政策の局面が変化した」。10月FOMCの追加利上げ織り込みは約66%（ロイター）。9月の米総合PMIは58.4。
+
+【実務】①住宅ローン：変動は10月の基準金利見直し、固定は長期金利（メガバンク10年固定平均3.84%・モゲチェック）②円建て一時払い：予定利率に追い風③外貨建て：利回りと為替を必ずセットで④債券・債券投信：満期までの長さと保有期間で説明を組み立てる。
+
+【今週の予定】28日 9月末の権利付き最終日、29日 権利落ち日、10月1日 日銀短観、2日 米9月雇用統計（日本時間21時30分）。次回日銀会合は10月29・30日。
+
+【出典】
+・日経平均大引け（財経新聞） https://www.zaikei.co.jp/article/20260925/871232.html
+・日経平均大引け 5日続伸（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL254TJ0V20C26A9000000/
+・NYダウの振り返り（OANDA証券） https://www.oanda.jp/lab-education/market_news/2026_09_28_us30/
+・9月25日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20260925/871233.html
+・米10年債利回り5%台に急上昇（財経新聞） https://www.zaikei.co.jp/article/20260926/871302.html
+・長期金利3%、30年ぶり高さ（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB010UI0R00C26A9000000/
+・FOMC Statement, September 16, 2026（FRB） https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+・総裁記者会見 2026年9月18日（日本銀行） https://www.boj.or.jp/about/press/kaiken_2026/kk260924a.pdf
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・Dollar falls as oil eases, yen rallies on Japan remarks（ロイター／MarketScreener） https://www.marketscreener.com/news/dollar-falls-as-oil-eases-yen-rallies-on-japan-remarks-ce785adfde8ff025
+・Oil heads higher as US-Iran peace talks in stalemate（ロイター／MarketScreener） https://www.marketscreener.com/news/oil-heads-higher-as-us-iran-peace-talks-in-stalemate-ce785adcd880f024
+・イラン外相「ホルムズ海峡を7日以内に開放」（日本経済新聞） https://www.nikkei.com/article/DGXZQOGR25ADD0V20C26A9000000/
+・片山財務相「円の過小評価は問題と再確認」（日本経済新聞） https://www.nikkei.com/article/DGXZQOUA25AXU0V20C26A9000000/
+・日米財務相が電話会談（Bloomberg） https://www.bloomberg.com/jp/news/articles/2026-09-25/TLXA0TT9NJLS00
+・9月末権利確定銘柄について（野村證券） https://www.nomura.co.jp/onlineservice/news/trading/2026/202609kenri.html
+・住宅ローン金利 2026年9月の動向（モゲチェック） https://mogecheck.jp/articles/show/51rzNy7XEJ5o4mQ6ZkVv
+・Schedule of Releases for the Employment Situation（米労働統計局） https://www.bls.gov/schedule/news_release/empsit.htm
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-28.mp3" length="13675436" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1139</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#17 日経平均518円安でもプライム78%が上昇：AI開発「ペース調整」でソフトバンクG11%安、NT倍率15.64倍へ</title>
       <description>日経平均は下げたのに、東証プライムの78%は値上がり。AI開発の「ペース調整」発言が、日経平均とトピックスを逆に動かした日を読み解きます。
