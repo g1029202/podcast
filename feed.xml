@@ -5,13 +5,61 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 01:54:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:30:12 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#19 2年金利1.975%で31年半ぶり、5年は過去最高：日銀の「次の利上げ」を市場が読み始めた</title>
+      <description>日本の2年もの国債利回りが1.975%と31年半ぶりの高さ、5年ものは過去最高に。中くらいの年限の金利が動いた意味を「2階建て」で整理し、10月か12月かで揺れる日銀の追加利上げ観測と、住宅ローン・保険・債券の実務への影響をお話しします。
+
+【市況】28日の日経平均は6万5877円（-486円・6日ぶり反落）。保険・銀行株は上昇。NYダウは5万1481ドル（-347ドル）、ナスダックは0.92%安。トランプ大統領がイランのホルムズ海峡再開案を拒否したと報じられ、北海ブレントは108ドル超へ。米10年もの国債利回りは5.25%を上回る場面。三村財務官の発言で一時156円62銭まで円高。29日は9月末の権利落ち日。
+
+【本題】新発10年もの国債は一時3.095%、5年ものは2.401%。日銀は9月18日に政策金利を1.25%へ（賛成7・反対2）。FRBは9月16日に3.75〜4.00%へ引き上げ、10月の追加利上げ確率は約7割（ロイター）。日銀の10月利上げ確率は3割近く、12月までは9割超（日本経済新聞・24日時点）。国内勢には「まずは為替介入」との見方も。
+
+【今週の予定】10月1日 日銀短観（大企業製造業の予測平均プラス26・前回22）、30日 米個人消費支出、10月2日 米9月雇用統計（日本時間21時30分）。次回日銀会合は10月29・30日。
+
+【実務】①住宅ローン：三菱UFJ銀行は12月1日に変動の基準金利を見直し、毎月型は2027年2月の返済から反映 ②保険：第一生命は10月1日から保険金等を預けておく場合の利率を0.3%→0.85%へ ③債券：満期まで持つか途中で売るかで説明を分ける ④外貨建て：利回りと為替をセットで。
+
+【出典】
+・日経平均は6日ぶり反落（財経新聞） https://www.zaikei.co.jp/article/20260928/871471.html
+・日経平均寄与度ランキング（財経新聞） https://www.zaikei.co.jp/article/20260928/871479.html
+・9月28日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20260928/871468.html
+・債券15時 長期金利、一時3.095%に上昇（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL2838B0Y6A920C2000000/
+・中期債利回りが一段と上昇、2年債2%迫る（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB283XH0Y6A920C2000000/
+・中期金利に上昇圧力 5年債利回り過去最高（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB243JN0U6A920C2000000/
+・日銀年内利上げ観測、再び高まる（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL190FNTZ10C26A9000000/
+・ささやかれる日米連続10月利上げ 国内勢は懐疑的（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL282AETY6A920C2000000/
+・金融市場調節方針の変更について 2026年9月18日（日本銀行） https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf
+・短観（要旨）2026年6月（日本銀行） https://www.boj.or.jp/statistics/tk/yoshi/tk2606.htm
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・製造業景況感、改善か 短観民間予測（時事通信／nippon.com） https://www.nippon.com/ja/news/yjj2026092500994/
+・8月の企業サービス価格3.7%上昇（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB256AT0V20C26A9000000/
+・米国株概況（みんかぶ） https://fx.minkabu.jp/news/380115
+・NY債券オープン（みんかぶ） https://fx.minkabu.jp/news/380093
+・三村財務官発言（みんかぶ） https://fx.minkabu.jp/news/380081
+・9月28日のNY為替概況（財経新聞） https://www.zaikei.co.jp/article/20260929/871497.html
+・Dollar near two-month high as US-Iran stalemate bolsters oil, Fed rate hike bets（ロイター／MarketScreener） https://www.marketscreener.com/news/dollar-near-two-month-high-as-us-iran-stalemate-bolsters-oil-fed-rate-hike-bets-ce785adcdc8cfe2d
+・U.S. 10 Year Treasury tops 5.25%（Seeking Alpha） https://seekingalpha.com/news/4647652-us-10-year-treasury-tops-525-as-yields-continue-to-climb
+・今週の重要イベント（ライブドアニュース） https://news.livedoor.com/article/detail/32423967/
+・変動金利の基準金利見直しについて（三菱UFJ銀行） https://www.bk.mufg.jp/info/hendoukinri5.html
+・すえ置金等の利率の改定について（第一生命保険） https://www.dai-ichi-life.co.jp/company/news/pdf/2026_013.pdf
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-29.mp3" length="14036012" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1169</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#18 日本の長期金利3.049%・米10年債5.17%：日米そろって「物価を抑える側」へ、住宅ローンと保険の説明はどう変わるか</title>
       <description>日本の長期金利は3%台に定着、アメリカの10年もの国債は5%台と2007年以来の高さに。日米の中央銀行がそろって「物価を抑える側」に回った意味と、住宅ローン・保険・債券の実務への影響を整理します。
