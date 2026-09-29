@@ -5,13 +5,52 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 21:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:27:50 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#20 米消費者信頼感81.9で10月利上げは五分五分へ：あすの日銀短観と「物価高・景気弱」のねじれ</title>
+      <description>アメリカで「物価は強いのに景気の指標は弱い」ねじれが表面化。9月の消費者信頼感の指数は81.9（予想89.0）、8月の求人件数は707.9万件と予想を下回り、NY連銀ウィリアムズ総裁の「急ぐ必要はない」発言で10月の利上げ確率は約5割へ。あす10月1日の日銀短観の見どころと、実務への落とし込みをお話しします。
+
+【市況】29日の日経平均は6万5481円（-396円・続落、一時1100円超安）。配当落ち分は約380円の試算で実質小幅安。TOPIXは1.72%安の4041ポイント、値下がり1318銘柄。新発10年もの国債利回りは3.090%、2年ものは1.945%。40年債入札は「強め」。NYダウは5万1349ドル（-131ドル）、米10年もの国債利回りは一時5.27%台。原油はサウジのパイプライン修復と米戦略石油備蓄の追加放出で反落。ドル円は156円98銭〜157円60銭。
+
+【本題】ウィリアムズ総裁は年内遅い時期にもう1回の利上げが適切になりうるとしつつ、年末のインフレ率約3.5%・2%回帰は2028年の見通し。FRBは9月16日に3.75〜4.00%へ引き上げ済み。次の山場は10月2日の米9月雇用統計。日銀短観は大企業製造業プラス26（前回22）、非製造業プラス37横ばいの予測（第一生命経済研究所）。企業の物価見通しと企業金融にも注目。次回日銀会合は10月29・30日。
+
+【実務】①10月1日開始の「保険料調整制度」：新たに社会保険に加入する短時間労働者の保険料を通算3年間軽減（月収8.8万円の例で本人負担1万2500円→6250円、事業主の一時負担は後で全額控除、年金額は減らない）②権利落ち日の説明（9月末が基準日、28日が権利付き最終日）③外貨建て：高い利回りと為替・途中売却時の値下がりをセットで。
+
+【出典】
+・東証大引け 日経平均は続落 米株安や配当落ちなど重荷、一時1100円安（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL294ND0Z20C26A9000000/
+・日経平均大引け（財経新聞） https://www.zaikei.co.jp/article/20260929/871604.html
+・米半導体株安の流れに加え配当落ち影響も【クロージング】（財経新聞） https://www.zaikei.co.jp/article/20260929/871619.html
+・9月29日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20260929/871611.html
+・債券12時50分 長期金利、3.090%に上昇 40年債入札は「強め」（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL290LQ0Z20C26A9000000/
+・ダウ平均は続落 本日も10年債利回りは上昇＝米国株概況（みんかぶ） https://fx.minkabu.jp/news/380254
+・9月29日のNY為替・原油概況（ダイヤモンドZAi） https://zai.diamond.jp/articles/-/496425
+・9月29日のNY為替概況（財経新聞） https://www.zaikei.co.jp/article/20260930/871656.html
+・FRBニューヨーク総裁、今年あと1回の利上げを予想も急がず（Investing.com） https://jp.investing.com/news/economy-news/article-1695892
+・Fed rate hike odds tumble to coin flip after Williams says no rush（Seeking Alpha） https://seekingalpha.com/news/4648192-fed-rate-hike-odds-tumble-to-coin-flip-after-williams-says-no-rush
+・FOMC声明 2026年9月16日（FRB） https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+・日銀短観予測（2026年9月調査）（第一生命経済研究所） https://www.dlri.co.jp/report/macro/655048.html
+・AI需要で企業景況感は改善も、物価上昇が個人消費の逆風に（NRI研究員の時事解説／Yahoo!ニュース） https://news.yahoo.co.jp/articles/277ede2a7b2a1eaa9093546bc770b9f5684ef5c2
+・保険料調整制度のご案内（日本年金機構） https://www.nenkin.go.jp/tokusetsu/hokenryochosei.html
+・短時間労働者の社会保険料負担を支援する制度が始まります（日本年金機構チラシ） https://www.nenkin.go.jp/tokusetsu/santei.files/tirashi_tyouseiseido.pdf
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-09-30.mp3" length="13881932" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1156</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#19 2年金利1.975%で31年半ぶり、5年は過去最高：日銀の「次の利上げ」を市場が読み始めた</title>
       <description>日本の2年もの国債利回りが1.975%と31年半ぶりの高さ、5年ものは過去最高に。中くらいの年限の金利が動いた意味を「2階建て」で整理し、10月か12月かで揺れる日銀の追加利上げ観測と、住宅ローン・保険・債券の実務への影響をお話しします。
