@@ -5,13 +5,51 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 21:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:53:28 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#21 日銀短観、大企業製造業プラス24・非製造業は5期ぶり悪化：物価見通し3.5%と住宅ローン固定4.1%</title>
+      <description>けさ発表の日銀9月短観は、大企業製造業がプラス24（6期連続改善）、非製造業はプラス35（5期ぶり悪化）。AI・半導体の需要と仕入れ価格の落ち着きが製造業を支え、値上げによる需要の鈍化が非製造業を冷やしました。企業の1年後の販売価格見通しは3.5%（前回3.7%）、人手不足感は一段と強まりました。日銀の次の判断と、住宅ローン・法人融資・外貨建て保険の実務への落とし込みをお話しします。
+
+【市況】30日の日経平均は6万6753円（+1272円・3日ぶり反発）、TOPIXは4108ポイント（+1.67%）。9月の月間は441円高。新発10年もの国債利回りは3.051%、2年ものは1.927%。NYダウは5万906ドル（-443ドル）、ナスダックは0.24%高。8月のPCEコア価格指数は前年比3.0%（予想3.3%）で物価は落ち着く一方、9月シカゴの購買担当者の指数は58.8（予想51.0）、4〜6月期GDP確定値は2.2%と景気は強く、長期金利は高止まり。ドル円は156円台半ば〜157円台前半。
+
+【本題】短観（回答期間8月26日〜9月30日・9104社）：先行きは製造業プラス21、非製造業プラス30。設備投資計画は大企業全産業で11.3%増（予想12.2%）。物価全般の見通しは1年後2.6%、5年後2.5%。雇用人員判断は全規模でマイナス38。借入金利水準判断は大企業プラス65、中小企業プラス70。保険業の景況感はプラス36→プラス48。想定為替レートは1ドル154円23銭。次回日銀会合は10月29・30日。
+
+【実務】①10月の住宅ローン：固定10年は大手5行すべて引き上げ（平均4.104%）、変動は3行が引き上げ（平均1.389%）。今回は6月利上げの反映で、9月利上げ分は11月の短期プライムレート見直し以降 ②中小企業の借入金利 ③外貨建て保険は企業の想定為替との比較で説明 ④「物価が落ち着けば金利は下がる」と一本線で説明しない。
+
+【出典】
+・短観（概要）2026年9月（日本銀行） https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.pdf
+・短観（要旨）2026年9月（日本銀行） https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm
+・大企業製造業の景況感、6四半期連続改善 日銀9月短観（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB299ZG0Z20C26A9000000/
+・日銀短観9月調査の注目点（OANDA証券） https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-preview/
+・日銀短観予測（2026年9月調査）（第一生命経済研究所） https://www.dlri.co.jp/report/macro/655048.html
+・東証大引け 日経平均は3日ぶり反発（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL305E90Q6A930C2000000/
+・日経平均は大幅反発（財経新聞） https://www.zaikei.co.jp/article/20260930/871794.html
+・日経平均寄与度ランキング（財経新聞） https://www.zaikei.co.jp/article/20260930/871800.html
+・9月30日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20260930/871783.html
+・How major US stock indexes fared 9/30/2026（AP／ABC News） https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9302026-136901112
+・9月30日のNY為替・原油概況（ダイヤモンドZAi） https://zai.diamond.jp/articles/-/496504
+・9月30日のNY為替概況（財経新聞） https://www.zaikei.co.jp/article/20261001/871824.html
+・変動金利、3行引き上げ 固定は全行引き上げ（時事通信） https://www.jiji.com/jc/article?k=2026093001014&amp;g=eco
+・住宅ローン変動金利、大手3行が引き上げ（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB281C20Y6A920C2000000/
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-01.mp3" length="14068268" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1172</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#20 米消費者信頼感81.9で10月利上げは五分五分へ：あすの日銀短観と「物価高・景気弱」のねじれ</title>
       <description>アメリカで「物価は強いのに景気の指標は弱い」ねじれが表面化。9月の消費者信頼感の指数は81.9（予想89.0）、8月の求人件数は707.9万件と予想を下回り、NY連銀ウィリアムズ総裁の「急ぐ必要はない」発言で10月の利上げ確率は約5割へ。あす10月1日の日銀短観の見どころと、実務への落とし込みをお話しします。
