@@ -5,13 +5,56 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 00:53:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:28:05 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#22 日経平均2203円高でもTOPIXは0.57%：半導体の局所買いと、日銀「主な意見」で10月利上げ確率2割へ</title>
+      <description>きのう10月1日の日経平均は2203円高の6万8956円（+3.30%）と1か月半ぶりの高値。一方でTOPIXは+0.57%にとどまり、東証プライムの値上がりは750銘柄・値下がりは747銘柄とほぼ半々でした。米マイクロンの好決算を受けた「半導体への局所的な買い」で、アドバンテスト1社で約722円分を押し上げました。同じ日、銀行・保険株は日銀の連続利上げ観測の後退で下落。日銀「主な意見」の原文を読み、指数と中身のずれ、利上げ時期の後ずれを実務でどう説明するかをお話しします。
+
+【市況】TOPIX 4131ポイント。新発10年もの国債利回り3.073%、2年もの1.929%。NYダウは20ドル高の5万926ドル、S&amp;P500は0.2%高。9月ISM製造業の指数54.5（予想55.0）、新規失業保険申請19万7000件。ドル円は157円台前半から158円台前半へ。FRBジェファーソン副議長は「次の判断はデータを丁寧に見て」と慎重姿勢。
+
+【本題①】マイクロン6〜8月期の売上高542億ドル、粗利益率86.8%、9〜11月期の見通し615億ドル前後（前年同期の4.5倍）。HBMとAIデータセンター需要、アドバンテスト・東京エレクトロンとのつながり、日経平均とTOPIXの計算方法の違い（NT倍率 約16.7倍）。
+
+【本題②】日銀「主な意見」（9月17・18日会合分、10月1日公表）。「慌てる必要はない」「織り込みが一方向に進まないよう丁寧に」との意見。10月利上げの確率は約2割に低下、12月までは完全に織り込み。次回会合は10月29・30日。
+
+【実務】①日経平均連動とTOPIX連動の投資信託の違いの説明 ②今夜21時30分の米9月雇用統計（予想 9万人増・失業率4.1%）と外貨建て保険 ③変動金利・預金への影響の伝え方。
+
+【出典】
+・日経平均終値2203円高 マイクロン好業績で「半導体局所買い」（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL010MXTR01C26A0000000/
+・東証大引け 日経平均は続伸 1カ月半ぶり6万8000円回復（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL012RF0R01C26A0000000/
+・三菱UFJFGなど金融株が下落 連続利上げ観測の後退で（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL013LP0R01C26A0000000/
+・日経平均は大幅続伸（財経新聞） https://www.zaikei.co.jp/article/20261001/871968.html
+・日経平均寄与度ランキング（財経新聞） https://www.zaikei.co.jp/article/20261001/871984.html
+・10月1日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20261001/871967.html
+・10月1日のNY為替概況（財経新聞） https://www.zaikei.co.jp/article/20261002/872043.html
+・NYの視点：米9月雇用統計（財経新聞） https://www.zaikei.co.jp/article/20261001/871836.html
+・How major US stock indexes fared 10/1/2026（AP／WTOP） https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-thursday-10-1-2026
+・Micron Reports Record Fiscal Fourth-Quarter and Full-Year 2026 Results（Micron） https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-reports-record-200100307.html
+・マイクロン、9〜11月の売上高4.5倍（日本経済新聞） https://www.nikkei.com/article/DGXZQOGN293T80Z20C26A9000000/
+・マイクロン 通期決算（株探） https://s.kabutan.jp/news/n202610010045/
+・金融政策決定会合における主な意見 2026年9月17・18日開催分（日本銀行） https://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260918.pdf
+・日銀「主な意見」で円下落、10月利上げの示唆乏しい（Bloomberg／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/5e36b756b83616cbca15503d0437992cc9600efa
+・マクロスコープ：日銀短観、利上げ路線サポート 10月観測はやや後退（ロイター／ニューズウィーク日本版） https://www.newsweekjapan.jp/articles/-/335636
+・The U.S. Economy and Monetary Policy（FRB ジェファーソン副議長講演） https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm
+・TOPIXの動きと乖離する日経平均株価の急騰（日本総研） https://www.jri.co.jp/page.jsp?id=114032
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-02.mp3" length="13612076" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1134</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#21 日銀短観、大企業製造業プラス24・非製造業は5期ぶり悪化：物価見通し3.5%と住宅ローン固定4.1%</title>
       <description>けさ発表の日銀9月短観は、大企業製造業がプラス24（6期連続改善）、非製造業はプラス35（5期ぶり悪化）。AI・半導体の需要と仕入れ価格の落ち着きが製造業を支え、値上げによる需要の鈍化が非製造業を冷やしました。企業の1年後の販売価格見通しは3.5%（前回3.7%）、人手不足感は一段と強まりました。日銀の次の判断と、住宅ローン・法人融資・外貨建て保険の実務への落とし込みをお話しします。
