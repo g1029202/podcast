@@ -5,13 +5,37 @@
     <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 01:54:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:26:49 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#19 今週のおさらい——「利上げが遅れる」と「金利が下がる」は別のお話。石油と円が冬の請求書へ、値上げと時給と週20時間</title>
+      <description>土曜日は一週間のおさらいです。1本目は金利。2年ものの国債の金利が31年半ぶりの高さになり、10月の10年固定の住宅ローン金利は大手5つの銀行すべてで引き上げに。一方で日銀の「主な意見」では次の利上げを急がない意見が目立ち、10月の利上げ確率はおよそ2割へ。「利上げの時期がずれる」と「金利が下がる」の違いを、電車の時刻と運賃のたとえでほどきます。次の日銀の会合は10月29日・30日です。
+
+2本目は石油と円。石油の値段は一週間、たる1つぶん100ドルを超えるところにあり、円は1ドル157円台のまま。電気・ガス料金の支援が9月使用分で終わったこととあわせて、11月ごろの請求書にどう届くのかを、お風呂のお湯のたとえで。3本目は、10月の値上げ3,153品目、日銀の短観に出たお店の景気の弱さ、人手不足と最低賃金、そして社会保険の目印が週20時間に変わったこと。ばらばらに見えた話を一本の線でつなぎます。
+
+「ちょこっと解説」は、日銀が利上げをすると、変動金利の住宅ローンの返済額はその月から上がる？——クイズでほどきます。
+
+【出典】日本経済新聞（中期債利回りの上昇・長期金利）／時事通信（大手銀行の10月住宅ローン金利）／日本銀行（金融政策決定会合における主な意見 2026年9月17・18日開催分／短観 2026年9月）／Bloomberg（10月利上げ確率）／米労働統計局（9月雇用統計）／ロイター・CNBC（原油価格）／外為各社（ドル円）／帝国データバンク（価格改定動向調査 2026年10月）／厚生労働省・日本年金機構（短時間労働者の社会保険の適用拡大）／厚生労働省（令和8年度 地域別最低賃金）
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-10-03.mp3" length="10533068" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>877</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#18 日銀の次の利上げは「10月より12月」？——日経平均2203円高の中身と、石油100ドル超え×円安</title>
       <description>きょうは3本立てです。1本目は、昨日公表された日銀の「主な意見」。次の利上げを急がなくてよいという意見が目立ち、10月に利上げがある確率はおよそ2割に下がったと報じられました。降水確率のたとえで、変動金利で借りている方・預金をしている方への届き方を整理します。次の日銀の会合は10月29日・30日です。
