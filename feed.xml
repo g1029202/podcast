@@ -5,13 +5,61 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 21:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:27:19 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#23 今週の総括：日経平均1945円高も中身は半導体、米雇用2.9万人で日米の利上げ観測が後ずれ、それでも米長期金利5.27%</title>
+      <description>今週（9月28日〜10月2日）の総括です。日経平均は先週末の6万6364円から6万8309円へ、1週間で1945円の上昇。ただし前半は日米の金利上昇で下げ、水曜・木曜の2日間で約3500円戻す形でした。分かれ目は、米国の景気指標の弱さ、日銀の短観と「主な意見」、マイクロン決算が重なった週の後半。金曜夜の米9月雇用統計（2万9000人増・失業率4.2%）で、日米ともに「次の利上げの時期が後ろにずれる」見方が広がりました。一方で米10年もの国債の利回りは5.27%台と高いまま。「利上げが遠のく」と「長期金利が下がる」を分けて説明する、週明けの実務の組み立てをお話しします。
+
+【週の値段の動き】日経平均 6万6364円→6万8309円（週の高値は10月1日の6万8956円）。新発10年もの国債利回り 3.049%→3.086%（9月28日に一時3.095%）。ドル円 157円28銭→157円85銭。米10年もの国債利回り 5.17%→5.27%台。
+
+【今週の材料3本】①日米の金利上昇：日本の2年もの国債利回り1.975%で31年半ぶり、5年ものは過去最高。原油の値上がりで物価への警戒 ②米景気指標の弱さ：9月の消費者信頼感81.9（予想89.0）、ウィリアムズNY連銀総裁「急ぐ必要はない」、8月のPCEコア3.0%。マイクロン決算で半導体株に集中した上昇（TOPIXは+0.57%） ③日本の利上げ観測の後ずれ：日銀の短観は大企業製造業プラス24・非製造業プラス35（5期ぶり悪化）、販売価格見通し3.5%。主な意見「慌てる必要はない」。10月利上げ確率は約2割へ。米雇用統計で米国の10月利上げ確率も4分の1程度へ。
+
+【週明けの想定質問】①米利上げが遠のいたら外貨建て保険の利回りは下がるのか ②日銀の利上げは止まったのか（変動・固定の説明の分け方） ③日経平均ほど投資信託が増えていない理由。
+
+【来週の宿題】週明けの東京市場の雇用統計への反応と為替／米長期金利が5%台を保つか／米9月消費者物価（10月14日発表）。FOMCは10月27・28日、日銀会合は10月29・30日。
+
+【出典】
+・Employment Situation Summary, September 2026（米労働統計局） https://www.bls.gov/news.release/empsit.nr0.htm
+・Consumer Price Index release schedule（米労働統計局） https://www.bls.gov/schedule/news_release/cpi.htm
+・Fed may skip October but pull U.S. rate hike trigger in December（BNN Bloomberg） https://www.bnnbloomberg.ca/business/economics/2026/10/02/fed-may-skip-october-but-pull-us-rate-hike-trigger-in-december/
+・How major US stock indexes fared Friday 10/2/2026（AP／KRMG） https://krmg.com/2026/10/02/how-major-us-stock-indexes-fared-friday-10-2-2026/
+・Market Review: October 02, 2026（Investrade） https://investrade.com/market-review-october-02-2026/
+・ニューヨーク外国為替市場概況・2日（ダイヤモンドZAi） https://zai.diamond.jp/articles/-/496682
+・9月25日のNY為替概況（財経新聞） https://www.zaikei.co.jp/article/20260926/871278.html
+・日経平均大引け 10月2日（財経新聞） https://www.zaikei.co.jp/article/20261002/872172.html
+・日経平均は反落、売り優勢も下げ幅は限定的（財経新聞） https://www.zaikei.co.jp/article/20261002/872176.html
+・10月2日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20261002/872173.html
+・9月28日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20260928/871468.html
+・中期債利回りが一段と上昇、2年債2%迫る（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB283XH0Y6A920C2000000/
+・東証大引け 日経平均は続落 一時1100円安（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL294ND0Z20C26A9000000/
+・東証大引け 日経平均は3日ぶり反発（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL305E90Q6A930C2000000/
+・日経平均終値2203円高 マイクロン好業績で「半導体局所買い」（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL010MXTR01C26A0000000/
+・日経平均寄与度ランキング 10月1日（財経新聞） https://www.zaikei.co.jp/article/20261001/871984.html
+・Fed rate hike odds tumble to coin flip after Williams says no rush（Seeking Alpha） https://seekingalpha.com/news/4648192-fed-rate-hike-odds-tumble-to-coin-flip-after-williams-says-no-rush
+・短観（要旨）2026年9月（日本銀行） https://www.boj.or.jp/statistics/tk/yoshi/tk2609.htm
+・金融政策決定会合における主な意見 2026年9月17・18日開催分（日本銀行） https://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260918.pdf
+・日銀「主な意見」で円下落、10月利上げの示唆乏しい（Bloomberg／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/5e36b756b83616cbca15503d0437992cc9600efa
+・FOMC Statement, September 16, 2026（FRB） https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+・金融市場調節方針の変更について 2026年9月18日（日本銀行） https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-03.mp3" length="13900940" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1158</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#22 日経平均2203円高でもTOPIXは0.57%：半導体の局所買いと、日銀「主な意見」で10月利上げ確率2割へ</title>
       <description>きのう10月1日の日経平均は2203円高の6万8956円（+3.30%）と1か月半ぶりの高値。一方でTOPIXは+0.57%にとどまり、東証プライムの値上がりは750銘柄・値下がりは747銘柄とほぼ半々でした。米マイクロンの好決算を受けた「半導体への局所的な買い」で、アドバンテスト1社で約722円分を押し上げました。同じ日、銀行・保険株は日銀の連続利上げ観測の後退で下落。日銀「主な意見」の原文を読み、指数と中身のずれ、利上げ時期の後ずれを実務でどう説明するかをお話しします。
