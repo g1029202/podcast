@@ -5,13 +5,48 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 21:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:30:48 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#24 来週の実務カレンダー：6日に植田総裁講演と10年国債入札、7日FOMC議事要旨、本番は14日の米消費者物価</title>
+      <description>日曜は来週（10月5日〜9日）の実務カレンダーです。5日の臨時国会召集と高市首相の所信表明、6日の10年もの国債入札と植田日銀総裁の挨拶（全国証券大会）、7日の毎月勤労統計とFOMC議事要旨（日本時間8日午前3時）、8日の日銀地域経済報告（さくらレポート）・30年もの国債入札・ファーストリテイリング通期決算。注目の2本、植田総裁の講演とFOMC議事要旨をシナリオ分岐で整理し、「利上げの方向ではなく時期」を読む週明けの説明の組み立てをお話しします。
+
+【確定した予定】10/5 臨時国会召集・内閣府 消費動向調査（9月）／10/6 10年利付国債入札・植田総裁挨拶15:35／10/7 毎月勤労統計（8月速報）・景気動向指数（8月速報）・FOMC議事要旨（米東部14時）／10/8 日銀 地域経済報告14:00・30年利付国債入札・ファーストリテイリング通期決算（予定）／10/9 家計調査（8月）／10/12 米コロンブス・デー／10/14 米9月CPI・ベージュブック／10/27-28 FOMC／10/29-30 日銀会合・展望レポート（30日）
+【報道ベース】10/5 所信表明演説、10/7-8 衆院代表質問（日程の報道）、所信表明の原案の内容（日本経済新聞）
+
+【出典】
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・金融政策決定会合における主な意見 2026年9月17・18日開催分（日本銀行） https://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260918.pdf
+・FRB 2026年10月カレンダー https://www.federalreserve.gov/newsevents/2026-october.htm
+・FOMC発表文 2026年9月16日（FRB） https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+・FOMC Summary of Economic Projections, September 2026（セントルイス連銀 FRED Blog） https://fredblog.stlouisfed.org/2026/09/fomc-summary-of-economic-projections-september-2026/
+・米労働統計局 2026年10月公表予定 https://www.bls.gov/schedule/2026/10_sched.htm
+・財務省 国債入札カレンダー 2026年10月 https://www.mof.go.jp/jgbs/auction/calendar/2610.htm
+・ファーストリテイリング IRカレンダー https://www.fastretailing.com/jp/ir/calendar/
+・労働統計公表日一覧（労働政策研究・研修機構） https://www.jil.go.jp/kokunai/statistics/kohyobi/index.html
+・e-Stat 公表予定（内閣府） https://www.e-stat.go.jp/release-calendar
+・高市首相、市場動向に機動的対応 所信表明演説の原案（日本経済新聞） https://www.nikkei.com/article/DGXZQOUA304L90Q6A930C2000000/
+・政府 10月5日に臨時国会召集を伝達（NHK） https://news.web.nhk/newsweb/na/nd-20260929de52998
+・日銀「主な意見」で円下落、10月利上げの示唆乏しい（Bloomberg／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/5e36b756b83616cbca15503d0437992cc9600efa
+・植田日銀総裁「政策の局面が変化した」（Bloomberg） https://www.bloomberg.com/jp/news/articles/2026-09-18/TLJOAGKK3NY800
+・Fed may skip October but pull U.S. rate hike trigger in December（BNN Bloomberg） https://www.bnnbloomberg.ca/business/economics/2026/10/02/fed-may-skip-october-but-pull-us-rate-hike-trigger-in-december/
+・10月2日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20261002/872173.html
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-04.mp3" length="13631084" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1135</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#23 今週の総括：日経平均1945円高も中身は半導体、米雇用2.9万人で日米の利上げ観測が後ずれ、それでも米長期金利5.27%</title>
       <description>今週（9月28日〜10月2日）の総括です。日経平均は先週末の6万6364円から6万8309円へ、1週間で1945円の上昇。ただし前半は日米の金利上昇で下げ、水曜・木曜の2日間で約3500円戻す形でした。分かれ目は、米国の景気指標の弱さ、日銀の短観と「主な意見」、マイクロン決算が重なった週の後半。金曜夜の米9月雇用統計（2万9000人増・失業率4.2%）で、日米ともに「次の利上げの時期が後ろにずれる」見方が広がりました。一方で米10年もの国債の利回りは5.27%台と高いまま。「利上げが遠のく」と「長期金利が下がる」を分けて説明する、週明けの実務の組み立てをお話しします。
