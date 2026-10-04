@@ -5,13 +5,53 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:27:48 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#25 米雇用2.9万人増でも米10年債は5.27%で上昇：G7の備蓄1億バレル放出と、今日の所信表明・6日の植田総裁挨拶</title>
+      <description>週明けの今日は3本です。①米9月の雇用者数は2万9000人増（予想8万〜9万人）、7・8月は合わせて6万人の下向き修正、失業率4.2%、平均時給は前年比3.0%。10月の追加利上げ確率は約2割に低下した一方、米10年もの国債の利回りは一時5.15%近くまで下げた後、5.27%と前日より高く終えました。FRBは9月16日に0.25%利上げ（3.75〜4.00%）。グールズビー・シカゴ連銀総裁は「利上げも据え置きも選択肢」と発言。②G7は10月2日、軽油などの石油備蓄を4か月で最大1億バレル放出することで合意。WTIは91.11ドルに下落、ブレントは約101ドル。③今日召集の臨時国会で高市首相が所信表明。原案は「市場が想定と異なる動きなら機動的に対応」「金利高騰時は歳出削減」「国債発行額は金利動向をふまえて決定」。6日の10年もの国債入札と植田総裁挨拶（15時35分）、8日の30年もの国債入札へ。短い金利と長い金利を分けて説明する実務の組み立てをお話しします。
+
+【市況（10月2日）】日経平均647円安の6万8309円、TOPIX 4091.00（-0.99%）、プライム値下がり84.1%。新発10年もの国債3.086%、20年もの3.941%。NYダウ250ドル高の5万1176ドル、S&amp;P500 +0.73%、ナスダック +1.19%。ドル円は156円台→157円台後半。
+
+【出典】
+・Employment Situation Summary, September 2026（米労働統計局） https://www.bls.gov/news.release/empsit.nr0.htm
+・FOMC発表文 2026年9月16日（FRB） https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+・Stocks gain, dollar falls after US jobs data; bond yields higher（ロイター／MarketScreener） https://sa.marketscreener.com/news/stocks-gain-dollar-falls-after-us-jobs-data-bond-yields-higher-ce785ddbd98eff23
+・Fed&#x27;s Goolsbee says rate hike and pause both &#x27;on the table&#x27;（ロイター／Yahoo Finance） https://finance.yahoo.com/economy/policy/articles/feds-goolsbee-says-rate-hike-172206037.html
+・9月米雇用統計は弱め、10月利上げ観測は一段と後退（マネースクエア） https://www.m2j.co.jp/market/report/114915/top
+・米国債利回り 総じて上昇、米雇用統計後の利回り低下から反発（みんかぶ） https://fx.minkabu.jp/news/380664
+・NY株式終値（みんかぶ） https://fx.minkabu.jp/news/380661
+・10月2日のNY為替概況（財経新聞） https://www.zaikei.co.jp/article/20261003/872215.html
+・東証大引け 日経平均は3日ぶり反落 バリュー株に戻り売り（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL020DQ0S6A001C2000000/
+・日経平均終値647円安、投資家「リスクオン」なりきれず 金利高が重荷（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB01965TR01C26A0000000/
+・日経平均は反落、売り優勢も下げ幅は限定的（財経新聞） https://www.zaikei.co.jp/article/20261002/872176.html
+・10月2日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20261002/872173.html
+・G7首脳会議 軽油など石油備蓄1億バレル 4か月間で放出へ（NHK） https://news.web.nhk/newsweb/na/nd-20261003de54004
+・G7、最大1億バレルの石油備蓄放出で合意（Sustainable Japan） https://sustainablejapan.jp/2026/10/04/g7-oil-stock-release/131081
+・NY商品、原油反落 G7の石油備蓄の協調放出受け（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL02BTC0S6A001C2000000/
+・高市首相、市場動向に機動的対応 所信表明演説の原案（日本経済新聞） https://www.nikkei.com/article/DGXZQOUA304L90Q6A930C2000000/
+・臨時国会 10月5日召集決定（山陰中央新報） https://www.sanin-chuo.co.jp/articles/-/1088585
+・長期金利3%超 約30年ぶり（NHK） https://news.web.nhk/newsweb/na/nd-20260901de47546
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・財務省 国債入札カレンダー 2026年10月 https://www.mof.go.jp/jgbs/auction/calendar/2610.htm
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-05.mp3" length="13724972" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1143</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#24 来週の実務カレンダー：6日に植田総裁講演と10年国債入札、7日FOMC議事要旨、本番は14日の米消費者物価</title>
       <description>日曜は来週（10月5日〜9日）の実務カレンダーです。5日の臨時国会召集と高市首相の所信表明、6日の10年もの国債入札と植田日銀総裁の挨拶（全国証券大会）、7日の毎月勤労統計とFOMC議事要旨（日本時間8日午前3時）、8日の日銀地域経済報告（さくらレポート）・30年もの国債入札・ファーストリテイリング通期決算。注目の2本、植田総裁の講演とFOMC議事要旨をシナリオ分岐で整理し、「利上げの方向ではなく時期」を読む週明けの説明の組み立てをお話しします。
