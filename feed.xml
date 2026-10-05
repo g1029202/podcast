@@ -5,13 +5,52 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 21:27:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:28:02 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#26 日経平均1637円高・ナスダック最高値でも米長期金利は5.3%台：所信表明「国債発行をコントロール」と大和証券22万件漏えいの窓口対応</title>
+      <description>きのう10月5日の日経平均は1637円高の6万9946円。取引時間中に約3か月ぶりに7万円を上回り、アドバンテストなど上位4社で1000円超を押し上げました。ナスダックは最高値を更新した一方、米10年もの国債の利回りは一時5.3%台へ。短い金利と長い金利がなぜ逆を向くのかを整理します。
+本題①高市首相の所信表明。「通年の国債発行額を適切にコントロール」「債務残高のGDP比を安定的に引き下げ」「PBは複数年度で管理」。飲食料品の消費税は2027年4月から2年間8%→1%（2年で約10兆円の減収見込み、赤字国債に頼らず確保）。今日の10年もの国債入札と植田総裁の挨拶（全国証券大会・15時35分）、8日の30年もの入札へ。
+本題②大和証券の委託先スカラコミュニケーションズへの不正アクセスで、約11万人の氏名・メールアドレス・口座番号など約22万件が漏えいした可能性。四国銀行も金融商品仲介の顧客向けにお知らせ。なりすまし詐欺への窓口対応、8日のプルデンシャル生命の調査結果発表も。
+
+【市況（10月5日）】TOPIX 4145.22（+1.33%）、プライム売買代金7兆7509億円。新発10年もの国債3.064%、2年もの1.896%。NYダウ90ドル高の5万1267ドル、ナスダック2万7477（最高値）。9月ISM非製造業の指数54.9（予想55.0）。ドル円157円台後半。
+
+【出典】
+・日経平均は大幅反発、半導体関連株が指数押し上げ一時7万円に回復（財経新聞） https://www.zaikei.co.jp/article/20261005/872392.html
+・10月5日の国内株式市場概況（THE GOLD ONLINE／Yahoo!ニュース） https://news.yahoo.co.jp/articles/880ddf60901ccc132cd71df3c947efa432a2b7cd
+・10月5日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20261005/872389.html
+・NY株3日続伸、90ドル上昇（東京新聞） https://tokyo-np.co.jp/article/519883
+・10月5日のNY為替・原油概況（ザイFX!） https://zai.diamond.jp/articles/-/496763
+・Stock Market Today Oct. 5, 2026（TheStreet） https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026
+・高市首相、所信表明で「責任ある積極財政」推進（NOVAIST） https://novaist.jp/articles/japan-proactive-fiscal-policy/
+・消費減税、市場信認確保を強調（東京新聞） https://www.tokyo-np.co.jp/article/519740
+・高市首相「家計に少しでもゆとりを」（読売新聞／Yahoo!ニュース） https://news.yahoo.co.jp/articles/e9bdef598e3fbd14b87dc2c336dc88383c6bbdf2
+・消費減税方針を閣議決定 食品1%、来年4月から2年間（時事通信） https://www.jiji.com/jc/article?k=2026080500718&amp;g=pol
+・食品消費税1%、政府が閣議決定（日本経済新聞） https://www.nikkei.com/article/DGXZQOUA042OJ0U6A800C2000000/
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・財務省 国債入札カレンダー 2026年10月 https://www.mof.go.jp/jgbs/auction/calendar/2610.htm
+・大和証券、22万件情報漏えいか（ITmedia NEWS） https://www.itmedia.co.jp/news/article/2610/05/2000002005/
+・大和証券、外部委託先への不正アクセスで顧客情報漏洩か（NOVAIST） https://novaist.jp/articles/daiwa-customer-data-leak/
+・大和証券の外部委託先への不正アクセスによるお客さま情報の漏洩の可能性について（四国銀行） https://www.shikokubank.co.jp/info/post_195.html
+・プルデンシャル、8日に不正の調査結果発表（共同通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/41b56e5682e674872b3ed001b00a246af354bb63
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-06.mp3" length="13854572" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1154</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#25 米雇用2.9万人増でも米10年債は5.27%で上昇：G7の備蓄1億バレル放出と、今日の所信表明・6日の植田総裁挨拶</title>
       <description>週明けの今日は3本です。①米9月の雇用者数は2万9000人増（予想8万〜9万人）、7・8月は合わせて6万人の下向き修正、失業率4.2%、平均時給は前年比3.0%。10月の追加利上げ確率は約2割に低下した一方、米10年もの国債の利回りは一時5.15%近くまで下げた後、5.27%と前日より高く終えました。FRBは9月16日に0.25%利上げ（3.75〜4.00%）。グールズビー・シカゴ連銀総裁は「利上げも据え置きも選択肢」と発言。②G7は10月2日、軽油などの石油備蓄を4か月で最大1億バレル放出することで合意。WTIは91.11ドルに下落、ブレントは約101ドル。③今日召集の臨時国会で高市首相が所信表明。原案は「市場が想定と異なる動きなら機動的に対応」「金利高騰時は歳出削減」「国債発行額は金利動向をふまえて決定」。6日の10年もの国債入札と植田総裁挨拶（15時35分）、8日の30年もの国債入札へ。短い金利と長い金利を分けて説明する実務の組み立てをお話しします。
