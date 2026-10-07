@@ -5,13 +5,54 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 21:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:50:46 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#27 10年もの国債の利率3.1%は30年ぶり、植田総裁「引き続き利上げ」：日銀の目標は「2%に届かせる」から「2%で止める」へ</title>
+      <description>きのう10月6日の日経平均は737円高の7万683円。終値の7万円台は7月1日以来およそ3か月ぶりで、値上がり1153銘柄・値下がり349銘柄と裾野の広い上昇に。利上げ継続の見方から銀行株も上げました。10月発行の10年もの国債は表面利率3.1%（9月は2.7%）と1996年8月以来30年2か月ぶりの高さ。入札はテール2銭、応募は発行額のおよそ3.8倍で「順調」との受け止め。
+本題は植田総裁の全国証券大会での挨拶。「基調的な上昇率は2%に近づいている」「上振れていくリスク」「引き続き政策金利を引き上げ」「2%程度で安定させる観点がこれまでよりも重要」を原文から読み解き、実質金利と2年もの国債の利回りで市場の見込みを整理します。次回会合は10月29・30日（展望レポート）。
+実務編は、住宅ローンの変動・固定の伝え方、貯蓄性保険の「金利が上がったのに今の契約でよいか」への答え方、12月1日のiDeCo上限引き上げとこどもNISA（2027年1月予定）。あすはFOMC議事要旨、プルデンシャル生命の調査結果発表、30年もの国債入札。
+
+【市況（10月6日）】TOPIX 4183.56（+0.92%）、プライム売買代金 約7兆3000億円。新発10年もの国債3.087%、2年もの1.906%。NYダウ253ドル高の5万1521ドル（4日続伸）、ナスダック2万7599（最高値）。WTI 89ドル台。ドル円158円台前半。
+
+【出典】
+・令和8年全国証券大会における挨拶（日本銀行・植田総裁） https://www.boj.or.jp/about/press/koen_2026/data/ko261006a.pdf
+・日銀植田総裁 物価上振れリスク警戒しながら利上げ進める考え（NHK） https://news.web.nhk/newsweb/na/nd-20261006de55495
+・植田日銀総裁「金融緩和の度合いを調整」改めて利上げ継続姿勢（産経新聞／Yahoo!ニュース） https://news.yahoo.co.jp/articles/d10538734dbca21fdaa39dbc0728d3443da30b1d
+・植田日銀総裁 経済・物価・金融情勢に応じて引き続き利上げ（みんかぶFX） https://fx.minkabu.jp/news/380859
+・植田日銀総裁「政策の局面が変化した」（Bloomberg／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/81a5ade61b87e9a1a7b8c6ba33989fd7d3a21a85
+・利上げペース加速も 物価2%到達受け（時事通信） https://www.jiji.com/jc/article?k=2026100500763&amp;g=eco
+・日本銀行 金融政策決定会合の日程 https://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+・10年利付国債（第384回）入札結果（財務省） https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261006.htm
+・10年債金利、年3.1% 10月発行分、30年2カ月ぶり高水準（時事通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/24045a1e243f3790a43e759dc2c3f699323f6711
+・10年債入札「テール2銭」（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB058RO0V01C26A0000000/
+・10月6日日本国債市場（財経新聞） https://www.zaikei.co.jp/article/20261006/872534.html
+・東証大引け 日経平均は続伸 3カ月ぶり7万円台回復（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL0576C0V01C26A0000000/
+・日経平均サマリー（6日）（OANDA） https://www.oanda.jp/lab-education/market_news/mn_1037530_202610061753/
+・ダウ平均は4日続伸 本日は原油・利回りとも上げ一服＝米国株概況（みんかぶFX） https://fx.minkabu.jp/news/380922
+・6日の米国市場ダイジェスト（財経新聞） https://zaikei.co.jp/article/20261007/872583.html
+・FOMC会合日程・議事要旨公表日（FRB） https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・iDeCo 2025年の制度改正（厚生労働省） https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/nenkin/nenkin/kyoshutsu/2025kaisei.html
+・こどもNISA 概要（松井証券） https://www.matsui.co.jp/nisa/kodomo-nisa/
+・プルデンシャル、8日に不正の調査結果発表（共同通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/41b56e5682e674872b3ed001b00a246af354bb63
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-07.mp3" length="14021324" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1168</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#26 日経平均1637円高・ナスダック最高値でも米長期金利は5.3%台：所信表明「国債発行をコントロール」と大和証券22万件漏えいの窓口対応</title>
       <description>きのう10月5日の日経平均は1637円高の6万9946円。取引時間中に約3か月ぶりに7万円を上回り、アドバンテストなど上位4社で1000円超を押し上げました。ナスダックは最高値を更新した一方、米10年もの国債の利回りは一時5.3%台へ。短い金利と長い金利がなぜ逆を向くのかを整理します。
