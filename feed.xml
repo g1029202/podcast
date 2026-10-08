@@ -5,13 +5,40 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:29:42 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#29 日経平均993円安と、プルデンシャル生命の報告書「61億円・157人処分」が示した仕組みの問題</title>
+      <description>きのう10月8日の日経平均は993円安の6万9042円で続落。TOPIXは1.51%安の4091.46、プライム市場の約8割の銘柄が下げました。AI・半導体株に利益確定の売り、中東情勢も重し。NYはダウが51ドル高の一方、オープンAIの売上見込みをめぐる報道でナスダックは1.25%安。30年もの国債の入札は平均落札利回り4.109%、応札倍率は約3.9倍。
+本題はプルデンシャル生命の社外調査委員会の報告書。金銭の受け取りは申し出ベースで61億6600万円、157人を処分。原因は「営業成績を過度に重視する企業風土」とガバナンスの全社的な不全。成果報酬の見直しと2027年からの最低保証給の導入、支社の統廃合へ。
+3本目は日銀の地域経済報告（さくらレポート）。東北と四国の景気判断を引き上げ。AI関連の受注増と人手不足、値上げと賃上げがつながる会社と、つながらない会社の声を拾いました。実務編は、プルデンシャル生命の件をお客様に聞かれたときの答え方、代理店・銀行窓口の点検ポイント、法人・年金世代のお客様への話し方。
+
+【出典】
+・金銭詐取、「過度な営業重視」原因 プルデンシャル生命、成果報酬見直し―報告書公表、157人処分（時事通信） https://www.jiji.com/jc/article?k=2026100800513&amp;g=eco
+・プルデンシャル生命、不正めぐり第三者委の調査報告書を公表（日テレNEWS NNN／Yahoo!ニュース） https://news.yahoo.co.jp/articles/ee37e42262cacdb6caf516017e9a875438b13977
+・プルデンシャル生命 第三者委の報告書を受領 8日に会見へ（NHK） https://news.web.nhk/newsweb/na/nd-20261005de54553
+・プルデンシャル8日会見へ（共同通信／OANDA） https://www.oanda.jp/lab-education/market_news/kn_2026100501000607/
+・地域経済報告（さくらレポート、2026年10月）（日本銀行） https://www.boj.or.jp/research/brp/rer/rer261008.htm
+・30年利付国債の入札結果（10月8日）（財務省） https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261008.htm
+・東証大引け 日経平均続落、993円安 AI半導体に利益確定売り（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL085IJ0Y6A001C2000000/
+・Stock market today, October 8（Yahoo Finance） https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html
+・経済ニュース・円相場（時事通信） https://sp.m.jiji.com/article/kind/economy
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-09.mp3" length="13938956" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1161</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#28 FRBは全員一致で利上げ、理由は「保険」と「見通し」に分裂：議事要旨と個人向け国債2.39%</title>
       <description>きのう10月7日の日経平均は648円安の7万35円で3日ぶりに反落。TOPIXは一時最高値を上回ったものの4154.11で終え、値下がり972銘柄・値上がり526銘柄。半導体・AI関連と銀行株に利益確定の売り。NYダウは341ドル安の5万1179ドルで5日ぶり反落、米10年もの国債の利回りは一時5.36%。ブレント原油は100ドル超え、IEAは備蓄放出の加速と軽油の優先放出を支持しました。
