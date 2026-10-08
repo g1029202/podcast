@@ -5,13 +5,45 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 01:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:12:04 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#28 FRBは全員一致で利上げ、理由は「保険」と「見通し」に分裂：議事要旨と個人向け国債2.39%</title>
+      <description>きのう10月7日の日経平均は648円安の7万35円で3日ぶりに反落。TOPIXは一時最高値を上回ったものの4154.11で終え、値下がり972銘柄・値上がり526銘柄。半導体・AI関連と銀行株に利益確定の売り。NYダウは341ドル安の5万1179ドルで5日ぶり反落、米10年もの国債の利回りは一時5.36%。ブレント原油は100ドル超え、IEAは備蓄放出の加速と軽油の優先放出を支持しました。
+本題はFOMC（9月15・16日）の議事要旨。利上げは全会一致でも、理由は「物価の上振れに備えるリスク管理」と「見通しそのものから必要」に分かれていました。PCE物価3.8%・コア3.4%、多くの参加者が年末までの追加利上げを想定。次回FOMCは10月27・28日、日銀会合は10月29・30日。
+実務編は、個人向け国債10月募集（固定5年2.39%・固定3年2.07%・変動10年2.05%、募集は10月30日まで）の伝え方、外貨建ての商品をお持ちのお客様への説明、きょうのプルデンシャル生命の調査結果発表とお客様への伝え方。お昼には30年もの国債の入札結果。
+
+【出典】
+・Minutes of the Federal Open Market Committee, September 15–16, 2026（FRB） https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260916.pdf
+・FOMC Meeting calendars（FRB） https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・Statement by IEA Executive Director on meeting of IEA member governments on 7 October 2026（IEA） https://www.iea.org/news/statement-by-iea-executive-director-on-meeting-of-iea-member-governments-on-7-october-2026
+・Wall Street ends lower off record highs as Treasury yields climb（Reuters／MarketScreener） https://ca.marketscreener.com/news/wall-street-ends-lower-off-record-highs-as-treasury-yields-climb-ce785ddedd8dff27
+・Trading Day: stocks, bonds in delicate dance（Reuters／MarketScreener） https://www.marketscreener.com/news/trading-day-stocks-bonds-in-delicate-dance-ce785ddedc89f22c
+・NYダウの振り返りと見通し（10月8日）（OANDA） https://www.oanda.jp/lab-education/market_news/2026_10_08_us30/
+・東証大引け 日経平均は3日ぶり反落 利益確定、TOPIXは一時最高値も下げる（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL075100X01C26A0000000/
+・日経平均、648円27銭安の7万0035円71銭で終了（時事通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/1b944eb821addf5f123bb7323be5873eb7e42d1d
+・主要年限レート（日本相互証券） https://www.bb.jbts.co.jp/ja/historical/main_rate.html
+・個人向け国債の発行条件等（財務省 報道発表 10月7日） https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20261007.pdf
+・国債入札カレンダー 2026年10月（財務省） https://www.mof.go.jp/jgbs/auction/calendar/2610.htm
+・プルデンシャル8日会見へ 金銭受領調査、責任も焦点（共同通信／熊本日日新聞） https://kumanichi.com/articles/2043128
+・プルデンシャル8日会見へ（共同通信／OANDA） https://www.oanda.jp/lab-education/market_news/kn_2026100501000607/
+・円相場（時事通信） https://sp.m.jiji.com/article/kind/economy
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-08.mp3" length="13906412" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1158</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#27 10年もの国債の利率3.1%は30年ぶり、植田総裁「引き続き利上げ」：日銀の目標は「2%に届かせる」から「2%で止める」へ</title>
       <description>きのう10月6日の日経平均は737円高の7万683円。終値の7万円台は7月1日以来およそ3か月ぶりで、値上がり1153銘柄・値下がり349銘柄と裾野の広い上昇に。利上げ継続の見方から銀行株も上げました。10月発行の10年もの国債は表面利率3.1%（9月は2.7%）と1996年8月以来30年2か月ぶりの高さ。入札はテール2銭、応募は発行額のおよそ3.8倍で「順調」との受け止め。
