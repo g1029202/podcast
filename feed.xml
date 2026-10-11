@@ -5,13 +5,57 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:37:35 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#31 連休明けの注目点：プルデンシャル生命・ジブラルタ生命が13日から3か月半の業務停止、米10年債は一時5.36%、14日に米CPI</title>
+      <description>きょう10月12日はスポーツの日で東京市場は取引がお休み、アメリカも債券市場はお休み（株式は通常取引）。速報ではなく、連休中の海外市場と、休場明けにどこを見るかを整理します。
+市況編: 9日の日経平均は11円安の6万9030円で3日続落も、週では721円高・4週続伸。TOPIXは13.35ポイント高の4104.81。長期金利は3.010%に低下。NYはダウ423ドル高の5万1654ドル、S&amp;P500は週1.2%高で記録的な週。米10年債は7日に一時5.36%台（2002年4月以来約24年半ぶり）→週末5.24%。WTIは91.31ドル、トランプ大統領の「中間選挙前はイラン攻撃せず」と国防総省の準備報道で綱引き。ウォーラー理事講演（連続会合での利上げは不要・コアPCE3%）。
+本題: 金融庁が9日、プルデンシャル生命とジブラルタ生命に保険業法132条1項に基づく業務停止命令（10月13日〜2027年1月31日、保険募集と契約締結の停止）、持株会社に業務改善命令（271条の29）。改善計画は11月30日まで、外部専門家レビュー、3か月ごと報告。既契約の保障・支払い・保全は継続、ジブラルタの代理店チャネルは対象外。ロイターによると乗換契約で保険業法違反30件・意向把握義務違反約4000件。生命保険会社への業務停止命令は2019年のかんぽ生命（2020年1〜3月）以来。他社の実務者へ: 乗り換えの受け皿になる場面ほど意向把握と比較推奨の記録を丁寧に／自社の仕組みを言葉で説明できるか／報酬制度・退職者の情報管理・苦情の経営報告を点検。
+予定編: 13日 企業物価8:50・生活意識アンケート13:30・米大手銀決算（報道ベース）／14日 米9月CPI 21:30（予想 総合3.6%・コア2.5%）・5年債入札／15日 日銀委員の挨拶（熊本）・米PPI・小売売上高／16日 植田総裁挨拶（内田副総裁代読）15:30／10月29-30日 日銀会合。小ネタ: 損保ジャパンの委託先不正アクセス（延べ約6万件・金融情報なし）、ゆうちょ銀行がファミマ設置ATM約5400台を2027年1月から順次終了。
+
+【出典】
+・金融庁 プルデンシャル生命保険株式会社、ジブラルタ生命保険株式会社及びプルデンシャル・ホールディング・オブ・ジャパン株式会社に対する行政処分について（2026年10月9日） https://www.fsa.go.jp/news/r8/hoken/20261009/20261009.html
+・プルデンシャル・ホールディング・オブ・ジャパン／プルデンシャル生命／ジブラルタ生命「金融庁による行政処分について」（2026年10月9日） https://www.prudential.co.jp/news/pdf/1042/20261009.pdf
+・金融庁、プルデンシャル生命とジブラルタ生命に業務停止命令（ロイター／ニューズウィーク日本版） https://www.newsweekjapan.jp/articles/-/336517
+・Japan&#x27;s Prudential Life Ordered to Halt Biz for over 3 Months（時事通信／nippon.com） https://www.nippon.com/en/news/yjj2026100900686/
+・金融庁がプルデンシャル生命に一部業務停止命令（NHK） https://news.web.nhk/newsweb/na/nd-20261009de57195
+・金融庁 かんぽ生命保険株式会社及び日本郵便株式会社に対する行政処分について（2019年12月27日） https://www.fsa.go.jp/news/r1/yuusei/20191227.html
+・金銭詐取、「過度な営業重視」原因 プルデンシャル生命、157人処分―報告書公表（時事通信） https://www.jiji.com/jc/article?k=2026100800513&amp;g=eco
+・日経平均、11円19銭安の6万9030円92銭で終了＝東京株式（時事通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/b10472140f1f278a2fb952d63f315410f71df0f5
+・日経平均サマリー（9日）（フィスコ／OANDA） https://www.oanda.jp/lab-education/market_news/mn_1038204_202610091800/
+・＜週末コメント＞来週の相場展望 2026年10月9日（株探／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/747594d1f7e6518ae19f815b68efa6107fc675ac
+・日本国債10年（新発10年物国債利回り）（日本経済新聞 マーケットデータ） https://www.nikkei.com/marketdata/quote/JP10YT/
+・主要年限レート（日本相互証券） https://www.bb.jbts.co.jp/ja/historical/main_rate.html
+・How major US stock indexes fared Friday, 10/9/2026（AP／La Nación） https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1092026-nid09102026/
+・米長期金利一時5.36%台 24年半ぶり水準、物価警戒（共同通信／熊本日日新聞） https://kumanichi.com/articles/2044297
+・NY原油先物：小幅反落、米大統領の対イラン攻撃見送り表明で上値が重い（フィスコ／財経新聞） https://www.zaikei.co.jp/article/20261010/873064.html
+・Governor Waller: The Signaling Value of the Summary of Economic Projections（FRB・2026年10月8日） https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
+・来週の注目材料 米CPI（みんかぶFX） https://fx.minkabu.jp/news/381284
+・SIFMA Fixed Income Market Close Recommendations for U.S. Columbus Day and Japan Health and Sports Day 2026 https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendations-in-the-u-s-the-u-k-and-japan-for-u-s-columbus-day-and-japan-health-and-sports-day-holidays-2026
+・内閣府「国民の祝日」について https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・米労働統計局 2026年10月公表予定 https://www.bls.gov/schedule/2026/10_sched.htm
+・財務省 国債入札カレンダー 2026年10月 https://www.mof.go.jp/jgbs/auction/calendar/2610.htm
+・Q3 Earnings Week: 51 Companies Report, Led by Big Banks（24/7 Wall St.） https://247wallst.com/cards/q3-earnings-season-front-loads-everything-into-two-mornings-unh-earnings-calendar-01m4gswtqct7fbk8xh1qmb2pkm
+・損害保険ジャパン「当社事業者向けサービスで使用する外部委託先システムへの不正アクセスによるお客さま情報漏えいの可能性について」（2026年10月7日） https://www.sompo-japan.co.jp/-/media/SJNK/files/news/2026/20261007_1.pdf
+・ゆうちょ銀行「ファミリーマートに設置しているATMの営業終了のお知らせ」（2026年10月6日） https://www.jp-bank.japanpost.jp/aboutus/press/2026/pdf/pr26100601.pdf
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-12.mp3" length="14478668" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1206</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#30 来週の実務カレンダー：14日に米9月消費者物価（予想3.6%）、16日に植田総裁の挨拶、月曜は米債券市場もお休み</title>
       <description>日曜は来週（10月12日〜16日）の実務カレンダーです。12日は日本がスポーツの日、アメリカはコロンブス・デーで債券市場がお休み（株式は通常取引）。13日に日銀の企業物価（9月）と米大手銀行の決算、14日に5年もの国債入札と米9月消費者物価（日本時間21時30分・予想は総合3.6%、コア2.5%）、ASML決算、15日未明にベージュブック、15日に米生産者物価・小売業の売上高とTSMC決算（報道ベース）、16日に植田総裁の挨拶（内田副総裁代読）。注目の2本、米消費者物価と植田総裁の挨拶をシナリオ分岐で整理し、外貨建て保険・貯蓄性保険・住宅ローン・個人向け国債のお客様への週明けの説明を組み立てます。
