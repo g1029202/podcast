@@ -5,13 +5,37 @@
     <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:21:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:37:03 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#24 保険会社が3か月半の業務停止——入っている保険はどうなる？、アメリカの金利は24年半ぶりの高さで1ドル158円、ファミマのゆうちょATMが順番に終了</title>
+      <description>スポーツの日のきょうも、暮らしに近い3本です。1本目は、金融庁が9日、プルデンシャル生命とジブラルタ生命に出した業務停止命令（10月13日から2027年1月31日まで、新規の募集と契約の停止）。すでに入っている契約の保障・支払い・解約などの手続きは続くこと、保険料を担当者の個人口座に振り込むよう言われたら赤信号であること、処分を理由にした乗り換えには不利な点があることをお話しします。
+
+2本目は、アメリカの10年国債の金利が7日に一時、2002年4月以来およそ24年半ぶりの高さになり、1ドル158円台で推移していること。外国から買うものの値札や、ドル建ての積立の「利率が高く見える」わけ、14日水曜の夜に出るアメリカの物価の数字までをつなげます。
+
+3本目は、ゆうちょ銀行がファミリーマート設置のATMを2027年1月から3年ほどかけて順次終了すると発表した話。その後はセブン銀行ATMで使えるものの預け入れ・払い戻しが有料になるため、年金の受け取り方を見直すきっかけに。「ちょこっと解説」は、株の市場がお休みの祝日に円の値段は動くのか、というクイズです。
+
+【出典】金融庁（2026年10月9日 行政処分について）／プルデンシャル・ホールディング・オブ・ジャパン（金融庁による行政処分について）／ロイター・時事通信・NHK報道／金融庁（2019年12月27日 かんぽ生命への行政処分）／共同通信（米長期金利一時5.36%台）／FRB（ウォーラー理事講演）／ゆうちょ銀行（ファミリーマートに設置しているATMの営業終了のお知らせ・2026年10月6日）／NYSE（市場カレンダー）
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-10-12.mp3" length="10384748" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>865</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#23 来週のカレンダー——13日は日銀の企業物価と「生活意識アンケート」、14日夜はアメリカの物価、15・16日は日銀の挨拶、今月は住民税と年金の天引き</title>
       <description>日曜日のきょうは、来週（10月13日から16日）の予定を先にのぞいておきます。13日の火曜日は、日本銀行が、お店の値段の手前にあたる9月の企業物価と、家庭に物価の実感を尋ねる「生活意識に関するアンケート調査」の結果を発表します。14日の水曜日の夜はアメリカの9月の物価の数字、15日・16日は日本銀行の委員と総裁（副総裁が代読）の挨拶があり、29・30日の金利の会合に向けた手がかりになります。
