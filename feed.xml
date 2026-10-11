@@ -5,13 +5,55 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 21:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:26:27 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#30 来週の実務カレンダー：14日に米9月消費者物価（予想3.6%）、16日に植田総裁の挨拶、月曜は米債券市場もお休み</title>
+      <description>日曜は来週（10月12日〜16日）の実務カレンダーです。12日は日本がスポーツの日、アメリカはコロンブス・デーで債券市場がお休み（株式は通常取引）。13日に日銀の企業物価（9月）と米大手銀行の決算、14日に5年もの国債入札と米9月消費者物価（日本時間21時30分・予想は総合3.6%、コア2.5%）、ASML決算、15日未明にベージュブック、15日に米生産者物価・小売業の売上高とTSMC決算（報道ベース）、16日に植田総裁の挨拶（内田副総裁代読）。注目の2本、米消費者物価と植田総裁の挨拶をシナリオ分岐で整理し、外貨建て保険・貯蓄性保険・住宅ローン・個人向け国債のお客様への週明けの説明を組み立てます。
+
+【確定した予定】10/12 スポーツの日・米債券市場終日クローズ（SIFMA推奨）／10/13 企業物価指数（9月）8:50・生活意識に関するアンケート調査13:30・国内決算54社／10/14 マネーストック・5年利付国債入札・米9月CPI（米東部8:30）・ベージュブック・国内決算93社／10/15 日銀委員の挨拶（熊本）10:30・米9月PPI・米小売売上高・国内決算132社／10/16 植田総裁挨拶（内田副総裁代読、全国信用組合大会）15:30・国庫短期証券（3か月）入札・米輸入物価・鉱工業生産／10/27-28 FOMC／10/29-30 日銀会合（30日 展望レポート）
+【報道ベース】10/13 米大手銀行決算（JPモルガン、ゴールドマン・サックス、ウェルズ・ファーゴ、シティ）、10/14 バンク・オブ・アメリカ、モルガン・スタンレー、ブラックロック、ASML決算、10/15 TSMC決算
+
+【出典】
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・内閣府「国民の祝日」について https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
+・SIFMA Fixed Income Market Close Recommendations for U.S. Columbus Day and Japan Health and Sports Day Holidays 2026 https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendations-in-the-u-s-the-u-k-and-japan-for-u-s-columbus-day-and-japan-health-and-sports-day-holidays-2026
+・FRB 2026年10月カレンダー https://www.federalreserve.gov/newsevents/2026-october.htm
+・Beige Book（FRB） https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm
+・米労働統計局 2026年10月公表予定 https://www.bls.gov/schedule/2026/10_sched.htm
+・Consumer Price Index – August 2026（米労働統計局） https://www.bls.gov/news.release/cpi.nr0.htm
+・米国勢調査局 2026 Economic Indicator Calendar https://www.census.gov/economic-indicators/calendar-listview-2026.html
+・財務省 国債入札カレンダー 2026年10月 https://www.mof.go.jp/jgbs/auction/calendar/2610.htm
+・今週の決算発表予定（10月13日〜16日）（株探） https://s.kabutan.jp/news/n202610110041/
+・Q3 Earnings Week: 51 Companies Report, Led by Big Banks（24/7 Wall St.） https://247wallst.com/cards/q3-earnings-season-front-loads-everything-into-two-mornings-unh-earnings-calendar-01m4gswtqct7fbk8xh1qmb2pkm
+・来週の注目材料 米CPI（みんかぶ） https://fx.minkabu.jp/news/381284
+・ドル/円、来週の見通し（外為どっとコム） https://gaitame.com/media/entry/2026/10/09/164315
+・米利上げ観測が後退、「10月据え置き」主流に 推計変更で物価下振れ（日本経済新聞） https://www.nikkei.com/article/DGXZQOGN30CE60Q6A930C2000000/
+・10月連続利上げ、日米で織り込み後退（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL300JCTQ6A930C2000000/
+・日銀金融政策決定会合（2026年9月）（第一生命経済研究所） https://www.dlri.co.jp/report/macro/665928.html
+・令和8年全国証券大会における挨拶（日本銀行・植田総裁） https://www.boj.or.jp/about/press/koen_2026/data/ko261006a.pdf
+・9月東京物価2.7%上昇 8カ月ぶり2%台（共同通信／熊本日日新聞） https://kumanichi.com/articles/2042111
+・FOMC発表文 2026年9月16日（FRB） https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+・Minutes of the FOMC, September 15–16, 2026（FRB） https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260916.pdf
+・10年利付国債（第384回）入札結果（財務省） https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261006.htm
+・東証大引け 日経平均続落、993円安（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL085IJ0Y6A001C2000000/
+・個人向け国債 10月募集の発行条件（財務省） https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20261007.pdf
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-11.mp3" length="13769900" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1147</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#29 日経平均993円安と、プルデンシャル生命の報告書「61億円・157人処分」が示した仕組みの問題</title>
       <description>きのう10月8日の日経平均は993円安の6万9042円で続落。TOPIXは1.51%安の4091.46、プライム市場の約8割の銘柄が下げました。AI・半導体株に利益確定の売り、中東情勢も重し。NYはダウが51ドル高の一方、オープンAIの売上見込みをめぐる報道でナスダックは1.25%安。30年もの国債の入札は平均落札利回り4.109%、応札倍率は約3.9倍。
