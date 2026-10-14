@@ -5,13 +5,47 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:29:07 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#33 米9月の消費者物価3.7%、ガソリン9.1%高が半分超・コアも2.6%に上振れ：10月FOMCの利上げ確率は43.7%へ</title>
+      <description>アメリカの9月の消費者物価は前年比3.7%（予想3.6%・8月3.4%）、前月比0.6%。ガソリンが1か月で9.1%上がり、上昇の半分以上を占めた。食品とエネルギーを除くコアも2.6%（予想2.5%）、前月比0.3%（予想0.2%）。住まいの費用0.4%、航空運賃1.2%、中古車0.7%と、エネルギー高が運賃などに広がり始めた可能性を「1階と2階」で整理。同日のベージュブックでは原油高が全地区の報告に登場し、燃料の追加料金で費用が転嫁される一方、個人消費は横ばい。10月FOMC（27-28日）の利上げ確率は21.6%→43.7%。米2年債は4.82%に上昇、10年債は5.19%に低下。ドル円は158円95銭まで上げて158円05銭へ。
+市況: 14日の日経平均は33円安の6万7744円で5日続落（午後の取引で一時600円超高→ASML決算で失速）、銀行業は長期金利2.985%で2.61%安。NYはナスダック511ポイント安、S&amp;P500は1.11%安。けさの日経平均12月物（夜間）は1680円安の6万6480円。
+日銀: 政策金利1.25%程度、次回会合は10月29-30日。実務: 投信のお客様への説明の言葉、外貨建て保険は長い年限の金利と為替の両面で、変動金利の住宅ローンは時期と幅で。今日は機械受注、米小売売上高・生産者物価、TSMC決算。
+
+【出典】
+・米労働統計局 Consumer Price Index – September 2026 https://www.bls.gov/news.release/cpi.nr0.htm
+・FRB Beige Book（2026年10月） https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm
+・FRB ウォーラー理事講演（2026年10月8日） https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
+・FRB FOMC会合日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・米財務省 Daily Treasury Par Yield Curve Rates https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202610
+・ASML Q3 2026 financial results（SEC Form 6-K） https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm
+・OANDAラボ 9月米CPI速報 https://www.oanda.jp/lab-education/market_news/uscpi-sep-2026-review/
+・みんかぶFX 米CPI受けドル高（10月14日） https://fx.minkabu.jp/news/381568
+・Fisco／Investing.com NY外為（10月15日） https://jp.investing.com/news/forex-news/article-1712079
+・Yahoo Finance Stock Market Today（Oct. 14, 2026） https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-135249729.html
+・日経平均の概況【10月14日】（世界一やさしい投資の学校） https://tbladvisory.com/20261014nk/
+・株探 日経225先物 15日夜間取引終値 https://kabutan.jp/news/marketnews/?b=n202610150083
+・株探 本日の経済スケジュール（10月15日） https://kabutan.jp/news/marketnews/?b=n202610150084
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・野村證券 日銀見通し（森田京平） https://www.nomura.co.jp/wealthstyle/article/0886/
+・第一生命経済研究所 日銀の10月利上げは原油価格が決める（藤代宏一） https://www.dlri.co.jp/report/macro/666056.html
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-15.mp3" length="13953068" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1162</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#32 日経平均1253円安でもTOPIXは上昇、物価は統計1.7%・卸6.8%・実感16%の3つの顔：日銀の企業物価と生活意識アンケート</title>
       <description>連休明け13日、日経平均は1253円安の6万7777円で4日続落（一時1900円超安）なのに、TOPIXは5.86ポイント高の4110.67で7割超の銘柄が上昇というねじれ相場。中国CXMTのサーバー向けメモリ発表でキオクシアが13%ほど下落、銀行・証券・保険株が上昇。長期金利は一時2.995%と9月18日以来の3%割れ。NYはダウ180ドル安、米大手銀決算はまちまち、米10年債5.22%、WTI94.73ドル。プルデンシャル生命・ジブラルタ生命の業務停止が13日に開始。
