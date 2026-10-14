@@ -5,13 +5,49 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 21:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:04:07 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#32 日経平均1253円安でもTOPIXは上昇、物価は統計1.7%・卸6.8%・実感16%の3つの顔：日銀の企業物価と生活意識アンケート</title>
+      <description>連休明け13日、日経平均は1253円安の6万7777円で4日続落（一時1900円超安）なのに、TOPIXは5.86ポイント高の4110.67で7割超の銘柄が上昇というねじれ相場。中国CXMTのサーバー向けメモリ発表でキオクシアが13%ほど下落、銀行・証券・保険株が上昇。長期金利は一時2.995%と9月18日以来の3%割れ。NYはダウ180ドル安、米大手銀決算はまちまち、米10年債5.22%、WTI94.73ドル。プルデンシャル生命・ジブラルタ生命の業務停止が13日に開始。
+本題: 日銀が13日に公表した2つの資料。9月の国内企業物価は前年比6.8%（前月比0.3%下落、7月の7.7%が山）、円ベース輸入物価は前年比24.5%、輸出物価の押し上げ先頭はメモリの集積回路。生活意識アンケート（第107回）では、1年前比の物価実感が平均16.2%・中央値10%、1年後11.8%、5年先は毎年平均10.1%・中央値5%。消費者物価（8月・生鮮除く1.7%）との「3つの物価」のずれを、補助金・卸と小売の時間差・購入頻度で整理。金利が低すぎるとの回答は33.9%。
+今夜21時30分の米9月CPIは予想 総合3.6%・コア2.5%、10月27-28日のFOMC前最後のCPI。実務: 保障額の見直し、外貨建て商品の説明、住宅ローンは幅で話す、預金・年金のお客様には実感を受け止めてから統計とのずれを説明。
+
+【出典】
+・日本銀行 企業物価指数（2026年9月速報） https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2609.pdf
+・日本銀行「生活意識に関するアンケート調査」（第107回＜2026年9月調査＞） https://www.boj.or.jp/research/o_survey/data/ishiki2610.pdf
+・総務省統計局 消費者物価指数 全国 2026年8月分 https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html
+・全国消費者物価、1・8%上昇 7月（共同通信／熊本日日新聞） https://kumanichi.com/articles/2027397
+・東証続落、終値6万7777円 半導体銘柄などに売り（共同通信／Yahoo!ニュース） https://news.yahoo.co.jp/articles/8f9c27045dfe8ef1f76f8cd98e689f032e1e2e0c
+・日経平均終値、前週末比1253円安の6万7777円（読売新聞／Infoseekニュース） https://news.infoseek.co.jp/article/yomiuri_20261013_gyt1t00198
+・キオクシア株が急落 中国企業との競争激化懸念で（日本経済新聞） https://www.nikkei.com/article/DGXZQOUB135V50T11C26A0000000/
+・キオクシアが13％急落（Investing.com） https://jp.investing.com/news/stock-market-news/article-1709594
+・債券15時 長期金利が低下、一時3%割れ 米債高で買い（日本経済新聞） https://www.nikkei.com/article/DGXZQOFL133S70T11C26A0000000/
+・How major US stock indexes fared Tuesday 10/13/2026（AP／WTOP） https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-tuesday-10-13-2026
+・Markets News, Oct. 13, 2026（Yahoo Finance） https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-mixed-104049191.html
+・Wall Street Edges Lower as Chips Fall; Markets Assess Big Bank Earnings（GV Wire） https://gvwire.com/2026/10/13/wall-street-edges-lower-as-chips-fall-markets-assess-big-bank-earnings/
+・Micron Falls 5% as China&#x27;s CXMT Targets Server Memory（24/7 Wall St.） https://247wallst.com/investing/2026/10/13/micron-falls-5-as-chinas-cxmt-targets-server-memory-sandisk-drops-4/
+・September 2026 CPI Preview（Admiral Markets） https://admiralmarkets.com/analytics/traders-blog/us-cpi-preview-september-2026-forecasts-and-the-core-cpi-outlook
+・米労働統計局 2026年10月公表予定 https://www.bls.gov/schedule/2026/10_sched.htm
+・FRB FOMC会合日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・金融庁 プルデンシャル生命保険株式会社、ジブラルタ生命保険株式会社等に対する行政処分について（2026年10月9日） https://www.fsa.go.jp/news/r8/hoken/20261009/20261009.html
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-14.mp3" length="13721516" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1143</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#31 連休明けの注目点：プルデンシャル生命・ジブラルタ生命が13日から3か月半の業務停止、米10年債は一時5.36%、14日に米CPI</title>
       <description>きょう10月12日はスポーツの日で東京市場は取引がお休み、アメリカも債券市場はお休み（株式は通常取引）。速報ではなく、連休中の海外市場と、休場明けにどこを見るかを整理します。
