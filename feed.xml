@@ -5,13 +5,43 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 21:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:15:17 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#34 日経平均3318円安は歴代3位、でも率は4.9%：コアウィーブ社債の利回り15%台が映す「AIの資金」の不安と、米生産者物価1.3%上昇</title>
+      <description>15日の日経平均は3318円安の6万4425円で6日続落、下げ幅は過去3番目。ただし下落率は4.9%で、TOPIXは2.4%安。アドバンテスト1社で約1300円を押し下げ、押し下げ上位5社で約2456円。医薬品・不動産は上昇し、AI銘柄からの資金移動の色が濃い。発端は米AIクラウドのコアウィーブ：2032年満期の社債が額面の8割を割り、利回りは一時15%台、負債はリース含め520億ドル。ガートナーは2030年までにネオクラウドの8割が独立した事業を続けられなくなると予測。一方TSMCの7-9月期は最終的な利益が68.7%増で過去最高と、需要（1階）は強く、資金（2階）が揺れている構図を整理。米9月の生産者物価は前月比1.3%・前年比6.3%（エネルギーが財の上昇の8割超）、小売業の売上高は0.8%増でも、米10年債は5.088%へ低下。日銀の委員は15日の講演で「利上げに過度に慎重になることはない」。日本の10年債は2.913%に低下、銀行業は2.22%安。実務: 投信は率と偏りで、変額保険は特別勘定の中身で、外貨建ては上下の幅で、高利回り社債の投信は組入れの確認を。今日は植田総裁の挨拶（内田副総裁代読）。
+
+【出典】
+・日経平均の概況【10月15日】（世界一やさしい投資の学校） https://tbladvisory.com/20261015nk/
+・トレーダーズ・ウェブ 大引け概況（Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/a53b9b0ab7aae93a8fe0ca5439fbb23f7d0d2ff1
+・共同通信 東証3318円安、過去3番目下げ幅（Yahoo!ニュース） https://news.yahoo.co.jp/articles/f8daaa64ee3d0470194fade7d58c1d37ea6e8e39
+・日本経済新聞 米コアウィーブ社債急落 https://www.nikkei.com/article/DGXZQOGN14C260U6A011C2000000/
+・Investing.com エヌビディアCEO、コアウィーブに財政支援不要 https://jp.investing.com/news/stock-market-news/article-1713552
+・TBS CROSS DIG with Bloomberg 米半導体株の売り加速（Yahoo!ニュース） https://news.yahoo.co.jp/articles/9dc95888edd785bf5988f733107ed654c1d89e74
+・TSMC 3Q26 Earnings Release（SEC Form 6-K） https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm
+・米労働統計局 Producer Price Index – September 2026 https://www.bls.gov/news.release/ppi.nr0.htm
+・Investing.com 10月15日の米国市場 https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317
+・Fisco／Investing.com 10月15日のNY為替概況 https://jp.investing.com/news/forex-news/article-1713640
+・みんかぶFX NY各市場4時台 https://fx.minkabu.jp/news/381737
+・日本銀行 小枝委員 挨拶（熊本県金融経済懇談会、10月15日） https://www.boj.or.jp/about/press/koen_2026/ko261015a.htm
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・みずほ銀行 2024年8月5日の市場動向 https://www.mizuhobank.co.jp/fund/info/pdf/report20240806_1.pdf
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-16.mp3" length="14102828" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1175</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#33 米9月の消費者物価3.7%、ガソリン9.1%高が半分超・コアも2.6%に上振れ：10月FOMCの利上げ確率は43.7%へ</title>
       <description>アメリカの9月の消費者物価は前年比3.7%（予想3.6%・8月3.4%）、前月比0.6%。ガソリンが1か月で9.1%上がり、上昇の半分以上を占めた。食品とエネルギーを除くコアも2.6%（予想2.5%）、前月比0.3%（予想0.2%）。住まいの費用0.4%、航空運賃1.2%、中古車0.7%と、エネルギー高が運賃などに広がり始めた可能性を「1階と2階」で整理。同日のベージュブックでは原油高が全地区の報告に登場し、燃料の追加料金で費用が転嫁される一方、個人消費は横ばい。10月FOMC（27-28日）の利上げ確率は21.6%→43.7%。米2年債は4.82%に上昇、10年債は5.19%に低下。ドル円は158円95銭まで上げて158円05銭へ。
