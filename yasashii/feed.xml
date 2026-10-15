@@ -5,13 +5,35 @@
     <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 22:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:28:41 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#27 日経平均3318円安は過去3番目、でも率で見ると4.9パーセント——長い期間の金利の低下と固定金利、株が下がっても円が高くならないわけ</title>
+      <description>きょうも、暮らしに近い3本です。1本目は、15日の日経平均の3318円安。下げ幅は過去3番目でも、率にすると4.9パーセントで、幅広い会社をまとめたTOPIXは2.4パーセントの下げでした。AIに関係する会社の借金への心配が中心だったこと、積み立てをしている方が「幅でなく率で聞く」「中身を見る」「1日の値段の動きで決めない」の3つをお話しします。
+
+2本目は、株が下がった日に下がった日本の長い期間の金利と、住宅ローンの固定金利。10年もの国債の金利は2.9パーセントほどで約1か月ぶりの低さですが、10月に出た10年もの国債の利率は3.1パーセントと約30年ぶりの高さで、水準はまだ高いままです。変動金利の目安になる日本銀行の金利は1.25パーセント程度、次の会合は10月29日・30日。3本目は、株が大きく下がっても1ドル158円前後で円が高くならなかったわけを、銀行の利息のたとえでお話しします。「ちょこっと解説」は、株が下がった日に国債の値段はどうなるか、のクイズです。
+
+【出典】日本経済新聞・時事通信（日経平均、10月15日）／トレーダーズ・ウェブ 大引け概況／日本経済新聞 長期金利の低下／時事通信 10年債金利 10月発行分／日本銀行 小枝委員 挨拶（10月15日）／日本銀行 金融政策決定会合等の日程／みんかぶ NY各市場・為替
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-10-16.mp3" length="10204748" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>850</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#26 アメリカの物価3.7パーセント、上昇の半分以上はガソリン——「お天気」と「柱」で見る物価、10月30日の日本銀行と変動金利、株の5日続落と積み立て</title>
       <description>きょうも、暮らしに近い3本です。1本目は、ゆうべ発表されたアメリカの9月の消費者物価。前年比3.7パーセント上昇と予想を上回り、ガソリンは1か月で9.1パーセント上がって上昇の半分以上を占めました。上がったり下がったりする「お天気の値段」と、一度上がると下がりにくい「柱の値段」に分けて見るお話と、アメリカの金利と1ドル158円台の円の値段を通じて、日本の台所にどう届くかをお話しします。
