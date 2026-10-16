@@ -5,13 +5,35 @@
     <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:27:43 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#28 今週のおさらい：物価・金利・株を一本の線に——総裁の「上に行く心配」、変動と固定で反対の風、日経平均5.4%安でもTOPIXは1%未満</title>
+      <description>土曜日は、この一週間（10月13日〜16日）のおさらいです。1つ目は物価。13日の日本銀行のアンケート（1年前より何パーセント上がったと感じるか、の平均16.2パーセント）と企業物価（前年比6.8パーセント）、14日のアメリカの9月の物価（3.7パーセント、押し上げたものの半分以上がガソリン）、そして16日の植田総裁の挨拶（物価の底の流れは2パーセントに近づき、上に行く心配がある）までを「同じお鍋」のたとえでつなぎ、冬の光熱費と27日に日本銀行が出す数字のお話をします。
+
+2つ目は金利。日本銀行の委員と総裁が利上げの方向を示した一方で、固定金利の目安になる10年もの国債の金利は3パーセントを下回りました。変動と固定で反対の風が吹いたわけを綱引きのたとえで整理し、29日・30日の日本銀行の会合までに確かめておきたいことをまとめます。3つ目は株。日経平均は一週間で5.4パーセント下げましたが、幅広い会社をまとめたTOPIXは1パーセント未満の下げ。AIの設備を借金でそろえる会社への心配、1ドル158円前後で動かなかった円、積み立てをしている方の受け止め方をお話しします。「ちょこっと解説」は「基調的な物価」とは何か、のクイズです。
+
+【出典】日本銀行 植田総裁 挨拶（全国信用組合大会、2026年10月16日）／日本銀行 委員 挨拶（熊本県金融経済懇談会、10月15日）／日本銀行「生活意識に関するアンケート調査」第107回／日本銀行「企業物価指数（2026年9月速報）」／日本銀行 公表予定・金融政策決定会合等の日程／米労働統計局「Consumer Price Index（2026年9月分）」／日本経済新聞（米社の社債急落）／日経平均・TOPIXの概況（10月9日〜16日）／ロイター（為替・米利上げ観測）
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-10-17.mp3" length="10188908" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>849</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#27 日経平均3318円安は過去3番目、でも率で見ると4.9パーセント——長い期間の金利の低下と固定金利、株が下がっても円が高くならないわけ</title>
       <description>きょうも、暮らしに近い3本です。1本目は、15日の日経平均の3318円安。下げ幅は過去3番目でも、率にすると4.9パーセントで、幅広い会社をまとめたTOPIXは2.4パーセントの下げでした。AIに関係する会社の借金への心配が中心だったこと、積み立てをしている方が「幅でなく率で聞く」「中身を見る」「1日の値段の動きで決めない」の3つをお話しします。
