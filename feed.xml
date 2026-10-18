@@ -5,13 +5,42 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 02:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:28:58 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#37 75歳以上の医療費に株の配当・売却益を反映、2029年8月開始・2028年分から：金融機関に法定調書のオンライン提出義務、日経平均は898円反発</title>
+      <description>月曜は、厚生労働省が10月16日の社会保障審議会医療保険部会で示した「後期高齢者医療制度における金融所得の公平な反映」のスケジュールを本題にします。今は源泉徴収ありの特定口座で確定申告しない配当・売却益は、保険料や窓口負担（原則1割、所得により2割・3割）の判定に入りません。改正健康保険法（令和8年法律第31号）により、2029年1月から金融機関等に法定調書の広域連合へのオンライン提出が義務化され、2029年8月から2028年分の所得を反映（初年度は枚数ベースで約8割、2030年8月以降はすべて）。法定調書データベース（仮称）で名寄せし、令和9年度概算要求は56億円、金融機関の改修は国が2分の1補助。資料に書かれていないNISA等の扱いは断定しない、という説明の組み立てまで整理します。市況は、16日の日経平均6万5324円（898円高）・TOPIX 4066、米国株は金曜にナスダック2.1%安・週間4.5%安、WTIは101ドル台、植田総裁はバンコクで基調物価の上振れを「容認できない」と発言。今週は23日の全国消費者物価と金融システムレポート、29〜30日の日銀会合へ。
+
+【出典】
+・厚生労働省 第218回社会保障審議会医療保険部会 資料3「後期高齢者医療制度における金融所得の公平な反映のスケジュールについて」 https://www.mhlw.go.jp/content/12401000/001759824.pdf
+・時事通信「29年8月から金融所得反映 75歳以上の医療費負担」 https://www.jiji.com/jc/article?k=2026101600750&amp;g=eco
+・読売新聞オンライン（Yahoo!ニュース）後期高齢者の医療費窓口負担や保険料へ金融所得反映 https://news.yahoo.co.jp/articles/9c4ed1c6e687c4295c5ec5d4a12351644474aa76
+・共同通信（熊本日日新聞）東京株式 16日終値 https://kumanichi.com/articles/2047137
+・共同通信（熊本日日新聞）東証、午前終値6万5550円 https://kumanichi.com/articles/2047209
+・AP通信（Yahoo Finance）How major US stock indexes fared Friday 10/16/2026 https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201722343.html
+・Yahoo Finance Markets News, Oct. 16, 2026 https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html
+・ロイター（MarketScreener）Dollar set for weekly loss as Fed hike bets fade https://www.marketscreener.com/news/dollar-set-for-weekly-loss-as-fed-hike-bets-fade-ai-clouds-outlook-ce785cdadc88f325
+・時事通信（Yahoo!ニュース）植田日銀総裁、物価上振れ「容認できず」 https://news.yahoo.co.jp/articles/92506ea846528fc782fc26128e05c39a4035fb71
+・財務省 国債金利情報 https://www.mof.go.jp/jgbs/reference/interest_rate/index.htm
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・財務省 国債入札カレンダー 2026年10月 https://www.mof.go.jp/jgbs/auction/calendar/2610.htm
+・FRB FOMC日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-19.mp3" length="14229548" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1185</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#36 来週の実務カレンダー：23日に全国物価（予想2.2%）と日銀の金融システムレポート、東京2.7%の半分超は水道・保育料の裏返し</title>
       <description>日曜は来週（10月19日〜23日）の実務カレンダーです。材料は金曜23日に集まります。朝8時30分に9月の全国消費者物価（8月は生鮮食品を除き1.7%、市場予想は2.2%）、午後3時に日銀の金融システムレポート10月号。先に出た東京都区部9月分は生鮮食品を除き2.7%に上がりましたが、総合の上げ幅0.8ポイントのうち保育料0.29・水道料0.24ポイントは去年の都の施策の裏返しです。金融システムレポートは、4月号のデータセンター向け・海外ファンド向け貸出の記述と、住宅ローンの5年ルール（10月基準日・12月以降に反映が多い）がどう書かれるかに注目。FRBは発言を控える期間（10/17〜29）に入っています。2本をシナリオ分岐で整理し、住宅ローン・預金・貯蓄性保険・外貨建て保険・投資信託のお客様への週明けの説明を組み立てます。
