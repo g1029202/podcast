@@ -5,13 +5,47 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 21:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 02:07:47 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#36 来週の実務カレンダー：23日に全国物価（予想2.2%）と日銀の金融システムレポート、東京2.7%の半分超は水道・保育料の裏返し</title>
+      <description>日曜は来週（10月19日〜23日）の実務カレンダーです。材料は金曜23日に集まります。朝8時30分に9月の全国消費者物価（8月は生鮮食品を除き1.7%、市場予想は2.2%）、午後3時に日銀の金融システムレポート10月号。先に出た東京都区部9月分は生鮮食品を除き2.7%に上がりましたが、総合の上げ幅0.8ポイントのうち保育料0.29・水道料0.24ポイントは去年の都の施策の裏返しです。金融システムレポートは、4月号のデータセンター向け・海外ファンド向け貸出の記述と、住宅ローンの5年ルール（10月基準日・12月以降に反映が多い）がどう書かれるかに注目。FRBは発言を控える期間（10/17〜29）に入っています。2本をシナリオ分岐で整理し、住宅ローン・預金・貯蓄性保険・外貨建て保険・投資信託のお客様への週明けの説明を組み立てます。
+
+【確定した予定】10/19 国庫短期証券（1年）入札／10/20 20年利付国債入札・米9月住宅着工／10/21 9月貿易統計・テスラ決算（米引け後、説明会は日本時間22日6:30）／10/22 主要銀行貸出動向アンケート調査 8:50・米新規失業保険申請／10/23 全国消費者物価（9月）8:30・金融システムレポート（10月号）15:00・ミシガン大学消費者調査確報（米東部10時）／10/27-28 FOMC／10/29-30 日銀会合（30日 展望レポート・総裁会見15:30）／10/30 東京都区部消費者物価（10月）8:30
+【報道ベース・予定表ベース】10/19 中国7〜9月期GDP（11時）、10/22 ディスコ決算、10/23 ファナック・東京製鐵決算
+
+【出典】
+・総務省統計局 消費者物価指数 全国 2026年8月分 https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html
+・総務省統計局 消費者物価指数 東京都区部 2026年9月分（中旬速報値） https://www.stat.go.jp/data/cpi/sokuhou/tsuki/pdf/kubu.pdf
+・総務省統計局 消費者物価指数 公表予定 https://www.stat.go.jp/data/kouhyou/e-stat_cpi.xml
+・9月東京物価2.7%上昇 8カ月ぶり2%台（共同通信／熊本日日新聞） https://kumanichi.com/articles/2042111
+・国内外の注目経済指標（フィスコ／Yahoo!ファイナンス） https://finance.yahoo.co.jp/news/detail/6d653ab6b5857ea07cf153945f0f4d4b2ee8736b
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・日本銀行 金融システムレポート（2026年4月号） https://www.boj.or.jp/research/brp/fsr/fsr260421.htm
+・日銀金融政策決定会合（2026年9月）（第一生命経済研究所） https://www.dlri.co.jp/report/macro/665928.html
+・財務省 国債入札カレンダー 2026年10月 https://www.mof.go.jp/jgbs/auction/calendar/2610.htm
+・税関 貿易統計 公表予定 https://www.customs.go.jp/toukei/calendar/calend.htm
+・FRB FOMC日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・セントルイス連銀 Speakers Bureau（発言を控える期間） https://www.stlouisfed.org/speakers-bureau
+・ニューヨーク連銀 経済指標カレンダー（2026年10月） https://www.newyorkfed.org/research/calendars/i-oct26.html
+・Tesla Q3 2026 Vehicle Production &amp; Deliveries（SEC提出資料） https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm
+・マネックス証券 決算発表スケジュール 2026年10月 https://scouter.monex.co.jp/schedule/202610
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-18.mp3" length="13883660" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1156</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#35 今週の総括：日経平均は週3700円安でもTOPIXは1%未満の下げ、AIの資金不安・米物価3.7%・日銀の「上振れリスク」を一本の線に</title>
       <description>土曜は今週（10月13日〜16日）の総括です。日経平均は9日の6万9030円から16日の6万5324円へ約3700円・5.4%の下げ、TOPIXは4104→4066で1%未満の下げ。分かれ目は3318円安の15日。長期金利は3.010%→2.930%と3%を割り、ドル円は158円前後で横ばい（円は4週続いた週間の下げが止まる）。
