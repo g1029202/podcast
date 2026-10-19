@@ -5,13 +5,41 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 21:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:15:10 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#38 FSBがAI活用の12の実務を最終化、人に戻れる道と外部依存の管理：AI投資は来年1兆ドルでFRBの悩みに、日経平均は407円安</title>
+      <description>火曜は、金融安定理事会（FSB）が10月15日に公表した最終報告書「AIの責任ある導入に関する健全な実務慣行」を本題にします。組織全体の統治4つとAIのライフサイクル管理8つ、計12の実務を整理し、信用組合のローン審査（説明しやすい手法を選び、申込者に主な要素と不服申し立ての道を示した事例）、大手保険会社の保険金請求の自動処理（約半分を完全自動化しつつプライバシー案内を更新し人の対応を確保）、大手銀行の法人担当者支援（準備時間約半分・対話約3倍）を紹介。人による監督の形（全件承認・必要時のみ介入・停止スイッチ）、クラウドや基盤モデルへの集中リスク、規模に応じた適用も解説します。同日の植田総裁挨拶（全国信用組合大会・内田副総裁代読）のフロンティアAIとサイバーリスクにも触れます。後半は、ロイターが報じたAI投資（来年約1兆ドル・GDP比約3%）が米国の物価を押し上げ、利上げの負担が中小企業や家計に偏りうる論点と、10月27〜28日のFOMC。市況は、19日の日経平均6万4916円（407円安）・TOPIX 4067、ドル円158円台前半、米国はS&amp;P500が0.41%高・ナスダック1.11%高・半導体株指数が8日続落を止め、原油は103ドル台。今週23日は日銀の金融システムレポート。
+
+【出典】
+・FSB プレスリリース（2026年10月15日） https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/
+・FSB 最終報告書 Sound Practices for Responsible Adoption of AI https://www.fsb.org/uploads/P151026-1.pdf
+・日本銀行「FSBが最終報告書『AIの責任ある導入に関する健全な実務慣行』を公表」 https://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm
+・日本銀行 植田総裁挨拶（全国信用組合大会） https://www.boj.or.jp/about/press/koen_2026/data/ko261016a.pdf
+・ロイター（Investing.com）Fed sees AI boom adding to inflation headache https://ca.investing.com/news/economy-news/fed-sees-ai-boom-adding-to-inflation-headache-but-others-may-pay-for-the-medicine-4887756
+・ロイター（MarketScreener）S&amp;P 500, Nasdaq climb as AI-linked stocks recover https://uk.marketscreener.com/news/s-p-500-nasdaq-climb-as-ai-linked-stocks-recover-ahead-of-earnings-ce785cdbda8ff725
+・読売新聞オンライン（Yahoo!ニュース）日経平均反落、終値407円安 https://news.yahoo.co.jp/articles/254aaa476d9e2c138a13b1c6570fed597b4dbc12
+・共同通信（OANDA）東京円、158円台前半 https://www.oanda.jp/lab-education/market_news/kn_2026101901001332/
+・フィスコ（Investing.com）10月19日のNY為替概況 https://jp.investing.com/news/forex-news/article-1716571
+・FSB About https://www.fsb.org/about/
+・FRB FOMC日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-20.mp3" length="13896332" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1158</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#37 75歳以上の医療費に株の配当・売却益を反映、2029年8月開始・2028年分から：金融機関に法定調書のオンライン提出義務、日経平均は898円反発</title>
       <description>月曜は、厚生労働省が10月16日の社会保障審議会医療保険部会で示した「後期高齢者医療制度における金融所得の公平な反映」のスケジュールを本題にします。今は源泉徴収ありの特定口座で確定申告しない配当・売却益は、保険料や窓口負担（原則1割、所得により2割・3割）の判定に入りません。改正健康保険法（令和8年法律第31号）により、2029年1月から金融機関等に法定調書の広域連合へのオンライン提出が義務化され、2029年8月から2028年分の所得を反映（初年度は枚数ベースで約8割、2030年8月以降はすべて）。法定調書データベース（仮称）で名寄せし、令和9年度概算要求は56億円、金融機関の改修は国が2分の1補助。資料に書かれていないNISA等の扱いは断定しない、という説明の組み立てまで整理します。市況は、16日の日経平均6万5324円（898円高）・TOPIX 4066、米国株は金曜にナスダック2.1%安・週間4.5%安、WTIは101ドル台、植田総裁はバンコクで基調物価の上振れを「容認できない」と発言。今週は23日の全国消費者物価と金融システムレポート、29〜30日の日銀会合へ。
