@@ -5,13 +5,47 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:28:02 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#39 20年債入札の応札倍率5.84倍で過去最高、なのに銀行株が下げた理由：岩井コスモ証券は委託先の管理機能から7口座に不正注文、日経平均は841円安</title>
+      <description>水曜は、10月20日の20年利付国債（第198回、表面利率3.8%）の入札を本題にします。応札倍率は5.84倍で過去最高（前回4.01倍）、テールは7銭に縮小、最低落札価格は100円80銭で市場予想を上回りました。世界的な金利上昇の一服、生命保険会社の国内債の積み増し計画（明治安田・かんぽ・富国）と、経済価値ベースのソルベンシー規制への対応が一巡したとする住友生命の見方を整理し、長期金利の低下で銀行株・保険株が下げた理由、一時払い保険や住宅ローンへの含意を解説します。後半は、委託先トレードワークスの管理機能の設定不備を突かれ、岩井コスモ証券の7口座で意図しない売買注文が出た件（5口座で約定・取引前に戻す措置済み、4,975人分の氏名やメールアドレスが漏えい）。日証協ガイドラインの多要素認証と、委託先管理の論点です。市況は、20日の日経平均6万4075円（841円安）・TOPIX 4009、コアウィーブの信用不安と韓国エリスグループの上場初日の急落、米国はダウ529ドル高（3Mが決算で上昇）、中古住宅の契約の指数が統計開始以来の最低、FOMCでの利上げ確率は14.9%。今後は23日の日銀金融システムレポート、29〜30日の日銀金融政策決定会合。
+
+【出典】
+・財務省 20年利付国債（第198回）入札結果 https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261020.htm
+・財務省 国債入札カレンダー（2026年10月） https://www.mof.go.jp/jgbs/auction/calendar/2610.htm
+・日本経済新聞 20年債入札「好調」 応札倍率が過去最高 https://www.nikkei.com/article/DGXZQOUB203860Q6A021C2000000/
+・MINKABU PRESS（ライブドアニュース）20年債入札、テールは7銭で応札倍率5.84倍 https://news.livedoor.com/article/detail/32610854/
+・日本経済新聞 生保半数、国内債積み増し https://www.nikkei.com/article/DGXZQOUB238970T20C26A4000000/
+・ロイター（Infoseekニュース）住友生命・26年度運用計画 https://news.infoseek.co.jp/article/24reutersJAPAN_KBN3R109C/
+・時事通信（Yahoo!ファイナンス）富国生命、国内債積み増し＝26年度下期運用計画 https://finance.yahoo.co.jp/news/detail/9c4299444eb4fec1a533c96a89dfff60de97f36f
+・時事ドットコム サイバー攻撃で売買注文 委託先に不正アクセス―岩井コスモ証券 https://www.jiji.com/jc/article?k=2026102001170&amp;g=eco
+・NHK 岩井コスモ証券 不正アクセスで顧客が意図しない売買注文 https://news.web.nhk/newsweb/na/nd-20261021de62520
+・BigGo ファイナンス 岩井コスモ証券の売買システムに不正アクセス https://finance.biggo.jp/news/77200dde-d30a-44e6-8a0f-cb3d01a78704
+・Impress Watch 日証協ガイドライン改正案 https://www.watch.impress.co.jp/docs/news/2031496.html
+・世界一やさしい投資の学校 日経平均の概況【10月20日】 https://tbladvisory.com/20261020nk/
+・外為どっとコム（DZH）株式明日の戦略 https://www.gaitame.com/media/entry/2026/10/21/034516
+・みんかぶ 米国株概況（10月21日） https://fx.minkabu.jp/news/382131
+・ロイター（MarketScreener）Stocks mostly rise as oil, US yields ease https://ca.marketscreener.com/news/stocks-mostly-rise-as-oil-us-yields-ease-euro-edges-up-ce785cd8dd89f027
+・Bloomberg CoreWeave Credit Risk Hits Record https://www.bloomberg.com/news/articles/2026-10-15/coreweave-risk-gauge-hits-record-pricing-60-odds-of-default
+・Yahoo!ファイナンス（Motley Fool）CoreWeave&#x27;s Debt Insurance Costs Just Hit a Record https://finance.yahoo.com/technology/ai/articles/coreweave-debt-insurance-costs-just-224502593.html
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-21.mp3" length="14180588" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1181</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#38 FSBがAI活用の12の実務を最終化、人に戻れる道と外部依存の管理：AI投資は来年1兆ドルでFRBの悩みに、日経平均は407円安</title>
       <description>火曜は、金融安定理事会（FSB）が10月15日に公表した最終報告書「AIの責任ある導入に関する健全な実務慣行」を本題にします。組織全体の統治4つとAIのライフサイクル管理8つ、計12の実務を整理し、信用組合のローン審査（説明しやすい手法を選び、申込者に主な要素と不服申し立ての道を示した事例）、大手保険会社の保険金請求の自動処理（約半分を完全自動化しつつプライバシー案内を更新し人の対応を確保）、大手銀行の法人担当者支援（準備時間約半分・対話約3倍）を紹介。人による監督の形（全件承認・必要時のみ介入・停止スイッチ）、クラウドや基盤モデルへの集中リスク、規模に応じた適用も解説します。同日の植田総裁挨拶（全国信用組合大会・内田副総裁代読）のフロンティアAIとサイバーリスクにも触れます。後半は、ロイターが報じたAI投資（来年約1兆ドル・GDP比約3%）が米国の物価を押し上げ、利上げの負担が中小企業や家計に偏りうる論点と、10月27〜28日のFOMC。市況は、19日の日経平均6万4916円（407円安）・TOPIX 4067、ドル円158円台前半、米国はS&amp;P500が0.41%高・ナスダック1.11%高・半導体株指数が8日続落を止め、原油は103ドル台。今週23日は日銀の金融システムレポート。
