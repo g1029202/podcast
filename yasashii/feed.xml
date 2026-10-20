@@ -5,13 +5,33 @@
     <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:27:01 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#32 国債に「6倍近い行列」で長い金利が下がった、家のローンの固定金利は来月しだい——証券会社の不正注文と偽メールへの備え、株が841円下げた日に上がった会社</title>
+      <description>水曜日のきょうは、3本です。1本目は、満期まで20年の日本の国債に、売り出した量の6倍近い注文が集まり、これまでで一番の集まり方になったお話。世界の金利の上がり方がひと休みし、待っていた買い手が戻ったことで、10年の国債の金利は2.883パーセントに下がりました。家のローンの固定金利にとっては下がる側の材料ですが、来月の金利は銀行が決めるまでの市場しだいで、変動金利は29日・30日の日本銀行の会合を見る、という見る場所の違いを整理します。2本目は、ある証券会社で、委託先のシステムの管理用の機能を突かれ、7つの口座でお客さんが頼んでいない売り買いの注文が出た件。取引前の状態に戻す処理は済んでいますが、4,975人分の名前とメールアドレスなどが漏れたため、メールのリンクからログインしない、という備えをお話しします。3本目は、日経平均が841円下げた日に、スーパーなどの小売業と薬の会社の株が上げたお話。「ちょこっと解説」は、国債が人気になると金利はどうなるか、というシーソーのクイズです。
+
+【出典】財務省 20年利付国債（第198回）入札結果（10月20日）／日本経済新聞「20年債入札『好調』応札倍率が過去最高」／日本経済新聞「生保半数、国内債積み増し」／時事通信・NHK（岩井コスモ証券への不正アクセス、10月20日）／Impress Watch（日本証券業協会のガイドライン改正）／世界一やさしい投資の学校（日経平均の概況 10月20日）／みんかぶ（米国株概況 10月21日）／ロイター（米市場、10月20日）／日本銀行 公表予定
+
+※本番組は特定の金融商品の推奨を目的としたものではありません。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-10-21.mp3" length="9985004" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>832</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#31 石油が1日で2.2%上昇・円は158円台、冬の光熱費はまず去年の明細から——AI投資1兆ドルの負担はカード払いの家計に？、保険金の請求は数時間で</title>
       <description>火曜日のきょうは、3本です。1本目は、きのうのアメリカで原油の値段が2.2パーセント上げ、たる1つぶんで103ドル66セントになったお話。中東での攻撃の再開がきっかけで、円も1ドル158円台と安い状態が続き、石油の値上がりが2つ重なって電気代とガス代に時間をおいて届く仕組みと、いまのうちに去年の冬の明細を見ておく理由を整理します。2本目は、ロイターが報じた、AIの産業による来年約1兆ドル（アメリカ経済の約3パーセント）の投資と物価のお話。金利を上げても手元資金の多いAI大手は投資を減らしにくく、負担が借り入れに頼る中小企業やカードで支払う家計に偏りうる、という指摘です。アメリカの会合は27日・28日、日本銀行の会合は29日・30日。3本目は、金融安定理事会の報告書にある、簡単な保険金の請求が数時間で支払われ、約半分が自動処理された保険会社の例と、「人に戻れる道」のお話です。「ちょこっと解説」は、きのう日経平均が407円下げた一方でTOPIXはわずかに上がった、というクイズです。
