@@ -5,13 +5,42 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:27:21 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#40 PHPの深刻な欠陥（深刻度9.2）で静岡銀行がネットバンキング停止、みずほ・大和証券も：スペースエックス初の黒字で日経平均545円高</title>
+      <description>木曜は、ウェブサイトを動かす言語PHPに見つかった2つの深刻な欠陥（ログインなしで外部からプログラムを動かされる恐れ・深刻度9.2）を本題にします。PHP財団は公開を22日から21日に前倒しして修正版を出し、米CISAは全システムの洗い出しと即時の修正、8.1以前のサポート切れ版の切り離しを求めました。国内では静岡銀行がネットバンキングとアプリを予防的に停止（被害なし・再開は安全確認後）、七十七銀行は決済関連を残して一部停止、みずほ銀行は来店予約を停止、大和証券・三菱UFJモルガン・スタンレー証券もウェブ手続きを止めました。全銀協は銀行間決済への影響は確認されていないとしています。全部止めるか一部止めるかの判断の違い、委託先・組み込み製品の洗い出し、窓口でのお客様への説明の順番を整理します。後半は、スペースエックスの上場後初の黒字（売上高161%増、AI事業が黒字転換）とスーパー・マイクロの強い見通しでAI投資の不安が落ち着いた一方、エーティーアンドティーやネットフリックスが下げた勝ち負けの分かれ方。市況は、21日の日経平均6万4621円（545円高）・TOPIX 4043、米国はダウ5万2856ドル（0.69%高）・ナスダック1.05%高、ドル円は158円台。今後は23日の日銀金融システムレポート、27〜28日のFOMC、29〜30日の日銀金融政策決定会合。
+
+【出典】
+・The PHP Foundation Today&#x27;s PHP Security Release https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/
+・CISA Critical Vulnerabilities in PHP Require Immediate Patching https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching
+・日本経済新聞 プログラム言語「PHP」欠陥発覚、一部の金融機関でウェブサービス停止 https://www.nikkei.com/article/DGXZQOGN220310S6A021C2000000/
+・日本経済新聞 静岡銀行、ネットバンキングを一時停止 https://www.nikkei.com/article/DGXZQOCC21BGO0R21C26A0000000/
+・日本経済新聞 七十七銀行、PHP脆弱性対応で一部サービス停止 https://www.nikkei.com/article/DGXZQOCC21BOG0R21C26A0000000/
+・共同通信（Yahoo!ニュース）銀行決済は影響確認されず PHP欠陥、鉄道などで緊急措置 https://news.yahoo.co.jp/articles/5bfd5931cef24909588345807ecec484556b47c8
+・ロイター（MarketScreener）Nasdaq leads Wall Street to higher close as SpaceX, Super Micro boost AI sentiment https://www.marketscreener.com/news/nasdaq-leads-wall-street-to-higher-close-as-spacex-super-micro-boost-ai-sentiment-ce785cd9dd8cf725
+・ABC News SpaceX revenue soars 161% as AI business grows https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509
+・CNBC Stock market today (Oct 20) https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html
+・世界一やさしい投資の学校 日経平均の概況【10月21日】 https://tbladvisory.com/20261021nk/
+・みんかぶ NY為替 https://fx.minkabu.jp/news/382252
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・FRB October 2026 calendar https://www.federalreserve.gov/newsevents/2026-october.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-22.mp3" length="13721516" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1143</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#39 20年債入札の応札倍率5.84倍で過去最高、なのに銀行株が下げた理由：岩井コスモ証券は委託先の管理機能から7口座に不正注文、日経平均は841円安</title>
       <description>水曜は、10月20日の20年利付国債（第198回、表面利率3.8%）の入札を本題にします。応札倍率は5.84倍で過去最高（前回4.01倍）、テールは7銭に縮小、最低落札価格は100円80銭で市場予想を上回りました。世界的な金利上昇の一服、生命保険会社の国内債の積み増し計画（明治安田・かんぽ・富国）と、経済価値ベースのソルベンシー規制への対応が一巡したとする住友生命の見方を整理し、長期金利の低下で銀行株・保険株が下げた理由、一時払い保険や住宅ローンへの含意を解説します。後半は、委託先トレードワークスの管理機能の設定不備を突かれ、岩井コスモ証券の7口座で意図しない売買注文が出た件（5口座で約定・取引前に戻す措置済み、4,975人分の氏名やメールアドレスが漏えい）。日証協ガイドラインの多要素認証と、委託先管理の論点です。市況は、20日の日経平均6万4075円（841円安）・TOPIX 4009、コアウィーブの信用不安と韓国エリスグループの上場初日の急落、米国はダウ529ドル高（3Mが決算で上昇）、中古住宅の契約の指数が統計開始以来の最低、FOMCでの利上げ確率は14.9%。今後は23日の日銀金融システムレポート、29〜30日の日銀金融政策決定会合。
