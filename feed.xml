@@ -5,13 +5,42 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:41:40 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#41 ラムリサーチ最高益でも日経平均1713円安：メタは設備投資349億ドルで稼ぐ額を上回り、AIは「掘る人の財布」が問われる段階へ</title>
+      <description>金曜は、過去最高の売上高（82億2000万ドル・前年比54%増）を出した米ラムリサーチの株価が1割前後下げ、日経平均が1713円安（6万2907円）となった理由を本題にします。10〜12月の見通しが市場予想をわずかに上回るだけにとどまったこと、部品不足で出荷の一部が1〜3月にずれること、中国向け比率（35%）が大きく下がる見込みであること。一方で業界の装置投資は2026年1500億ドル台半ば、2027年2000億ドル超へ引き上げられています。メタは売上高646億ドル（26%増）でも、7〜9月の設備投資349億ドルで手元のお金の流れがマイナスに転じ一時7%安。ゴールドラッシュの「つるはしを売る会社」と「掘る人の財布」にたとえて、供給・手元資金・借入れ負担の3点でお客様への説明を整理します。後半は、サウジアラビアの油田付近への攻撃などで北海ブレントが一時112ドル台となった原油の値上がりと、ドル円156円台への円高。市況は、22日の日経平均6万2907円（1713円安）・TOPIX 3997、米国はナスダック2.60%安・ダウ5万2867ドル（ほぼ横ばい）。今後は23日15時の日銀金融システムレポート、27〜28日のFOMC、29〜30日の日銀金融政策決定会合。
+
+【出典】
+・Investing.com Why is Lam Research stock sliding today? https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-sliding-today-93CH-4965056
+・Top1Markets Lam Research Q1 fiscal 2027 earnings https://www.top1markets.com/news/lam-research-q1-fiscal-2027-earnings-stock-falls
+・investingLive Meta shares fall 7% on huge spending plans https://investinglive.com/stocks/meta-shares-fall-7-on-huge-spending-plans/
+・TECHi Meta Q3 2026 results https://www.techi.com/meta-q3-2026-results-revenue-beat-legal-charge/
+・Yahoo Finance Stock market today (Oct 22) https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html
+・Free Press Journal Crude oil prices surge as Saudi Aramco oilfield attack fuels supply fears https://www.freepressjournal.in/business/crude-oil-prices-surge-17-to-110-as-saudi-aramco-oilfield-attack-fuels-supply-fears
+・BigGo Finance Brent Crude Tops $112 https://finance.biggo.com/news/435317fb-55cb-41df-a344-eccc9254d564
+・世界一やさしい投資の学校 日経平均の概況【10月22日】 https://tbladvisory.com/20261022nk/
+・みんかぶ NY為替概況 https://fx.minkabu.jp/news/382392
+・みんかぶ 22日の為替市場の四本値 https://fx.minkabu.jp/news/382393
+・みんかぶ NY時間に伝わった発言・ニュース https://fx.minkabu.jp/news/382386
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・FRB October 2026 calendar https://www.federalreserve.gov/newsevents/2026-october.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-23.mp3" length="13894892" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1157</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#40 PHPの深刻な欠陥（深刻度9.2）で静岡銀行がネットバンキング停止、みずほ・大和証券も：スペースエックス初の黒字で日経平均545円高</title>
       <description>木曜は、ウェブサイトを動かす言語PHPに見つかった2つの深刻な欠陥（ログインなしで外部からプログラムを動かされる恐れ・深刻度9.2）を本題にします。PHP財団は公開を22日から21日に前倒しして修正版を出し、米CISAは全システムの洗い出しと即時の修正、8.1以前のサポート切れ版の切り離しを求めました。国内では静岡銀行がネットバンキングとアプリを予防的に停止（被害なし・再開は安全確認後）、七十七銀行は決済関連を残して一部停止、みずほ銀行は来店予約を停止、大和証券・三菱UFJモルガン・スタンレー証券もウェブ手続きを止めました。全銀協は銀行間決済への影響は確認されていないとしています。全部止めるか一部止めるかの判断の違い、委託先・組み込み製品の洗い出し、窓口でのお客様への説明の順番を整理します。後半は、スペースエックスの上場後初の黒字（売上高161%増、AI事業が黒字転換）とスーパー・マイクロの強い見通しでAI投資の不安が落ち着いた一方、エーティーアンドティーやネットフリックスが下げた勝ち負けの分かれ方。市況は、21日の日経平均6万4621円（545円高）・TOPIX 4043、米国はダウ5万2856ドル（0.69%高）・ナスダック1.05%高、ドル円は158円台。今後は23日の日銀金融システムレポート、27〜28日のFOMC、29〜30日の日銀金融政策決定会合。
