@@ -5,13 +5,44 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:30:56 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#42 今週の総括：日経平均は週2631円安、日銀はAIの資金の流れを点検、物価は9か月ぶり2%台</title>
+      <description>土曜は今週の総括です。日経平均は16日の6万5324円から23日の6万2693円へ、一週間で2631円安（4%安）、TOPIXは3965で4000割れ。分かれ目は22日の木曜（1713円安）でした。材料は3本。①AIの資金：売上高が過去最高のラムリサーチ（82億2000万ドル・54%増）が売られ、メタは7〜9月の設備投資349億ドルが稼ぎを上回り、問いが「売れているか」から「誰のお金で投資しているか」へ。②日銀の金融システムレポート（23日）：全体として安定を維持。邦銀の海外ノンバンク向け投融資は8兆円（2008年3月末）→126兆円（2026年6月末）、ストレステストに原油140ドル・AIへの期待縮小・金利上昇の同時発生を想定。地域金融機関の高金利定期預金の移りやすさ、変動金利の住宅ローン返済額は中心値で毎月5千円程度増、35年超ローンの増加、フロンティアAIとサイバー対策9項目。PHPの欠陥による静岡銀行のネットバンキング停止（21日21時）と22日午後の再開もここにつなげます。③9月の全国消費者物価：生鮮食品を除く総合は2.1%上昇（8月1.7%）で9か月ぶりの2%台、生鮮食品とエネルギーを除く総合は2.4%。宿泊料・水道料が押し上げ、政策によるエネルギーの押し下げは0.82ポイント、任意の自動車保険料は5.9%上昇。週明けの運用・住宅ローン・保険・銀行窓口での想定質問と、来週の宿題（27〜28日のFOMC、29〜30日の日銀会合と展望レポート）を整理します。
+
+【出典】
+・日本銀行 金融システムレポート（2026年10月号） https://www.boj.or.jp/research/brp/fsr/fsr261023.htm
+・日本銀行 金融システムレポート概要（PDF） https://www.boj.or.jp/research/brp/fsr/data/fsr261023b.pdf
+・ロイター（Yahoo!ファイナンス）国内金融システム、海外市場・ファンドの影響受けやすくなっている可能性＝日銀リポート https://finance.yahoo.co.jp/news/detail/3e4b5af4d3310086e9416d97d78a8ba24976cae3
+・総務省統計局 消費者物価指数 全国 2026年9月分 https://www.stat.go.jp/data/cpi/sokuhou/tsuki/pdf/zenkoku.pdf
+・NHK 9月消費者物価指数 前年同月比＋2.1％ https://news.web.nhk/newsweb/na/nd-20261023de63991
+・静岡朝日テレビ（Yahoo!ニュース）静岡銀行も緊急停止 PHPに深刻な脆弱性 https://news.yahoo.co.jp/articles/88cff17c765ecf95bfc7936dcd91d38bd2a59e84
+・時事通信（Yahoo!ファイナンス）PHP欠陥、広がるサービス停止 https://finance.yahoo.co.jp/news/detail/27013b6a3a889d2ef7e2eed7adcfbdb4d9f30cd5
+・OANDA 日経平均サマリー（23日） https://www.oanda.jp/lab-education/market_news/mn_1040395_202610231757/
+・日本経済新聞 債券12時50分 長期金利、2.765%に下げ幅縮小 https://www.nikkei.com/article/DGXZQOFL232A40T21C26A0000000/
+・Yahoo Finance Stock market today (Oct 23) https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html
+・みんかぶ NY為替概況 https://fx.minkabu.jp/news/382392
+・Top1Markets Lam Research Q1 fiscal 2027 earnings https://www.top1markets.com/news/lam-research-q1-fiscal-2027-earnings-stock-falls
+・investingLive Meta shares fall 7% on huge spending plans https://investinglive.com/stocks/meta-shares-fall-7-on-huge-spending-plans/
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・FRB October 2026 calendar https://www.federalreserve.gov/newsevents/2026-october.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-24.mp3" length="14364332" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1197</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#41 ラムリサーチ最高益でも日経平均1713円安：メタは設備投資349億ドルで稼ぐ額を上回り、AIは「掘る人の財布」が問われる段階へ</title>
       <description>金曜は、過去最高の売上高（82億2000万ドル・前年比54%増）を出した米ラムリサーチの株価が1割前後下げ、日経平均が1713円安（6万2907円）となった理由を本題にします。10〜12月の見通しが市場予想をわずかに上回るだけにとどまったこと、部品不足で出荷の一部が1〜3月にずれること、中国向け比率（35%）が大きく下がる見込みであること。一方で業界の装置投資は2026年1500億ドル台半ば、2027年2000億ドル超へ引き上げられています。メタは売上高646億ドル（26%増）でも、7〜9月の設備投資349億ドルで手元のお金の流れがマイナスに転じ一時7%安。ゴールドラッシュの「つるはしを売る会社」と「掘る人の財布」にたとえて、供給・手元資金・借入れ負担の3点でお客様への説明を整理します。後半は、サウジアラビアの油田付近への攻撃などで北海ブレントが一時112ドル台となった原油の値上がりと、ドル円156円台への円高。市況は、22日の日経平均6万2907円（1713円安）・TOPIX 3997、米国はナスダック2.60%安・ダウ5万2867ドル（ほぼ横ばい）。今後は23日15時の日銀金融システムレポート、27〜28日のFOMC、29〜30日の日銀金融政策決定会合。
