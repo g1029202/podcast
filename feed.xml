@@ -5,13 +5,49 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 21:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:31:21 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#43 来週の実務カレンダー：30日に日銀会合と展望レポート（7月時点の物価見通し2.5%）、年末調整で生命保険料控除の上限が4万円→6万円に</title>
+      <description>日曜は来週（10月26日〜30日）の実務カレンダーです。日米の金融政策の会合が続く週で、FOMCが27〜28日（結果は日本時間29日午前3時）、日銀会合が29〜30日（30日に結果と展望レポート、植田総裁の会見15:30）。深掘り1本目は日銀会合：9月に政策金利を1.25%程度へ引き上げ（賛成7・反対2）、今回は金利を変えない見通しとの報道。7月の展望レポートでは生鮮食品を除く物価の見通し（中央値）は2026年度2.5%・2027年度2.4%で、9月の全国は2.1%。3つの分かれ道（前向き・慎重・利上げ）で整理し、断定はしません。2本目は年末調整：2026・2027年分の所得税で、23歳未満の扶養親族がいる場合の一般生命保険料控除（新契約）の上限が4万円→6万円。合計上限12万円は変わらず、旧契約だけの方は対象外、住民税は対象外、夫婦の両方が適用可。金融庁は2027年度の税制改正要望で恒久化を要望中。扶養親族の所得要件も62万円以下（給与だけなら136万円以下）に。住宅ローン・預金・貯蓄性保険・外貨建て保険・年末調整の週明けの説明を組み立てます。
+
+【確定した予定】10/27 企業向けサービス価格指数（9月）8:50・基調的なインフレ率を捕捉するための指標 14:00／10/27-28 FOMC（声明は日本時間29日3:00、議長会見3:30）／10/28 マイクロソフト決算（米引け後、説明会は日本時間29日6:30）／10/29 日銀会合1日目・米7〜9月期GDP速報と9月個人所得・支出（日本時間21:30）／10/30 東京都区部消費者物価（10月中旬速報値）8:30・決済動向（9月）11:00・日銀会合の結果と展望レポート（時刻未定）・植田総裁会見15:30
+【予定表ベース】10/26 キヤノンMJなど10社、10/27 日本取引所グループ・キヤノン、10/28 野村HD・日立、10/30 東京エレクトロン・大和証券グループ本社など約250社の決算（株探）
+
+【出典】
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・日本銀行 金融市場調節方針の変更について（2026年9月18日） https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf
+・日本銀行 経済・物価情勢の展望（2026年7月） https://www.boj.or.jp/mopo/outlook/gor2607a.pdf
+・テレ東BIZ 10月利上げ見送りへ 日銀 影響見極め（10月22日） https://txbiz.tv-tokyo.co.jp/wbs/news/post_351067
+・総務省統計局 消費者物価指数 全国 2026年9月分 https://www.stat.go.jp/data/cpi/sokuhou/tsuki/pdf/zenkoku.pdf
+・総務省統計局 消費者物価指数 公表予定 https://www.stat.go.jp/data/kouhyou/e-stat_cpi.xml
+・FRB FOMC日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・FRB 2026年10月の予定 https://www.federalreserve.gov/newsevents/2026-october.htm
+・FRB FOMC声明（2026年9月16日） https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+・TradingKey October 2026 FOMC Meeting Preview（CME FedWatch 10月22日時点） https://www.tradingkey.com/analysis/stocks/us-stocks/262237588-fomc-october-2026-preview-fed-policy-and-us-stocks-tradingkey
+・米商務省経済分析局 公表予定 https://www.bea.gov/news/schedule/full
+・Microsoft 決算発表日のお知らせ（finviz掲載） https://finviz.com/news/400058/microsoft-announces-quarterly-earnings-release-date
+・株探 来週の決算発表予定 https://s.kabutan.jp/news/n202610230956/
+・国税庁 令和8年分 年末調整のしかた「昨年と比べて変わった点」 https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/102.pdf
+・国税庁 令和8年分 年末調整のしかた（保険料控除） https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/107.pdf
+・金融庁 令和9年度税制改正要望「生命保険料控除制度の拡充の恒久化等」 https://www.mof.go.jp/tax_policy/tax_reform/outline/fy2027/request/fsa/09y_fsa_k_16.pdf
+・freee 生命保険料控除の拡充（住民税は対象外） https://www.freee.co.jp/kb/kb-trend/life-insurance-deduction-expansion/
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-25.mp3" length="14250572" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1187</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#42 今週の総括：日経平均は週2631円安、日銀はAIの資金の流れを点検、物価は9か月ぶり2%台</title>
       <description>土曜は今週の総括です。日経平均は16日の6万5324円から23日の6万2693円へ、一週間で2631円安（4%安）、TOPIXは3965で4000割れ。分かれ目は22日の木曜（1713円安）でした。材料は3本。①AIの資金：売上高が過去最高のラムリサーチ（82億2000万ドル・54%増）が売られ、メタは7〜9月の設備投資349億ドルが稼ぎを上回り、問いが「売れているか」から「誰のお金で投資しているか」へ。②日銀の金融システムレポート（23日）：全体として安定を維持。邦銀の海外ノンバンク向け投融資は8兆円（2008年3月末）→126兆円（2026年6月末）、ストレステストに原油140ドル・AIへの期待縮小・金利上昇の同時発生を想定。地域金融機関の高金利定期預金の移りやすさ、変動金利の住宅ローン返済額は中心値で毎月5千円程度増、35年超ローンの増加、フロンティアAIとサイバー対策9項目。PHPの欠陥による静岡銀行のネットバンキング停止（21日21時）と22日午後の再開もここにつなげます。③9月の全国消費者物価：生鮮食品を除く総合は2.1%上昇（8月1.7%）で9か月ぶりの2%台、生鮮食品とエネルギーを除く総合は2.4%。宿泊料・水道料が押し上げ、政策によるエネルギーの押し下げは0.82ポイント、任意の自動車保険料は5.9%上昇。週明けの運用・住宅ローン・保険・銀行窓口での想定質問と、来週の宿題（27〜28日のFOMC、29〜30日の日銀会合と展望レポート）を整理します。
