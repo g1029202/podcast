@@ -5,13 +5,43 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 21:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:29:28 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#44 106万円の壁が10月1日に撤廃：残る条件は週20時間・51人以上・学生でないこと、保険料調整制度で本人負担は最初の2年が半分、国民年金の育児免除は最大12か月</title>
+      <description>月曜は制度の回です。10月1日に始まった社会保険の3つの変更を、施行4週間のタイミングで整理します。①賃金要件（月8万8000円＝いわゆる106万円の壁）の撤廃：残る加入条件は週20時間以上・従業員51人以上の企業・学生でないこと。企業規模の条件は2027年10月（36人以上）→2029年10月（21人以上）→2032年10月（11人以上）→2035年10月（10人以下も）と段階的に撤廃、常時5人以上の個人事業所も2029年10月から（既存は当分対象外）。最低賃金の減額特例で月8万8000円未満の方は原則対象外・申し出で加入可。②保険料調整制度：新たに加入した標準報酬月額12万6000円以下の短時間労働者が対象、期間3年。8万8000円の等級なら1〜2年目は本人25対会社75（本人負担は本来の半分）、3年目は37.5対62.5。将来の年金は減らず、会社が追加で払った保険料は3か月後の保険料から差し引かれて戻る。③国民年金の育児免除：第1号被保険者の実父母・養父母、所得制限なし、免除期間は納付済みとして老齢基礎年金に反映。父は最大12か月、産前産後免除のある母はそれに続く9か月。家族の扶養の130万円基準は別の仕組みとして残る点、在職老齢年金の基準（50万円→62万円、4月）もあわせて確認します。後半は、金融庁が生命保険会社の破綻に備える財源の民間負担枠を約8600億円→1兆円規模に増やす案を検討との報道（23日・共同通信、検討段階）。補償は責任準備金の原則90%までという説明の要点と、保険・住宅ローン・積立相談の実務への落とし込みまで。
+
+【出典】
+・日本年金機構 2026年10月に社会保険の短時間労働者に係る賃金要件が撤廃されました https://www.nenkin.go.jp/oshirase/taisetu/jigyosho/2026/202610/100104.html
+・日本年金機構 保険料調整制度の概要 https://www.nenkin.go.jp/service/kounen/hokenryo/hokenryochosei/gaiyo.html
+・日本年金機構 2026年10月1日から国民年金保険料の育児免除制度が始まりました https://www.nenkin.go.jp/oshirase/taisetu/kojin/2026/202610/100103.html
+・日本年金機構 国民年金保険料の育児免除制度 https://www.nenkin.go.jp/service/kokunen/menjo/ikujimenjo.html
+・厚生労働省 年金制度改正法 主な改正内容 https://www.mhlw.go.jp/content/12500000/001537487.pdf
+・厚生労働省 「年収の壁」への対応 https://www.mhlw.go.jp/stf/taiou_001_00002.html
+・弥生 社会保険の賃金要件撤廃 https://www.yayoi-kk.co.jp/lawinfo/detail.20260929/
+・共同通信（OANDA掲載）生保破綻備えた資金、1兆円に（10月23日） https://www.oanda.jp/lab-education/market_news/kn_2026102301001004/
+・生命保険契約者保護機構 概要 https://www.seihohogo.jp/outline/
+・生命保険文化センター 生命保険会社が破綻したら https://www.jili.or.jp/knows_learns/q_a/life_insurance/162.html
+・OANDA 日経平均サマリー（23日） https://www.oanda.jp/lab-education/market_news/mn_1040395_202610231757/
+・ロイター（Investing.com掲載）10月23日 アジア市場 https://au.investing.com/news/economy-news/asian-shares-wobble-as-tech-rout-boosts-bonds-dents-rate-hike-bets-4709754
+・FRB FOMC日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-26.mp3" length="14413004" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1201</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#43 来週の実務カレンダー：30日に日銀会合と展望レポート（7月時点の物価見通し2.5%）、年末調整で生命保険料控除の上限が4万円→6万円に</title>
       <description>日曜は来週（10月26日〜30日）の実務カレンダーです。日米の金融政策の会合が続く週で、FOMCが27〜28日（結果は日本時間29日午前3時）、日銀会合が29〜30日（30日に結果と展望レポート、植田総裁の会見15:30）。深掘り1本目は日銀会合：9月に政策金利を1.25%程度へ引き上げ（賛成7・反対2）、今回は金利を変えない見通しとの報道。7月の展望レポートでは生鮮食品を除く物価の見通し（中央値）は2026年度2.5%・2027年度2.4%で、9月の全国は2.1%。3つの分かれ道（前向き・慎重・利上げ）で整理し、断定はしません。2本目は年末調整：2026・2027年分の所得税で、23歳未満の扶養親族がいる場合の一般生命保険料控除（新契約）の上限が4万円→6万円。合計上限12万円は変わらず、旧契約だけの方は対象外、住民税は対象外、夫婦の両方が適用可。金融庁は2027年度の税制改正要望で恒久化を要望中。扶養親族の所得要件も62万円以下（給与だけなら136万円以下）に。住宅ローン・預金・貯蓄性保険・外貨建て保険・年末調整の週明けの説明を組み立てます。
