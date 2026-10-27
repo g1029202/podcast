@@ -5,13 +5,46 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:09:15 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#46 9月利上げの時刻表：預金と短プラは11月2日、住宅ローンの返済は2027年2月と7月から／3メガのステーブルコイン共同発行実証</title>
+      <description>水曜は銀行・ローン・決済の回です。9月18日の日銀の利上げ（政策金利1.25%程度・7対2）が銀行の窓口に届くまでの時刻表を整理します。三菱UFJ銀行は11月2日から円普通預金を0.40%→0.50%、短期プライムレートを2.375%→2.625%に改定。三井住友銀行・みずほ銀行も普通預金を11月2日に0.5%へ、ゆうちょ銀行は11月9日に通常貯金を0.4%→0.5%へ。ネット銀行は10月から先行しました。変動金利の住宅ローンは12月1日に基準金利を見直し（12月の基準金利は11月30日発表）、既存の借り入れへの反映は毎月型で2027年2月の返済から、年2回型で7月の返済から。5年ルール・125%ルール・未払利息、窓口で確かめる3点（毎月型か年2回型か／元利均等か元金均等か／次の5年の見直し時期）まで。後半は、3メガバンクと三菱UFJ信託銀行が7月に実施した円建てステーブルコイン共同発行の実証（特定信託受益権・預金を裏付け・本人確認済みの利用者間で流通・三菱商事の国際送金で検証、10月16日公表）と、2026年度中の実取引開始を目指す計画。最後に東北3地銀（プロクレアHD・岩手銀行・秋田銀行）の経営統合協議入り。
+
+【出典】
+・三菱UFJ銀行 短期プライムレートの改定について（2026年9月18日） https://www.bk.mufg.jp/news/news2026/pdf/news0918.pdf
+・三菱UFJ銀行 円普通預金金利の改定について（2026年9月18日） https://www.bk.mufg.jp/news/news2026/pdf/news0918_1.pdf
+・三菱UFJ銀行 住宅ローンの変動金利の基準金利見直し https://www.bk.mufg.jp/info/hendoukinri5.html
+・三菱UFJ銀行 住宅ローンコラム（5年ルール・125%ルール） https://www.bk.mufg.jp/kariru/jutaku/column/008/index.html
+・ゆうちょ銀行 貯金金利の引き上げについて（2026年9月18日） https://www.jp-bank.japanpost.jp/aboutus/press/2026/pdf/pr26091803.pdf
+・Impress Watch 各行の普通預金金利引き上げ（9月20日） https://www.watch.impress.co.jp/docs/news/2142489.html
+・大和アセットマネジメント マーケットレター（9月18日） https://www.daiwa-am.co.jp/specialreport/market_letter/20260918_02.pdf
+・熊本日日新聞（共同通信） 日銀利上げ、1・25%に https://kumanichi.com/articles/2037289
+・三菱UFJ銀行ほか 複数銀行によるステーブルコイン共同発行の実証実験（2026年10月16日） https://www.bk.mufg.jp/news/news2026/pdf/news1016_1.pdf
+・三菱UFJ銀行 3行共同発行ステーブルコインの2026年度中の実取引開始（6月10日） https://www.bk.mufg.jp/news/news2026/pdf/news0610.pdf
+・Impress Watch 3メガのステーブルコイン（6月10日） https://www.watch.impress.co.jp/docs/news/2116013.html
+・秋田魁新報 秋田銀、プロクレアHD、岩手銀 2028年4月経営統合目指す https://www.sakigake.jp/news/article/20261002AK0027/
+・熊本日日新聞（共同通信） 統合協議へ取締役会議論 東北3地銀 https://kumanichi.com/articles/2042036
+・SBI証券 マーケット情報（10月27日） https://www.sbisec.co.jp/
+・NHK 円相場（10月27日） https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000477
+・FRB FOMC日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-28.mp3" length="14252300" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1187</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#45 自賠責保険料が11月1日から平均6.2%上げ（13年続いた引き下げの原資＝滞留資金が約2000億円減）、通常の自動車保険の目安は14.4%、代理店評価制度に金融庁・国交省が要請</title>
       <description>火曜は保険業界の回です。11月1日以降に保険期間が始まる契約から、自賠責保険の保険料が全車種平均6.2%上がります。代表例（24か月・沖縄と離島を除く）は自家用乗用車17,650円→18,560円（+910円・5.2%）、軽自動車17,540円→18,660円（+1,120円・6.4%）、原付8,560円→9,630円（+12.5%）。ノーロス・ノープロフィット原則のもと、2013年度以降は過去契約の黒字と利息＝滞留資金を使って保険料を下げてきましたが、滞留資金は2022年度末7,239億円→2025年度末見込み5,215億円と約2,000億円減少。2026契約年度の損害率は127.3%。内訳は保険金部分+1.9%、社費・代理店手数料+4.3%（経費基準見直しで約150億円削減後も社費は3.8%上げ）。4月17日の審議会では来年度改定の試算（現状継続で約9%、楽観約7%、悲観約12%）も示されました。2025年度補正予算で一般会計から約5,741億円が繰り戻されたものの、使途は被害者支援・事故防止で保険料引き下げの財源とは別である点、賦課金の水準見直しは検討段階である点も整理します。後半は、損保料率機構が6月23日に届け出た自動車保険の参考純率（平均14.4%引き上げ・2027年1月以降始期を想定、修理費の上昇が主因、急加速・急減速の頻度による新しい料率区分）と、10月13日に金融庁・国土交通省が日本損害保険協会に出した「代理店業務品質評価制度」の適切な運用の要請（一律の改善期限の禁止、件数目標は双方合意、二輪販売店・整備工場代理店の役割）。代理店・マイカーローン・家計相談の実務への落とし込みまで。
