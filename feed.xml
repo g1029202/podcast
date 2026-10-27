@@ -5,13 +5,41 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:39:20 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#45 自賠責保険料が11月1日から平均6.2%上げ（13年続いた引き下げの原資＝滞留資金が約2000億円減）、通常の自動車保険の目安は14.4%、代理店評価制度に金融庁・国交省が要請</title>
+      <description>火曜は保険業界の回です。11月1日以降に保険期間が始まる契約から、自賠責保険の保険料が全車種平均6.2%上がります。代表例（24か月・沖縄と離島を除く）は自家用乗用車17,650円→18,560円（+910円・5.2%）、軽自動車17,540円→18,660円（+1,120円・6.4%）、原付8,560円→9,630円（+12.5%）。ノーロス・ノープロフィット原則のもと、2013年度以降は過去契約の黒字と利息＝滞留資金を使って保険料を下げてきましたが、滞留資金は2022年度末7,239億円→2025年度末見込み5,215億円と約2,000億円減少。2026契約年度の損害率は127.3%。内訳は保険金部分+1.9%、社費・代理店手数料+4.3%（経費基準見直しで約150億円削減後も社費は3.8%上げ）。4月17日の審議会では来年度改定の試算（現状継続で約9%、楽観約7%、悲観約12%）も示されました。2025年度補正予算で一般会計から約5,741億円が繰り戻されたものの、使途は被害者支援・事故防止で保険料引き下げの財源とは別である点、賦課金の水準見直しは検討段階である点も整理します。後半は、損保料率機構が6月23日に届け出た自動車保険の参考純率（平均14.4%引き上げ・2027年1月以降始期を想定、修理費の上昇が主因、急加速・急減速の頻度による新しい料率区分）と、10月13日に金融庁・国土交通省が日本損害保険協会に出した「代理店業務品質評価制度」の適切な運用の要請（一律の改善期限の禁止、件数目標は双方合意、二輪販売店・整備工場代理店の役割）。代理店・マイカーローン・家計相談の実務への落とし込みまで。
+
+【出典】
+・損害保険料率算出機構 自賠責保険 基準料率届出のご案内（2026年4月30日） https://www.giroj.or.jp/ratemaking/cali/pdf/202604_announcement.pdf
+・損害保険料率算出機構 届出のご案内ページ https://www.giroj.or.jp/ratemaking/cali/202604_announcement.html
+・金融庁 第153回自賠責保険審議会 資料1 https://www.fsa.go.jp/singi/singi_zidousya/siryou/20260430/01_153.pdf
+・金融庁 第152回自賠責保険審議会 議事要旨 https://www.fsa.go.jp/singi/singi_zidousya/gijiyosi/20260417.html
+・国土交通省 被害者保護増進等事業に関する検討会 資料2（2026年4月24日） https://www.mlit.go.jp/jidosha/content/001998195.pdf
+・損害保険料率算出機構 自動車保険参考純率 届出のご案内（2026年6月23日） https://www.giroj.or.jp/ratemaking/automobile/pdf/202606_announcement.pdf
+・金融庁 損害保険業界の信頼回復に向けた取組の適切な運用の公表（10月13日） https://www.fsa.go.jp/news/r8/hoken/20261013/20261013.html
+・同 要請文 https://www.fsa.go.jp/news/r8/hoken/20261013/01.pdf
+・OANDA 日経平均サマリー（26日） https://www.oanda.jp/lab-education/market_news/mn_1040611_202610261753/
+・Investing.com 10月26日 米国株 https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-after-bruising-tech-losses-fed-earnings-on-tap-4971325
+・FRB FOMC日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-27.mp3" length="14136812" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1178</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#44 106万円の壁が10月1日に撤廃：残る条件は週20時間・51人以上・学生でないこと、保険料調整制度で本人負担は最初の2年が半分、国民年金の育児免除は最大12か月</title>
       <description>月曜は制度の回です。10月1日に始まった社会保険の3つの変更を、施行4週間のタイミングで整理します。①賃金要件（月8万8000円＝いわゆる106万円の壁）の撤廃：残る加入条件は週20時間以上・従業員51人以上の企業・学生でないこと。企業規模の条件は2027年10月（36人以上）→2029年10月（21人以上）→2032年10月（11人以上）→2035年10月（10人以下も）と段階的に撤廃、常時5人以上の個人事業所も2029年10月から（既存は当分対象外）。最低賃金の減額特例で月8万8000円未満の方は原則対象外・申し出で加入可。②保険料調整制度：新たに加入した標準報酬月額12万6000円以下の短時間労働者が対象、期間3年。8万8000円の等級なら1〜2年目は本人25対会社75（本人負担は本来の半分）、3年目は37.5対62.5。将来の年金は減らず、会社が追加で払った保険料は3か月後の保険料から差し引かれて戻る。③国民年金の育児免除：第1号被保険者の実父母・養父母、所得制限なし、免除期間は納付済みとして老齢基礎年金に反映。父は最大12か月、産前産後免除のある母はそれに続く9か月。家族の扶養の130万円基準は別の仕組みとして残る点、在職老齢年金の基準（50万円→62万円、4月）もあわせて確認します。後半は、金融庁が生命保険会社の破綻に備える財源の民間負担枠を約8600億円→1兆円規模に増やす案を検討との報道（23日・共同通信、検討段階）。補償は責任準備金の原則90%までという説明の要点と、保険・住宅ローン・積立相談の実務への落とし込みまで。
