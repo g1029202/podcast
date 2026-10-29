@@ -5,13 +5,46 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:32:34 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#47 NISA上期13.8兆円・1年で3割増／株式投信は9か月で20兆円、年間の過去最大を更新／こどもNISAは2027年1月から</title>
+      <description>木曜は資産運用・証券の回です。金融庁が10月2日に公表した6月末時点のNISA調査では、口座数3048万（半年で8%増）、1〜6月の買付額は13兆8000億円あまりで前年同期の10兆5000億円から約3割増。成長投資枠10兆1577億円（上場株式と投資信託がほぼ半々）、つみたて投資枠3兆6637億円（インデックス投信が88%）。買付額の3分の1は60歳以上で、高い年代ほど成長投資枠の比重が高い点を整理します。資産運用業協会（2026年4月に投資信託協会と日本投資顧問業協会が合併して発足）の9月統計では、ETFを含む株式投信に1〜9月で20兆381億円が流入し、2024年の年間最大16兆6295億円を9か月で更新。一方、公募投信の残高は円高の影響で8月末の過去最高から減少。ETFを除く株式投信の63%が外貨建てという数字を窓口の説明にどう使うかまで。後半は、0〜17歳がつみたて投資枠を使えるこどもNISA（年60万円・上限600万円・12歳以降は子の同意で払出し可・18歳で自動移行・金融機関変更不可）と、10月1日に始まった各社の受付、高齢層向けの見直し（債券中心の投信・定期売却サービス）、来年度の税制改正要望、子育て世帯の生命保険料控除の上乗せ。冒頭にFOMC（3.75〜4%で変更なし・2人が利上げを主張）と28日の東京市場。
+
+【出典】
+・金融庁 NISA口座の利用状況調査（2026年6月末時点・10月2日公表） https://www.fsa.go.jp/policy/nisa/20261002.html
+・金融庁 NISA口座の利用状況調査（2025年6月末時点） https://www.fsa.go.jp/policy/nisa/20250924.html
+・金融庁 令和8年度税制改正について（税制改正大綱における金融庁関係の主要項目） https://www.fsa.go.jp/news/r7/sonota/20251226-2/01.pdf
+・金融庁 令和9年度税制改正要望について（2026年8月） https://www.fsa.go.jp/news/r8/sonota/fsa_trps_r9.pdf
+・金融庁 NISA特設ウェブサイト「NISAを知る」 https://www.fsa.go.jp/policy/nisa2/know/index.html
+・資産運用業協会 数字で見る投資信託（2026年9月末・10月14日） https://www.toushin.or.jp/files/statistics/3/20269.pdf
+・ミンカブ 投信資金フロー（2026年9月） https://itf.minkabu.jp/news/2161
+・金融庁 業界団体との意見交換会（2026年6月） https://www.fsa.go.jp/common/ronten/202606/07.pdf
+・SBI証券 「こどもNISA」口座開設の事前受付（9月11日） https://search.sbisec.co.jp/v2/popwin/info/home/irpress/home_prestory260911_011600.pdf
+・マネックス証券 「こどもNISA」事前申込受付（9月14日） https://info.monex.co.jp/press/pdf/press2026_9_14_kodomoNISA_pr.pdf
+・楽天証券 ニュースリリース（9月14日） https://www.rakuten-sec.co.jp/web/company/newsrelease/pdf/press2026091401.pdf
+・松井証券 プレスリリース（9月3日） https://www.matsui.co.jp/company/press/2026/pr260903.html
+・大和証券 お知らせ https://www.daiwa.jp/doc/261005.html
+・FRB FOMC statement（10月28日） https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
+・共同通信（OANDA掲載） 東京株式 28日終値 https://www.oanda.jp/lab-education/market_news/kn_2026102802000025/
+・日本経済新聞 マーケット https://www.nikkei.com/markets/kabu/
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-29.mp3" length="14411852" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1200</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#46 9月利上げの時刻表：預金と短プラは11月2日、住宅ローンの返済は2027年2月と7月から／3メガのステーブルコイン共同発行実証</title>
       <description>水曜は銀行・ローン・決済の回です。9月18日の日銀の利上げ（政策金利1.25%程度・7対2）が銀行の窓口に届くまでの時刻表を整理します。三菱UFJ銀行は11月2日から円普通預金を0.40%→0.50%、短期プライムレートを2.375%→2.625%に改定。三井住友銀行・みずほ銀行も普通預金を11月2日に0.5%へ、ゆうちょ銀行は11月9日に通常貯金を0.4%→0.5%へ。ネット銀行は10月から先行しました。変動金利の住宅ローンは12月1日に基準金利を見直し（12月の基準金利は11月30日発表）、既存の借り入れへの反映は毎月型で2027年2月の返済から、年2回型で7月の返済から。5年ルール・125%ルール・未払利息、窓口で確かめる3点（毎月型か年2回型か／元利均等か元金均等か／次の5年の見直し時期）まで。後半は、3メガバンクと三菱UFJ信託銀行が7月に実施した円建てステーブルコイン共同発行の実証（特定信託受益権・預金を裏付け・本人確認済みの利用者間で流通・三菱商事の国際送金で検証、10月16日公表）と、2026年度中の実取引開始を目指す計画。最後に東北3地銀（プロクレアHD・岩手銀行・秋田銀行）の経営統合協議入り。
