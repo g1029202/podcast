@@ -5,13 +5,42 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:56:17 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#48 証券口座の不正取引、去年4月3033件→9月2件／パスキー必須化の効き目と残る穴／特殊詐欺は8月末で2360億円・1件あたり1000万円超</title>
+      <description>金曜はAI・サイバー・詐欺の回です。金融庁が10月9日に更新した集計では、証券口座の不正取引は2025年4月の3033件（売却金額約1625億円、10社）をピークに、2026年は月100件台で推移したあと、フィッシング耐性のある多要素認証の必須化期限（原則2026年6月末）を挟んで7月5件・8月25件・9月2件まで減少。2025年1月〜2026年9月の合計は不正アクセス1万9252件、不正取引1万642件、売却金額約4372億円（売却金額は口座ごとの合計で実損とは一致しない点に注意）。2025年春の被害発生から、日証協の58社リスト、ガイドライン改正案（ログイン・出金・出金先変更でパスキー等を必須）、金融庁の監督指針改正（2025年10月15日施行）までの流れと、確認コード方式とパスキーの違い、なお残る穴（取引時点・代替手段・端末そのもの）、窓口でお客様と確認すべきこと（設定状況・機種変更の手順）を整理します。後半は警察庁の8月末暫定値（認知2万9687件・被害2360億7000万円、SNS型投資詐欺937億4000万円、ニセ警察詐欺728億6000万円で件数減・金額増）とニセ警察詐欺の手口、解約申し出時の声かけ。最後にJPCERT/CCの注意喚起（AIを使った検査ツールの悪用、アプリのAPIを狙う攻撃）。冒頭に29日の東京市場と、本日の日銀会合最終日。
+
+【出典】
+・金融庁 インターネット取引サービスへの不正アクセス・不正取引にご注意ください（10月9日更新） https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html
+・金融庁 不正アクセス・不正取引の発生状況（PDF） https://www.fsa.go.jp/ordinary/chuui/chuui_phishing/20261009.pdf
+・金融庁 業界団体との意見交換会において金融庁が提起した主な論点（2025年11月18日・日本証券業協会） https://www.fsa.go.jp/common/ronten/202511/06.pdf
+・INTERNET Watch 日証協、ガイドライン改正案（2025年7月15日） https://www.watch.impress.co.jp/docs/news/2031496.html
+・INTERNET Watch 証券58社「多要素認証」を必須化（2025年4月25日） https://www.watch.impress.co.jp/docs/news/2010209.html
+・東海東京証券 パスキー認証のお知らせ https://www.tokaitokyo.co.jp/company/info/products/info_260413paskey.html
+・警察庁 令和8年8月末における特殊詐欺の認知・検挙状況等（暫定値・10月2日） https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/261002/01.html
+・警察庁 令和8年7月末における特殊詐欺の認知・検挙状況等（暫定値・9月4日） https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/260904/01.html
+・警察庁 ニセ警察詐欺に注意！ https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/241218/02.html
+・JPCERT/CC 直近で相次いでいる国内組織における不正アクセスに関する注意喚起（10月8日公開・23日更新） https://www.jpcert.or.jp/at/2026/at260030.html
+・OANDA証券（共同通信配信） 日経平均サマリー（29日） https://www.oanda.jp/lab-education/market_news/mn_1041283_202610291750/
+・FRB FOMC statement（10月28日） https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-30.mp3" length="13895180" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1157</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#47 NISA上期13.8兆円・1年で3割増／株式投信は9か月で20兆円、年間の過去最大を更新／こどもNISAは2027年1月から</title>
       <description>木曜は資産運用・証券の回です。金融庁が10月2日に公表した6月末時点のNISA調査では、口座数3048万（半年で8%増）、1〜6月の買付額は13兆8000億円あまりで前年同期の10兆5000億円から約3割増。成長投資枠10兆1577億円（上場株式と投資信託がほぼ半々）、つみたて投資枠3兆6637億円（インデックス投信が88%）。買付額の3分の1は60歳以上で、高い年代ほど成長投資枠の比重が高い点を整理します。資産運用業協会（2026年4月に投資信託協会と日本投資顧問業協会が合併して発足）の9月統計では、ETFを含む株式投信に1〜9月で20兆381億円が流入し、2024年の年間最大16兆6295億円を9か月で更新。一方、公募投信の残高は円高の影響で8月末の過去最高から減少。ETFを除く株式投信の63%が外貨建てという数字を窓口の説明にどう使うかまで。後半は、0〜17歳がつみたて投資枠を使えるこどもNISA（年60万円・上限600万円・12歳以降は子の同意で払出し可・18歳で自動移行・金融機関変更不可）と、10月1日に始まった各社の受付、高齢層向けの見直し（債券中心の投信・定期売却サービス）、来年度の税制改正要望、子育て世帯の生命保険料控除の上乗せ。冒頭にFOMC（3.75〜4%で変更なし・2人が利上げを主張）と28日の東京市場。
