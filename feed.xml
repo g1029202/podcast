@@ -5,13 +5,52 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 22:56:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:29:37 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#49 今週の総括：食料品の消費税1%法案（2027年4月から2年・支援金へのつなぎ）／日銀据え置き8対1・ETF売却は年8600億円へ／11月に届く自賠責6.2%上げと預金0.5%</title>
+      <description>土曜は今週の総括です。日経平均は23日の6万2693円から30日の6万3290円へ一週間で597円高、TOPIXは3965でほぼ変わらず。26日の503円安のあと3日続けて上げ、29日に6万4659円まで戻しましたが、30日はアマゾンとインテルの決算を受けたAI・半導体株安で1369円安（プライムでは値上がり807銘柄・値下がり714銘柄）。材料は3本。①食料品の消費税を2027年4月1日から2年間1%にする法案（10月9日提出・20日に衆議院財務金融委員会へ付託・30日時点で委員会採決前）：対象は現在の軽減税率と同じ範囲、外食・酒類は10%で持ち帰りとの差は9ポイントに。定期購入・通信販売の経過措置、値札の総額表示の特例（2027年2月〜5月末）、免税事業者の届出特例。本命は2029年4月に本格導入する就業者負担軽減支援金（個人単位・所得の下限と上限・年1回・公金受取口座の登録者は職権認定が原則、金額は未定）。②日銀は政策金利1.25%程度を据え置き（8対1、反対の委員は1.5%を提案）。展望レポートで2027年度の物価見通しを2.4%→2.6%へ上向きに修正、物価は上振れリスクが大きいと評価。消費税引き下げは見通しに入れず、実施なら2027年度を1.3ポイント押し下げると試算。ETFの売却は年3300億円程度→8600億円程度（簿価。時価2兆4600億円程度・2027年1月から・売却完了まで約112年→約43年）。FOMCは3.75〜4%で据え置き。③11月に家計に届く変化：自賠責は11月1日始期の契約から平均6.2%上げ（自家用乗用車24か月で1万7650円→1万8560円）、自動車保険の参考純率は平均14.4%上げ、11月2日に3メガの普通預金0.5%・三菱UFJの短期プライムレート2.625%、変動金利の住宅ローンへの反映は毎月型で2027年2月、年2回型で7月の返済から。週明けの想定質問と来週の宿題（11月2日の展望レポート全文、3日の休場と米中間選挙、法案の委員会採決）まで。
+
+【出典】
+・日本銀行 当面の金融政策運営について（2026年10月30日） https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf
+・日本銀行 ETFの売却ペースの見直しに関する決定（2026年10月） https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030c.pdf
+・日本銀行 経済・物価情勢の展望（2026年10月）基本的見解 https://www.boj.or.jp/mopo/outlook/gor2610a.pdf
+・内閣官房 飲食料品消費税率の臨時的な引下げ及び就業者負担軽減支援金の導入に関する大綱（2026年9月15日閣議決定） https://www.cas.go.jp/jp/seisaku/kokuminkaigi/contents/20260915/01_siryou1.pdf
+・衆議院 議案審議経過情報（閣法第222回国会1） https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DE342E.htm
+・財務省 片山財務大臣閣議後記者会見（10月9日） https://www.mof.go.jp/public_relations/conference/my20261009.html
+・国税庁 消費税率引下げ特設サイト https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/zeiritsuhikisage.htm
+・国税庁 リーフレット https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/0026008-127_leaflet.pdf
+・国税庁 飲食料品に係る2年間の消費税率引下げに関するQ&amp;A https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/0026008-127_qa.pdf
+・OANDA証券 日経平均サマリー（30日） https://www.oanda.jp/lab-education/market_news/mn_1041546_202610301753/
+・OANDA証券 日経平均サマリー（23日） https://www.oanda.jp/lab-education/market_news/mn_1040395_202610231757/
+・ロイター（Yahoo!ニュース） 日経平均は4日ぶり反落、AI・半導体株が大幅安 日銀会合は反応薄 https://news.yahoo.co.jp/articles/635ee346ad60c08ab485f875e2ea9a072bddd4b6
+・外為どっとコム 株式明日の戦略（10月31日） https://www.gaitame.com/media/entry/2026/10/31/034617
+・FRB FOMC statement（10月28日） https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
+・損害保険料率算出機構 自賠責保険 基準料率届出のご案内 https://www.giroj.or.jp/ratemaking/cali/pdf/202604_announcement.pdf
+・金融庁 第152回自賠責保険審議会 議事要旨 https://www.fsa.go.jp/singi/singi_zidousya/gijiyosi/20260417.html
+・損害保険料率算出機構 自動車保険参考純率 届出のご案内（6月23日） https://www.giroj.or.jp/ratemaking/automobile/pdf/202606_announcement.pdf
+・三菱UFJ銀行 円普通預金金利の改定について https://www.bk.mufg.jp/news/news2026/pdf/news0918_1.pdf
+・三菱UFJ銀行 短期プライムレートの改定について https://www.bk.mufg.jp/news/news2026/pdf/news0918.pdf
+・ゆうちょ銀行 貯金金利の引き上げについて https://www.jp-bank.japanpost.jp/aboutus/press/2026/pdf/pr26091803.pdf
+・Impress Watch 各行の普通預金金利引き上げ https://www.watch.impress.co.jp/docs/news/2142489.html
+・三菱UFJ銀行 住宅ローンの変動金利の基準金利見直し https://www.bk.mufg.jp/info/hendoukinri5.html
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-10-31.mp3" length="14008364" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1167</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#48 証券口座の不正取引、去年4月3033件→9月2件／パスキー必須化の効き目と残る穴／特殊詐欺は8月末で2360億円・1件あたり1000万円超</title>
       <description>金曜はAI・サイバー・詐欺の回です。金融庁が10月9日に更新した集計では、証券口座の不正取引は2025年4月の3033件（売却金額約1625億円、10社）をピークに、2026年は月100件台で推移したあと、フィッシング耐性のある多要素認証の必須化期限（原則2026年6月末）を挟んで7月5件・8月25件・9月2件まで減少。2025年1月〜2026年9月の合計は不正アクセス1万9252件、不正取引1万642件、売却金額約4372億円（売却金額は口座ごとの合計で実損とは一致しない点に注意）。2025年春の被害発生から、日証協の58社リスト、ガイドライン改正案（ログイン・出金・出金先変更でパスキー等を必須）、金融庁の監督指針改正（2025年10月15日施行）までの流れと、確認コード方式とパスキーの違い、なお残る穴（取引時点・代替手段・端末そのもの）、窓口でお客様と確認すべきこと（設定状況・機種変更の手順）を整理します。後半は警察庁の8月末暫定値（認知2万9687件・被害2360億7000万円、SNS型投資詐欺937億4000万円、ニセ警察詐欺728億6000万円で件数減・金額増）とニセ警察詐欺の手口、解約申し出時の声かけ。最後にJPCERT/CCの注意喚起（AIを使った検査ツールの悪用、アプリのAPIを狙う攻撃）。冒頭に29日の東京市場と、本日の日銀会合最終日。
