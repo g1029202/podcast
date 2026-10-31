@@ -5,13 +5,49 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 21:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:29:37 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#50 来週の実務カレンダー：生命保険の破綻対策、国の補助を期限なしに？各社の負担枠8600億円と試算1兆1373億円／6日夜に米10月雇用統計（9月は2万9000人増）</title>
+      <description>日曜は来週（11月2日〜7日）の実務カレンダーです。3日は文化の日で東京市場は取引なし、同じ日に米中間選挙。米国は11月1日に冬時間へ切り替わり、雇用統計は日本時間22時30分に。深掘り1本目は生命保険のセーフティネット：10月30日の金融審議会・保険制度ワーキング・グループで、金融庁が2027年3月末に期限を迎える政府補助（2000年創設・6回延長・発動実績なし）について、①統計的手法で各社の負担枠（事前積立4000億円＋政府保証付借入4600億円＝8600億円）を引き上げ ②事前積立金の運用益を財源に繰り入れ ③定期的な検証、を前提に恒久化も視野に調整する案を提示。宮川参事の試算（2007年4月〜2026年3月のデータで10万通りのシナリオ）では資金援助の必要額は100年に1回で約4105億円、500年に1回で約8302億円、1000年に1回で約1兆1373億円。生命保険協会は恒久化を要望（ESR全社平均215%・過去の資金援助は累計約7811億円をすべて業界負担）。補償は責任準備金の原則90%で保険金の9割ではない点、最低保証のない運用実績連動型は対象外の点を整理。あわせて再保険キャプティブ制度（最低資本金10億円→1000万円程度の案）。2本目は米10月雇用統計（6日）：9月は雇用者数2万9000人増・失業率4.2%・時給は前年比3.0%増、7〜8月は計6万人の下向き修正。FOMCは10月28日に3.75〜4%で変えず（10対2、反対の2人は0.25%の利上げを主張）、次回は12月8〜9日。強い場合・弱い場合の2つの道で整理し、断定はしません。
+
+【確定した予定】11/2 日銀 展望レポート全文14:00・総裁会見記録、三菱UFJ銀行の普通預金0.4%→0.5%、FRB銀行貸出態度調査（日本時間3日4:00）／11/3 文化の日（東京市場は取引なし）・米中間選挙・AMD決算（説明会は日本時間4日7:00）・米求人労働異動調査（日本時間4日0:00）／11/4 マネタリーベース8:50・米9月貿易収支22:30／11/5 日銀9月会合の議事要旨8:50・米生産性22:30／11/6 米10月雇用統計22:30・ボウマンFRB副議長（日本時間7日2:15）／11/7 植田総裁IMF講演（日本時間1:00頃）／11/1から自賠責保険の新料率（平均6.2%上げ、自家用乗用車24か月1万7650円→1万8560円）
+【予定表ベース】11/2 住友商事・SBIホールディングス・日本航空、11/4 三菱商事・三井物産・伊藤忠商事・NTT、11/5 トヨタ自動車・ソニーグループ・任天堂、11/6 三菱重工業・KDDI・三井不動産、11/13 三菱UFJフィナンシャル・グループ・第一ライフグループ、11/19 東京海上ホールディングス（マネックス証券）
+
+【出典】
+・金融庁 金融審議会「保険制度ワーキング・グループ」 https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/hokenseido_wg_index.html
+・金融庁 諮問文（2026年8月31日） https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261001/01.pdf
+・金融庁 事務局説明資料①（生命保険のセーフティネット制度関係・10月30日） https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261030/01.pdf
+・金融庁 宮川参事説明資料（市況変動に伴う生命保険会社の財務状況・破綻時必要額シミュレーション） https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261030/02.pdf
+・生命保険協会説明資料（10月30日） https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261030/03.pdf
+・金融庁 事務局説明資料②（再保険キャプティブ制度関係） https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261030/04.pdf
+・米労働統計局 The Employment Situation（2026年9月分） https://www.bls.gov/news.release/empsit.nr0.htm
+・米労働統計局 2026年11月の公表予定 https://www.bls.gov/schedule/2026/11_sched_list.htm
+・FRB FOMC statement（10月28日） https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
+・FRB FOMC日程 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+・FRB 2026年11月の予定 https://www.federalreserve.gov/newsevents/2026-november.htm
+・米商務省経済分析局 公表予定 https://www.bea.gov/news/schedule/full
+・日本銀行 公表予定 https://www.boj.or.jp/about/calendar/index.htm
+・AMD 第3四半期決算発表のお知らせ https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results
+・三菱UFJ銀行 円普通預金金利の改定について https://www.bk.mufg.jp/news/news2026/pdf/news0918_1.pdf
+・損害保険料率算出機構 自賠責保険 基準料率届出のご案内 https://www.giroj.or.jp/ratemaking/cali/pdf/202604_announcement.pdf
+・マネックス証券 決算スケジュール（2026年11月） https://scouter.monex.co.jp/schedule/202611
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-11-01.mp3" length="13919948" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1159</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#49 今週の総括：食料品の消費税1%法案（2027年4月から2年・支援金へのつなぎ）／日銀据え置き8対1・ETF売却は年8600億円へ／11月に届く自賠責6.2%上げと預金0.5%</title>
       <description>土曜は今週の総括です。日経平均は23日の6万2693円から30日の6万3290円へ一週間で597円高、TOPIXは3965でほぼ変わらず。26日の503円安のあと3日続けて上げ、29日に6万4659円まで戻しましたが、30日はアマゾンとインテルの決算を受けたAI・半導体株安で1369円安（プライムでは値上がり807銘柄・値下がり714銘柄）。材料は3本。①食料品の消費税を2027年4月1日から2年間1%にする法案（10月9日提出・20日に衆議院財務金融委員会へ付託・30日時点で委員会採決前）：対象は現在の軽減税率と同じ範囲、外食・酒類は10%で持ち帰りとの差は9ポイントに。定期購入・通信販売の経過措置、値札の総額表示の特例（2027年2月〜5月末）、免税事業者の届出特例。本命は2029年4月に本格導入する就業者負担軽減支援金（個人単位・所得の下限と上限・年1回・公金受取口座の登録者は職権認定が原則、金額は未定）。②日銀は政策金利1.25%程度を据え置き（8対1、反対の委員は1.5%を提案）。展望レポートで2027年度の物価見通しを2.4%→2.6%へ上向きに修正、物価は上振れリスクが大きいと評価。消費税引き下げは見通しに入れず、実施なら2027年度を1.3ポイント押し下げると試算。ETFの売却は年3300億円程度→8600億円程度（簿価。時価2兆4600億円程度・2027年1月から・売却完了まで約112年→約43年）。FOMCは3.75〜4%で据え置き。③11月に家計に届く変化：自賠責は11月1日始期の契約から平均6.2%上げ（自家用乗用車24か月で1万7650円→1万8560円）、自動車保険の参考純率は平均14.4%上げ、11月2日に3メガの普通預金0.5%・三菱UFJの短期プライムレート2.625%、変動金利の住宅ローンへの反映は毎月型で2027年2月、年2回型で7月の返済から。週明けの想定質問と来週の宿題（11月2日の展望レポート全文、3日の休場と米中間選挙、法案の委員会採決）まで。
