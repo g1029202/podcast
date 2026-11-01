@@ -5,13 +5,43 @@
     <description>保険・銀行・証券で働く実務者のための毎朝20分。前日の金融ニュースを、専門家ケンと聞き手ミナの掛け合いで背景から深掘りし、お客様への説明にそのまま使える言葉に落とし込みます。数値は一次情報で確認したもののみ。毎朝7時配信。土曜は今週の総括、日曜は来週の実務カレンダーをお届けします。</description>
     <link>https://g1029202.github.io/podcast</link>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:28:57 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>実務がわかる金融ニュースラジオ</itunes:author>
     <itunes:owner><itunes:name>実務がわかる金融ニュースラジオ</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#51 75歳以上の保険料に株の配当、2029年8月から（もとは2028年分）／介護2割負担の線引き見直しが本格化／国民医療費48兆8100億円</title>
+      <description>月曜は制度・税・社会保障の回です。10月30日公表の2024年度国民医療費は48兆8100億円（1.5%増）、1人当たり39万4300円。65歳以上が60.1%、75歳以上が41.2%を占め、1人当たりは65歳未満22万2300円に対し75歳以上96万8000円。後期高齢者医療からの給付は4.3%増、財源は保険料50.3%・公費37.4%・患者負担11.8%。
+本題1は後期高齢者医療の金融所得反映：6月5日公布の健康保険法等改正法で、金融機関が法定調書（上場株式等の配当の支払調書・特定口座年間取引報告書など）を後期高齢者医療広域連合へオンライン提出する義務を新設。10月16日の医療保険部会で、2029年1月末提出の2028年分（枚数で約8割）を2029年8月から保険料・窓口負担に反映、2030年8月以降は全調書を反映するスケジュール案が報告されました。確定申告の有無で負担が変わる不公平の是正です。
+本題2は10月26日の介護保険部会：2割負担の「一定以上所得」（合計所得160万円以上かつ単身280万円・夫婦346万円以上）の見直し、預貯金・金融所得の反映、第10期計画（2027年度〜）前の結論。介護費用14.6兆円、1号保険料は月2911円→6225円。あわせて高額療養費（2026年8月の年間上限、2027年8月の区分細分化）とOTC類似薬の別途負担（2027年3月・77成分1042品目）。実務では、配当を申告しない選択の前提が変わる点、公的介護の自己負担を1割と決めつけない点を整理します。冒頭に30日の東京・米国市場。
+
+【出典】
+・厚生労働省 令和6(2024)年度 国民医療費の概況 https://www.mhlw.go.jp/toukei/saikin/hw/k-iryohi/24/index.html
+・厚生労働省 報道発表資料（10月30日） https://www.mhlw.go.jp/toukei/saikin/hw/k-iryohi/24/dl/R06houdou.pdf
+・厚生労働省 結果の概要 https://www.mhlw.go.jp/toukei/saikin/hw/k-iryohi/24/dl/R06kekka.pdf
+・厚生労働省 第218回社会保障審議会医療保険部会 資料3 後期高齢者医療制度における金融所得の公平な反映のスケジュールについて（10月16日） https://www.mhlw.go.jp/content/12401000/001759824.pdf
+・厚生労働省 第137回社会保障審議会介護保険部会（10月26日） https://www.mhlw.go.jp/stf/newpage_76887.html
+・同 資料1 持続可能性の確保（給付と負担）について https://www.mhlw.go.jp/content/12300000/001762518.pdf
+・時事通信 金融所得、29年8月から反映＝後期高齢者の医療費負担 https://sp.m.jiji.com/article/show/3889546
+・東京新聞 「金融所得」も医療費負担割合や保険料の算定に反映 https://www.tokyo-np.co.jp/article/522055
+・CBnewsマネジメント 介護保険にも金融所得反映 議論本格化 https://www.cbnews.jp/news/entry/20261027130337
+・NHK 介護保険制度の見直しへ議論本格化 https://news.web.nhk/newsweb/na/nd-20261027de66079
+・OANDA証券 日経平均サマリー（30日） https://www.oanda.jp/lab-education/market_news/mn_1041546_202610301753/
+・財経新聞 30日の米国株式市場は続落 https://www.zaikei.co.jp/article/20261031/875705.html
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼事務所サイト（実務に使えるコラム・無料ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=pro</description>
+      <enclosure url="https://g1029202.github.io/podcast/episodes/2026-11-02.mp3" length="14084972" type="audio/mpeg"/>
+      <guid isPermaLink="false">kinyu-pro-asa-radio-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>1173</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#50 来週の実務カレンダー：生命保険の破綻対策、国の補助を期限なしに？各社の負担枠8600億円と試算1兆1373億円／6日夜に米10月雇用統計（9月は2万9000人増）</title>
       <description>日曜は来週（11月2日〜7日）の実務カレンダーです。3日は文化の日で東京市場は取引なし、同じ日に米中間選挙。米国は11月1日に冬時間へ切り替わり、雇用統計は日本時間22時30分に。深掘り1本目は生命保険のセーフティネット：10月30日の金融審議会・保険制度ワーキング・グループで、金融庁が2027年3月末に期限を迎える政府補助（2000年創設・6回延長・発動実績なし）について、①統計的手法で各社の負担枠（事前積立4000億円＋政府保証付借入4600億円＝8600億円）を引き上げ ②事前積立金の運用益を財源に繰り入れ ③定期的な検証、を前提に恒久化も視野に調整する案を提示。宮川参事の試算（2007年4月〜2026年3月のデータで10万通りのシナリオ）では資金援助の必要額は100年に1回で約4105億円、500年に1回で約8302億円、1000年に1回で約1兆1373億円。生命保険協会は恒久化を要望（ESR全社平均215%・過去の資金援助は累計約7811億円をすべて業界負担）。補償は責任準備金の原則90%で保険金の9割ではない点、最低保証のない運用実績連動型は対象外の点を整理。あわせて再保険キャプティブ制度（最低資本金10億円→1000万円程度の案）。2本目は米10月雇用統計（6日）：9月は雇用者数2万9000人増・失業率4.2%・時給は前年比3.0%増、7〜8月は計6万人の下向き修正。FOMCは10月28日に3.75〜4%で変えず（10対2、反対の2人は0.25%の利上げを主張）、次回は12月8〜9日。強い場合・弱い場合の2つの道で整理し、断定はしません。
