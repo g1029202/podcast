@@ -5,13 +5,29 @@
     <description>むずかしい経済ニュースを、台所のラジオ感覚で。50代60代の暮らしに関わるお金のニュースを3本、解説役のケンと聞き手のミナが毎朝15分、やさしい言葉でお届けします。土曜は今週のおさらい、日曜は来週の予定のご案内です。数字は暮らしのモノサシに翻訳。特定の金融商品をおすすめする番組ではありません。監修: 片岡FP事務所</description>
     <link>https://g1029202.github.io/podcast/yasashii</link>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 22:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:51:02 +0000</lastBuildDate>
     <atom:link href="https://g1029202.github.io/podcast/yasashii/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ゆるっとマネーニュース</itunes:author>
     <itunes:owner><itunes:name>ゆるっとマネーニュース</itunes:name><itunes:email>ns.3339y@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://g1029202.github.io/podcast/yasashii/cover.jpg"/>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>#46 家のローン、11月は固定の金利が下がりました——医療費に一年の上限、アメリカの選挙のあとの株と原油</title>
+      <description>木曜日のきょうは、3本です。1本目は、10月30日に大手の銀行5つが発表した11月の家のローンの金利のお話。4つで10年固定が下がり（いちばん低いところで3.4%）、変動金利は5つとも変わらず。これから借りる方・借り換えを考える方・固定や変動で借りている方で、受け止め方がどう違うかを整理します。2本目は、2026年8月から始まった高額療養費の「年間上限」（一年は8月から翌年7月まで）のお話。厚生労働省の例では、70歳未満・年収約370万〜510万円の方が医療費100万円の治療を受けた場合、自己負担は約9.3万円までです。3本目は、アメリカの議会の選挙のあとの株の上昇と、原油の値段が一日で8%近く下がったお話。「ちょこっと解説」は、銀行の固定金利が下がったら、いま固定で借りている人の返済額はどうなるか、のクイズです。
+
+──────────
+当番組は 片岡FP事務所 の運営です。
+▼個別相談のご予約はこちら
+https://www.jicoo.com/t/vrIcyskAhnFn/e/Y8r9cYaTdZLo
+▼事務所サイト（お金のコラム・無料診断ツール）
+https://kataoka-fp.com/?utm_source=podcast&amp;utm_medium=yurutto</description>
+      <enclosure url="https://g1029202.github.io/podcast/yasashii/episodes/2026-11-05.mp3" length="10394540" type="audio/mpeg"/>
+      <guid isPermaLink="false">yurutto-money-news-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>866</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#44 75歳以上の医療、株の配当も保険料の計算に（2029年8月から）——日本銀行は利上げ見送り、証券会社の情報流出と“おわびのふり”メール</title>
       <description>月曜日のきょうは、3本です。1本目は、75歳以上の方の医療で、確定申告をしていない株の配当なども保険料と窓口の負担割合の計算に入れる仕組み（6月5日公布の改正法、10月16日の厚生労働省の日程案）。2029年8月から反映で、もとになるのは2028年の1年分です。介護保険の2割負担の分かれ目と預貯金の扱いは、10月26日に議論が本格化した段階でまだ決まっていません。2本目は、10月30日に日本銀行が利上げを見送ったことと、同じ日に日経平均が1369円下げたお話。3本目は、大和証券の委託先への不正アクセスで約11万人の情報が外に出た可能性がある件（10月5日発表）と、おわびのふりをしたメールの見分け方です。「ちょこっと解説」は、医療費のうち窓口で払っている割合のクイズです（2024年度は11.8%）。
